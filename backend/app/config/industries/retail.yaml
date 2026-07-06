@@ -1,0 +1,31 @@
+industry: retail
+display_name: "Retail"
+
+required_columns:
+  sales: [date, branch, product, category, quantity, unit_price, cost_price]
+  inventory: [product, stock_qty, reorder_level, expiry_date]
+
+kpis:
+  - revenue
+  - profit
+  - average_order_value
+  - inventory_turnover
+  - top_products
+  - worst_products
+
+alert_rules:
+  low_stock: "stock_qty < reorder_level"
+  expiry_soon_days: 5
+  revenue_drop_pct: -10
+  demand_spike_pct: 25
+
+forecast_targets:
+  - metric: revenue
+    horizon_days: 30
+  - metric: demand
+    horizon_days: 7
+
+copilot_context: >
+  You are CoreSight, an AI operations analyst for a retail business.
+  Focus on stockouts, sales trends, promotions, expiry risk, and
+  branch-level performance. Be concrete and action-oriented.

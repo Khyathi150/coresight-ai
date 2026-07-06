@@ -1,0 +1,3438 @@
+date,branch,product,category,quantity,unit_price,cost_price
+2026-05-07,Branch 1,Bread,Bakery,1,40,28
+2026-05-07,Branch 1,Apples 1kg,Produce,2,110,80
+2026-05-07,Branch 1,Butter 200g,Dairy,2,95,72
+2026-05-07,Branch 1,Bread,Bakery,1,40,28
+2026-05-07,Branch 1,Chips,Snacks,4,20,12
+2026-05-07,Branch 1,Milk 1L,Dairy,1,32,24
+2026-05-07,Branch 1,Bread,Bakery,2,40,28
+2026-05-07,Branch 1,Butter 200g,Dairy,1,95,72
+2026-05-07,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-05-07,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-05-07,Branch 1,Butter 200g,Dairy,4,95,72
+2026-05-07,Branch 1,Chips,Snacks,3,20,12
+2026-05-07,Branch 1,Milk 1L,Dairy,2,32,24
+2026-05-07,Branch 1,Rice 5kg,Staples,3,420,350
+2026-05-07,Branch 1,Apples 1kg,Produce,2,110,80
+2026-05-07,Branch 1,Butter 200g,Dairy,3,95,72
+2026-05-07,Branch 1,Bread,Bakery,1,40,28
+2026-05-07,Branch 1,Rice 5kg,Staples,1,420,350
+2026-05-07,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-05-07,Branch 1,Chips,Snacks,3,20,12
+2026-05-07,Branch 1,Milk 1L,Dairy,4,32,24
+2026-05-07,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-05-07,Branch 2,Rice 5kg,Staples,1,420,350
+2026-05-07,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-05-07,Branch 2,Chips,Snacks,3,20,12
+2026-05-07,Branch 2,Chips,Snacks,2,20,12
+2026-05-07,Branch 2,Bread,Bakery,1,40,28
+2026-05-07,Branch 2,Butter 200g,Dairy,3,95,72
+2026-05-07,Branch 2,Bread,Bakery,2,40,28
+2026-05-07,Branch 2,Bread,Bakery,4,40,28
+2026-05-07,Branch 2,Apples 1kg,Produce,4,110,80
+2026-05-07,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-05-07,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-05-07,Branch 2,Butter 200g,Dairy,3,95,72
+2026-05-07,Branch 3,Bread,Bakery,2,40,28
+2026-05-07,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-05-07,Branch 3,Eggs (12),Dairy,4,78,60
+2026-05-07,Branch 3,Rice 5kg,Staples,3,420,350
+2026-05-07,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-05-07,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-05-07,Branch 3,Butter 200g,Dairy,1,95,72
+2026-05-07,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-05-07,Branch 3,Apples 1kg,Produce,1,110,80
+2026-05-07,Branch 3,Butter 200g,Dairy,3,95,72
+2026-05-07,Branch 3,Butter 200g,Dairy,4,95,72
+2026-05-07,Branch 3,Rice 5kg,Staples,4,420,350
+2026-05-07,Branch 3,Eggs (12),Dairy,3,78,60
+2026-05-07,Branch 3,Eggs (12),Dairy,2,78,60
+2026-05-07,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-05-07,Branch 3,Chips,Snacks,4,20,12
+2026-05-07,Branch 3,Chips,Snacks,4,20,12
+2026-05-07,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-05-07,Branch 3,Eggs (12),Dairy,4,78,60
+2026-05-08,Branch 1,Bread,Bakery,1,40,28
+2026-05-08,Branch 1,Bread,Bakery,2,40,28
+2026-05-08,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-08,Branch 1,Chips,Snacks,1,20,12
+2026-05-08,Branch 1,Rice 5kg,Staples,4,420,350
+2026-05-08,Branch 1,Chips,Snacks,4,20,12
+2026-05-08,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-05-08,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-05-08,Branch 1,Bread,Bakery,3,40,28
+2026-05-08,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-05-08,Branch 1,Apples 1kg,Produce,4,110,80
+2026-05-08,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-08,Branch 1,Milk 1L,Dairy,3,32,24
+2026-05-08,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-05-08,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-05-08,Branch 1,Apples 1kg,Produce,2,110,80
+2026-05-08,Branch 1,Eggs (12),Dairy,3,78,60
+2026-05-08,Branch 1,Eggs (12),Dairy,1,78,60
+2026-05-08,Branch 1,Chips,Snacks,3,20,12
+2026-05-08,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-08,Branch 1,Bread,Bakery,3,40,28
+2026-05-08,Branch 1,Apples 1kg,Produce,2,110,80
+2026-05-08,Branch 1,Milk 1L,Dairy,2,32,24
+2026-05-08,Branch 2,Chips,Snacks,1,20,12
+2026-05-08,Branch 2,Bread,Bakery,4,40,28
+2026-05-08,Branch 2,Bread,Bakery,2,40,28
+2026-05-08,Branch 2,Eggs (12),Dairy,4,78,60
+2026-05-08,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-05-08,Branch 2,Apples 1kg,Produce,4,110,80
+2026-05-08,Branch 2,Butter 200g,Dairy,2,95,72
+2026-05-08,Branch 2,Apples 1kg,Produce,4,110,80
+2026-05-08,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-05-08,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-05-08,Branch 2,Bread,Bakery,2,40,28
+2026-05-08,Branch 2,Butter 200g,Dairy,1,95,72
+2026-05-08,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-08,Branch 3,Chips,Snacks,2,20,12
+2026-05-08,Branch 3,Chips,Snacks,2,20,12
+2026-05-08,Branch 3,Milk 1L,Dairy,1,32,24
+2026-05-08,Branch 3,Milk 1L,Dairy,2,32,24
+2026-05-08,Branch 3,Bread,Bakery,1,40,28
+2026-05-08,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-05-08,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-05-08,Branch 3,Apples 1kg,Produce,4,110,80
+2026-05-08,Branch 3,Butter 200g,Dairy,2,95,72
+2026-05-08,Branch 3,Chips,Snacks,4,20,12
+2026-05-08,Branch 3,Butter 200g,Dairy,4,95,72
+2026-05-08,Branch 3,Rice 5kg,Staples,2,420,350
+2026-05-08,Branch 3,Bread,Bakery,1,40,28
+2026-05-08,Branch 3,Rice 5kg,Staples,3,420,350
+2026-05-08,Branch 3,Rice 5kg,Staples,4,420,350
+2026-05-09,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-09,Branch 1,Bread,Bakery,1,40,28
+2026-05-09,Branch 1,Rice 5kg,Staples,3,420,350
+2026-05-09,Branch 1,Bread,Bakery,2,40,28
+2026-05-09,Branch 1,Butter 200g,Dairy,2,95,72
+2026-05-09,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-05-09,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-09,Branch 1,Eggs (12),Dairy,3,78,60
+2026-05-09,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-09,Branch 1,Bread,Bakery,4,40,28
+2026-05-09,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-05-09,Branch 1,Milk 1L,Dairy,1,32,24
+2026-05-09,Branch 1,Bread,Bakery,2,40,28
+2026-05-09,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-09,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-05-09,Branch 1,Butter 200g,Dairy,4,95,72
+2026-05-09,Branch 1,Milk 1L,Dairy,2,32,24
+2026-05-09,Branch 1,Rice 5kg,Staples,1,420,350
+2026-05-09,Branch 1,Rice 5kg,Staples,3,420,350
+2026-05-09,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-09,Branch 1,Rice 5kg,Staples,4,420,350
+2026-05-09,Branch 1,Eggs (12),Dairy,2,78,60
+2026-05-09,Branch 2,Apples 1kg,Produce,2,110,80
+2026-05-09,Branch 2,Milk 1L,Dairy,1,32,24
+2026-05-09,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-09,Branch 2,Milk 1L,Dairy,4,32,24
+2026-05-09,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-05-09,Branch 2,Milk 1L,Dairy,1,32,24
+2026-05-09,Branch 2,Eggs (12),Dairy,1,78,60
+2026-05-09,Branch 2,Chips,Snacks,1,20,12
+2026-05-09,Branch 2,Butter 200g,Dairy,4,95,72
+2026-05-09,Branch 2,Bread,Bakery,2,40,28
+2026-05-09,Branch 2,Chips,Snacks,1,20,12
+2026-05-09,Branch 2,Chips,Snacks,1,20,12
+2026-05-09,Branch 2,Rice 5kg,Staples,3,420,350
+2026-05-09,Branch 2,Apples 1kg,Produce,2,110,80
+2026-05-09,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-05-09,Branch 2,Apples 1kg,Produce,4,110,80
+2026-05-09,Branch 2,Eggs (12),Dairy,3,78,60
+2026-05-09,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-05-09,Branch 2,Bread,Bakery,1,40,28
+2026-05-09,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-05-09,Branch 2,Bread,Bakery,2,40,28
+2026-05-09,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-05-09,Branch 2,Eggs (12),Dairy,3,78,60
+2026-05-09,Branch 2,Bread,Bakery,2,40,28
+2026-05-09,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-05-09,Branch 3,Eggs (12),Dairy,4,78,60
+2026-05-09,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-05-09,Branch 3,Chips,Snacks,1,20,12
+2026-05-09,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-05-09,Branch 3,Bread,Bakery,2,40,28
+2026-05-09,Branch 3,Apples 1kg,Produce,1,110,80
+2026-05-09,Branch 3,Bread,Bakery,2,40,28
+2026-05-09,Branch 3,Apples 1kg,Produce,3,110,80
+2026-05-09,Branch 3,Chips,Snacks,2,20,12
+2026-05-09,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-05-09,Branch 3,Apples 1kg,Produce,4,110,80
+2026-05-09,Branch 3,Apples 1kg,Produce,1,110,80
+2026-05-09,Branch 3,Bread,Bakery,4,40,28
+2026-05-09,Branch 3,Apples 1kg,Produce,1,110,80
+2026-05-09,Branch 3,Milk 1L,Dairy,3,32,24
+2026-05-09,Branch 3,Eggs (12),Dairy,3,78,60
+2026-05-09,Branch 3,Eggs (12),Dairy,4,78,60
+2026-05-09,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-05-10,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-05-10,Branch 1,Bread,Bakery,1,40,28
+2026-05-10,Branch 1,Eggs (12),Dairy,1,78,60
+2026-05-10,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-05-10,Branch 1,Rice 5kg,Staples,2,420,350
+2026-05-10,Branch 1,Milk 1L,Dairy,3,32,24
+2026-05-10,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-05-10,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-05-10,Branch 1,Butter 200g,Dairy,1,95,72
+2026-05-10,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-05-10,Branch 1,Chips,Snacks,2,20,12
+2026-05-10,Branch 1,Butter 200g,Dairy,2,95,72
+2026-05-10,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-10,Branch 1,Milk 1L,Dairy,2,32,24
+2026-05-10,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-05-10,Branch 1,Butter 200g,Dairy,3,95,72
+2026-05-10,Branch 1,Eggs (12),Dairy,1,78,60
+2026-05-10,Branch 1,Rice 5kg,Staples,1,420,350
+2026-05-10,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-10,Branch 1,Butter 200g,Dairy,4,95,72
+2026-05-10,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-05-10,Branch 1,Butter 200g,Dairy,2,95,72
+2026-05-10,Branch 2,Milk 1L,Dairy,2,32,24
+2026-05-10,Branch 2,Rice 5kg,Staples,3,420,350
+2026-05-10,Branch 2,Apples 1kg,Produce,1,110,80
+2026-05-10,Branch 2,Apples 1kg,Produce,3,110,80
+2026-05-10,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-05-10,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-05-10,Branch 2,Milk 1L,Dairy,1,32,24
+2026-05-10,Branch 2,Apples 1kg,Produce,2,110,80
+2026-05-10,Branch 2,Chips,Snacks,3,20,12
+2026-05-10,Branch 2,Milk 1L,Dairy,1,32,24
+2026-05-10,Branch 2,Chips,Snacks,4,20,12
+2026-05-10,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-05-10,Branch 2,Rice 5kg,Staples,1,420,350
+2026-05-10,Branch 2,Rice 5kg,Staples,2,420,350
+2026-05-10,Branch 2,Apples 1kg,Produce,1,110,80
+2026-05-10,Branch 2,Rice 5kg,Staples,1,420,350
+2026-05-10,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-05-10,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-05-10,Branch 3,Bread,Bakery,3,40,28
+2026-05-10,Branch 3,Chips,Snacks,3,20,12
+2026-05-10,Branch 3,Bread,Bakery,3,40,28
+2026-05-10,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-05-10,Branch 3,Rice 5kg,Staples,3,420,350
+2026-05-10,Branch 3,Rice 5kg,Staples,3,420,350
+2026-05-10,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-05-10,Branch 3,Butter 200g,Dairy,4,95,72
+2026-05-10,Branch 3,Rice 5kg,Staples,2,420,350
+2026-05-10,Branch 3,Chips,Snacks,3,20,12
+2026-05-10,Branch 3,Rice 5kg,Staples,1,420,350
+2026-05-10,Branch 3,Apples 1kg,Produce,3,110,80
+2026-05-10,Branch 3,Butter 200g,Dairy,4,95,72
+2026-05-10,Branch 3,Chips,Snacks,3,20,12
+2026-05-10,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-05-10,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-05-10,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-05-10,Branch 3,Eggs (12),Dairy,1,78,60
+2026-05-10,Branch 3,Apples 1kg,Produce,3,110,80
+2026-05-10,Branch 3,Bread,Bakery,2,40,28
+2026-05-10,Branch 3,Apples 1kg,Produce,2,110,80
+2026-05-10,Branch 3,Butter 200g,Dairy,2,95,72
+2026-05-10,Branch 3,Milk 1L,Dairy,1,32,24
+2026-05-10,Branch 3,Butter 200g,Dairy,4,95,72
+2026-05-11,Branch 1,Chips,Snacks,1,20,12
+2026-05-11,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-05-11,Branch 1,Chips,Snacks,2,20,12
+2026-05-11,Branch 1,Rice 5kg,Staples,4,420,350
+2026-05-11,Branch 1,Rice 5kg,Staples,2,420,350
+2026-05-11,Branch 1,Eggs (12),Dairy,1,78,60
+2026-05-11,Branch 1,Bread,Bakery,4,40,28
+2026-05-11,Branch 1,Butter 200g,Dairy,2,95,72
+2026-05-11,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-05-11,Branch 1,Milk 1L,Dairy,2,32,24
+2026-05-11,Branch 1,Bread,Bakery,4,40,28
+2026-05-11,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-11,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-05-11,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-05-11,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-05-11,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-11,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-11,Branch 1,Butter 200g,Dairy,3,95,72
+2026-05-11,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-05-11,Branch 2,Butter 200g,Dairy,3,95,72
+2026-05-11,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-05-11,Branch 2,Apples 1kg,Produce,2,110,80
+2026-05-11,Branch 2,Apples 1kg,Produce,3,110,80
+2026-05-11,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-11,Branch 2,Eggs (12),Dairy,2,78,60
+2026-05-11,Branch 2,Butter 200g,Dairy,4,95,72
+2026-05-11,Branch 2,Eggs (12),Dairy,2,78,60
+2026-05-11,Branch 2,Bread,Bakery,4,40,28
+2026-05-11,Branch 2,Rice 5kg,Staples,3,420,350
+2026-05-11,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-05-11,Branch 2,Rice 5kg,Staples,1,420,350
+2026-05-11,Branch 2,Butter 200g,Dairy,4,95,72
+2026-05-11,Branch 2,Rice 5kg,Staples,1,420,350
+2026-05-11,Branch 2,Chips,Snacks,4,20,12
+2026-05-11,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-05-11,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-05-11,Branch 3,Rice 5kg,Staples,4,420,350
+2026-05-11,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-05-11,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-05-11,Branch 3,Apples 1kg,Produce,4,110,80
+2026-05-11,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-05-11,Branch 3,Rice 5kg,Staples,3,420,350
+2026-05-11,Branch 3,Rice 5kg,Staples,2,420,350
+2026-05-11,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-05-11,Branch 3,Chips,Snacks,1,20,12
+2026-05-11,Branch 3,Rice 5kg,Staples,1,420,350
+2026-05-11,Branch 3,Bread,Bakery,4,40,28
+2026-05-11,Branch 3,Eggs (12),Dairy,4,78,60
+2026-05-11,Branch 3,Eggs (12),Dairy,1,78,60
+2026-05-11,Branch 3,Apples 1kg,Produce,4,110,80
+2026-05-11,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-05-11,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-05-11,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-05-11,Branch 3,Apples 1kg,Produce,4,110,80
+2026-05-12,Branch 1,Apples 1kg,Produce,1,110,80
+2026-05-12,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-12,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-05-12,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-05-12,Branch 1,Bread,Bakery,1,40,28
+2026-05-12,Branch 1,Milk 1L,Dairy,2,32,24
+2026-05-12,Branch 1,Butter 200g,Dairy,1,95,72
+2026-05-12,Branch 1,Chips,Snacks,2,20,12
+2026-05-12,Branch 1,Butter 200g,Dairy,2,95,72
+2026-05-12,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-12,Branch 1,Chips,Snacks,2,20,12
+2026-05-12,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-12,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-05-12,Branch 2,Chips,Snacks,1,20,12
+2026-05-12,Branch 2,Eggs (12),Dairy,3,78,60
+2026-05-12,Branch 2,Bread,Bakery,1,40,28
+2026-05-12,Branch 2,Apples 1kg,Produce,4,110,80
+2026-05-12,Branch 2,Rice 5kg,Staples,2,420,350
+2026-05-12,Branch 2,Bread,Bakery,2,40,28
+2026-05-12,Branch 2,Bread,Bakery,3,40,28
+2026-05-12,Branch 2,Chips,Snacks,1,20,12
+2026-05-12,Branch 2,Chips,Snacks,1,20,12
+2026-05-12,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-05-12,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-12,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-05-12,Branch 2,Milk 1L,Dairy,4,32,24
+2026-05-12,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-05-12,Branch 3,Rice 5kg,Staples,3,420,350
+2026-05-12,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-05-12,Branch 3,Rice 5kg,Staples,2,420,350
+2026-05-12,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-05-12,Branch 3,Chips,Snacks,4,20,12
+2026-05-12,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-05-12,Branch 3,Chips,Snacks,3,20,12
+2026-05-12,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-05-12,Branch 3,Bread,Bakery,3,40,28
+2026-05-12,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-05-12,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-05-12,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-05-12,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-05-12,Branch 3,Eggs (12),Dairy,4,78,60
+2026-05-12,Branch 3,Butter 200g,Dairy,3,95,72
+2026-05-13,Branch 1,Apples 1kg,Produce,3,110,80
+2026-05-13,Branch 1,Apples 1kg,Produce,3,110,80
+2026-05-13,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-05-13,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-05-13,Branch 1,Bread,Bakery,2,40,28
+2026-05-13,Branch 1,Rice 5kg,Staples,4,420,350
+2026-05-13,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-05-13,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-05-13,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-13,Branch 1,Bread,Bakery,3,40,28
+2026-05-13,Branch 1,Butter 200g,Dairy,4,95,72
+2026-05-13,Branch 1,Butter 200g,Dairy,3,95,72
+2026-05-13,Branch 1,Chips,Snacks,3,20,12
+2026-05-13,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-13,Branch 1,Rice 5kg,Staples,3,420,350
+2026-05-13,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-05-13,Branch 1,Apples 1kg,Produce,3,110,80
+2026-05-13,Branch 1,Apples 1kg,Produce,2,110,80
+2026-05-13,Branch 1,Bread,Bakery,2,40,28
+2026-05-13,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-13,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-05-13,Branch 2,Butter 200g,Dairy,2,95,72
+2026-05-13,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-05-13,Branch 2,Chips,Snacks,3,20,12
+2026-05-13,Branch 2,Bread,Bakery,2,40,28
+2026-05-13,Branch 2,Apples 1kg,Produce,2,110,80
+2026-05-13,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-05-13,Branch 2,Apples 1kg,Produce,1,110,80
+2026-05-13,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-05-13,Branch 2,Apples 1kg,Produce,1,110,80
+2026-05-13,Branch 2,Milk 1L,Dairy,3,32,24
+2026-05-13,Branch 2,Eggs (12),Dairy,4,78,60
+2026-05-13,Branch 2,Bread,Bakery,1,40,28
+2026-05-13,Branch 2,Chips,Snacks,3,20,12
+2026-05-13,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-05-13,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-05-13,Branch 2,Eggs (12),Dairy,1,78,60
+2026-05-13,Branch 2,Apples 1kg,Produce,4,110,80
+2026-05-13,Branch 2,Bread,Bakery,1,40,28
+2026-05-13,Branch 2,Rice 5kg,Staples,4,420,350
+2026-05-13,Branch 2,Bread,Bakery,1,40,28
+2026-05-13,Branch 2,Eggs (12),Dairy,2,78,60
+2026-05-13,Branch 2,Chips,Snacks,3,20,12
+2026-05-13,Branch 2,Bread,Bakery,2,40,28
+2026-05-13,Branch 2,Bread,Bakery,4,40,28
+2026-05-13,Branch 3,Chips,Snacks,2,20,12
+2026-05-13,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-05-13,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-05-13,Branch 3,Apples 1kg,Produce,4,110,80
+2026-05-13,Branch 3,Apples 1kg,Produce,1,110,80
+2026-05-13,Branch 3,Chips,Snacks,1,20,12
+2026-05-13,Branch 3,Butter 200g,Dairy,2,95,72
+2026-05-13,Branch 3,Apples 1kg,Produce,1,110,80
+2026-05-13,Branch 3,Eggs (12),Dairy,2,78,60
+2026-05-13,Branch 3,Eggs (12),Dairy,1,78,60
+2026-05-13,Branch 3,Eggs (12),Dairy,1,78,60
+2026-05-14,Branch 1,Rice 5kg,Staples,4,420,350
+2026-05-14,Branch 1,Chips,Snacks,4,20,12
+2026-05-14,Branch 1,Apples 1kg,Produce,1,110,80
+2026-05-14,Branch 1,Butter 200g,Dairy,3,95,72
+2026-05-14,Branch 1,Apples 1kg,Produce,4,110,80
+2026-05-14,Branch 1,Bread,Bakery,2,40,28
+2026-05-14,Branch 1,Apples 1kg,Produce,2,110,80
+2026-05-14,Branch 1,Rice 5kg,Staples,1,420,350
+2026-05-14,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-05-14,Branch 2,Eggs (12),Dairy,3,78,60
+2026-05-14,Branch 2,Eggs (12),Dairy,1,78,60
+2026-05-14,Branch 2,Milk 1L,Dairy,2,32,24
+2026-05-14,Branch 2,Apples 1kg,Produce,3,110,80
+2026-05-14,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-05-14,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-05-14,Branch 2,Rice 5kg,Staples,3,420,350
+2026-05-14,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-05-14,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-05-14,Branch 2,Chips,Snacks,1,20,12
+2026-05-14,Branch 2,Rice 5kg,Staples,3,420,350
+2026-05-14,Branch 2,Chips,Snacks,3,20,12
+2026-05-14,Branch 2,Milk 1L,Dairy,1,32,24
+2026-05-14,Branch 2,Butter 200g,Dairy,1,95,72
+2026-05-14,Branch 2,Apples 1kg,Produce,1,110,80
+2026-05-14,Branch 3,Eggs (12),Dairy,4,78,60
+2026-05-14,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-05-14,Branch 3,Apples 1kg,Produce,2,110,80
+2026-05-14,Branch 3,Chips,Snacks,4,20,12
+2026-05-14,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-05-14,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-05-14,Branch 3,Rice 5kg,Staples,3,420,350
+2026-05-14,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-05-14,Branch 3,Eggs (12),Dairy,3,78,60
+2026-05-14,Branch 3,Rice 5kg,Staples,4,420,350
+2026-05-14,Branch 3,Apples 1kg,Produce,4,110,80
+2026-05-14,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-05-14,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-05-14,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-05-14,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-05-14,Branch 3,Rice 5kg,Staples,1,420,350
+2026-05-14,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-05-14,Branch 3,Rice 5kg,Staples,1,420,350
+2026-05-14,Branch 3,Butter 200g,Dairy,3,95,72
+2026-05-14,Branch 3,Chips,Snacks,4,20,12
+2026-05-14,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-05-14,Branch 3,Butter 200g,Dairy,3,95,72
+2026-05-14,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-05-15,Branch 1,Apples 1kg,Produce,4,110,80
+2026-05-15,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-15,Branch 1,Milk 1L,Dairy,2,32,24
+2026-05-15,Branch 1,Eggs (12),Dairy,3,78,60
+2026-05-15,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-05-15,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-05-15,Branch 1,Bread,Bakery,2,40,28
+2026-05-15,Branch 1,Bread,Bakery,4,40,28
+2026-05-15,Branch 1,Bread,Bakery,2,40,28
+2026-05-15,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-15,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-05-15,Branch 1,Rice 5kg,Staples,4,420,350
+2026-05-15,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-15,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-15,Branch 1,Rice 5kg,Staples,2,420,350
+2026-05-15,Branch 2,Chips,Snacks,2,20,12
+2026-05-15,Branch 2,Bread,Bakery,3,40,28
+2026-05-15,Branch 2,Rice 5kg,Staples,3,420,350
+2026-05-15,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-05-15,Branch 2,Milk 1L,Dairy,3,32,24
+2026-05-15,Branch 2,Apples 1kg,Produce,4,110,80
+2026-05-15,Branch 2,Eggs (12),Dairy,4,78,60
+2026-05-15,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-05-15,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-05-15,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-05-15,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-05-15,Branch 2,Butter 200g,Dairy,2,95,72
+2026-05-15,Branch 2,Chips,Snacks,4,20,12
+2026-05-15,Branch 3,Butter 200g,Dairy,4,95,72
+2026-05-15,Branch 3,Milk 1L,Dairy,3,32,24
+2026-05-15,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-05-15,Branch 3,Rice 5kg,Staples,2,420,350
+2026-05-15,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-05-15,Branch 3,Eggs (12),Dairy,3,78,60
+2026-05-15,Branch 3,Bread,Bakery,4,40,28
+2026-05-15,Branch 3,Bread,Bakery,4,40,28
+2026-05-15,Branch 3,Milk 1L,Dairy,2,32,24
+2026-05-15,Branch 3,Rice 5kg,Staples,2,420,350
+2026-05-15,Branch 3,Bread,Bakery,4,40,28
+2026-05-15,Branch 3,Apples 1kg,Produce,3,110,80
+2026-05-15,Branch 3,Chips,Snacks,4,20,12
+2026-05-15,Branch 3,Bread,Bakery,3,40,28
+2026-05-15,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-05-15,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-05-15,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-05-15,Branch 3,Chips,Snacks,1,20,12
+2026-05-15,Branch 3,Butter 200g,Dairy,3,95,72
+2026-05-15,Branch 3,Butter 200g,Dairy,1,95,72
+2026-05-15,Branch 3,Rice 5kg,Staples,1,420,350
+2026-05-15,Branch 3,Bread,Bakery,4,40,28
+2026-05-16,Branch 1,Eggs (12),Dairy,3,78,60
+2026-05-16,Branch 1,Milk 1L,Dairy,1,32,24
+2026-05-16,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-05-16,Branch 1,Apples 1kg,Produce,3,110,80
+2026-05-16,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-05-16,Branch 1,Eggs (12),Dairy,2,78,60
+2026-05-16,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-05-16,Branch 1,Chips,Snacks,2,20,12
+2026-05-16,Branch 1,Eggs (12),Dairy,2,78,60
+2026-05-16,Branch 1,Bread,Bakery,4,40,28
+2026-05-16,Branch 1,Chips,Snacks,2,20,12
+2026-05-16,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-16,Branch 1,Butter 200g,Dairy,4,95,72
+2026-05-16,Branch 1,Apples 1kg,Produce,4,110,80
+2026-05-16,Branch 1,Apples 1kg,Produce,1,110,80
+2026-05-16,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-16,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-05-16,Branch 1,Bread,Bakery,4,40,28
+2026-05-16,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-05-16,Branch 1,Rice 5kg,Staples,3,420,350
+2026-05-16,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-16,Branch 1,Butter 200g,Dairy,4,95,72
+2026-05-16,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-16,Branch 1,Butter 200g,Dairy,4,95,72
+2026-05-16,Branch 1,Chips,Snacks,3,20,12
+2026-05-16,Branch 1,Chips,Snacks,3,20,12
+2026-05-16,Branch 1,Apples 1kg,Produce,1,110,80
+2026-05-16,Branch 2,Rice 5kg,Staples,3,420,350
+2026-05-16,Branch 2,Milk 1L,Dairy,1,32,24
+2026-05-16,Branch 2,Chips,Snacks,4,20,12
+2026-05-16,Branch 2,Apples 1kg,Produce,2,110,80
+2026-05-16,Branch 2,Chips,Snacks,3,20,12
+2026-05-16,Branch 2,Butter 200g,Dairy,2,95,72
+2026-05-16,Branch 2,Chips,Snacks,3,20,12
+2026-05-16,Branch 2,Eggs (12),Dairy,1,78,60
+2026-05-16,Branch 2,Milk 1L,Dairy,3,32,24
+2026-05-16,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-05-16,Branch 2,Chips,Snacks,3,20,12
+2026-05-16,Branch 2,Eggs (12),Dairy,1,78,60
+2026-05-16,Branch 2,Apples 1kg,Produce,3,110,80
+2026-05-16,Branch 2,Rice 5kg,Staples,2,420,350
+2026-05-16,Branch 2,Butter 200g,Dairy,2,95,72
+2026-05-16,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-05-16,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-05-16,Branch 2,Eggs (12),Dairy,3,78,60
+2026-05-16,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-05-16,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-16,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-05-16,Branch 2,Eggs (12),Dairy,2,78,60
+2026-05-16,Branch 2,Rice 5kg,Staples,3,420,350
+2026-05-16,Branch 2,Bread,Bakery,4,40,28
+2026-05-16,Branch 2,Milk 1L,Dairy,3,32,24
+2026-05-16,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-05-16,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-05-16,Branch 2,Apples 1kg,Produce,4,110,80
+2026-05-16,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-05-16,Branch 3,Butter 200g,Dairy,4,95,72
+2026-05-16,Branch 3,Milk 1L,Dairy,3,32,24
+2026-05-16,Branch 3,Chips,Snacks,2,20,12
+2026-05-16,Branch 3,Bread,Bakery,4,40,28
+2026-05-16,Branch 3,Apples 1kg,Produce,4,110,80
+2026-05-16,Branch 3,Bread,Bakery,2,40,28
+2026-05-16,Branch 3,Milk 1L,Dairy,1,32,24
+2026-05-16,Branch 3,Apples 1kg,Produce,4,110,80
+2026-05-16,Branch 3,Bread,Bakery,1,40,28
+2026-05-16,Branch 3,Butter 200g,Dairy,2,95,72
+2026-05-16,Branch 3,Rice 5kg,Staples,4,420,350
+2026-05-16,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-05-16,Branch 3,Chips,Snacks,2,20,12
+2026-05-16,Branch 3,Rice 5kg,Staples,1,420,350
+2026-05-16,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-05-16,Branch 3,Apples 1kg,Produce,1,110,80
+2026-05-16,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-05-16,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-05-16,Branch 3,Butter 200g,Dairy,3,95,72
+2026-05-17,Branch 1,Bread,Bakery,3,40,28
+2026-05-17,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-05-17,Branch 1,Milk 1L,Dairy,4,32,24
+2026-05-17,Branch 1,Apples 1kg,Produce,2,110,80
+2026-05-17,Branch 1,Bread,Bakery,4,40,28
+2026-05-17,Branch 1,Bread,Bakery,2,40,28
+2026-05-17,Branch 1,Chips,Snacks,1,20,12
+2026-05-17,Branch 1,Milk 1L,Dairy,3,32,24
+2026-05-17,Branch 1,Butter 200g,Dairy,2,95,72
+2026-05-17,Branch 1,Chips,Snacks,2,20,12
+2026-05-17,Branch 1,Bread,Bakery,2,40,28
+2026-05-17,Branch 1,Chips,Snacks,2,20,12
+2026-05-17,Branch 1,Butter 200g,Dairy,3,95,72
+2026-05-17,Branch 1,Eggs (12),Dairy,1,78,60
+2026-05-17,Branch 1,Apples 1kg,Produce,2,110,80
+2026-05-17,Branch 1,Eggs (12),Dairy,3,78,60
+2026-05-17,Branch 1,Eggs (12),Dairy,1,78,60
+2026-05-17,Branch 1,Milk 1L,Dairy,2,32,24
+2026-05-17,Branch 1,Milk 1L,Dairy,3,32,24
+2026-05-17,Branch 1,Butter 200g,Dairy,3,95,72
+2026-05-17,Branch 1,Milk 1L,Dairy,2,32,24
+2026-05-17,Branch 1,Apples 1kg,Produce,1,110,80
+2026-05-17,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-17,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-05-17,Branch 1,Bread,Bakery,4,40,28
+2026-05-17,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-17,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-05-17,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-17,Branch 1,Chips,Snacks,1,20,12
+2026-05-17,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-05-17,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-05-17,Branch 2,Milk 1L,Dairy,4,32,24
+2026-05-17,Branch 2,Rice 5kg,Staples,4,420,350
+2026-05-17,Branch 2,Bread,Bakery,4,40,28
+2026-05-17,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-05-17,Branch 2,Bread,Bakery,3,40,28
+2026-05-17,Branch 2,Chips,Snacks,2,20,12
+2026-05-17,Branch 2,Bread,Bakery,2,40,28
+2026-05-17,Branch 2,Apples 1kg,Produce,3,110,80
+2026-05-17,Branch 2,Rice 5kg,Staples,3,420,350
+2026-05-17,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-05-17,Branch 2,Bread,Bakery,1,40,28
+2026-05-17,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-05-17,Branch 2,Rice 5kg,Staples,4,420,350
+2026-05-17,Branch 2,Butter 200g,Dairy,4,95,72
+2026-05-17,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-05-17,Branch 2,Rice 5kg,Staples,4,420,350
+2026-05-17,Branch 2,Bread,Bakery,3,40,28
+2026-05-17,Branch 2,Rice 5kg,Staples,3,420,350
+2026-05-17,Branch 3,Apples 1kg,Produce,3,110,80
+2026-05-17,Branch 3,Eggs (12),Dairy,4,78,60
+2026-05-17,Branch 3,Bread,Bakery,1,40,28
+2026-05-17,Branch 3,Bread,Bakery,1,40,28
+2026-05-17,Branch 3,Rice 5kg,Staples,1,420,350
+2026-05-17,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-05-17,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-05-17,Branch 3,Chips,Snacks,3,20,12
+2026-05-17,Branch 3,Bread,Bakery,4,40,28
+2026-05-17,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-05-17,Branch 3,Milk 1L,Dairy,3,32,24
+2026-05-17,Branch 3,Chips,Snacks,3,20,12
+2026-05-17,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-05-17,Branch 3,Chips,Snacks,2,20,12
+2026-05-17,Branch 3,Eggs (12),Dairy,4,78,60
+2026-05-17,Branch 3,Butter 200g,Dairy,1,95,72
+2026-05-17,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-05-17,Branch 3,Bread,Bakery,3,40,28
+2026-05-17,Branch 3,Chips,Snacks,2,20,12
+2026-05-18,Branch 1,Rice 5kg,Staples,1,420,350
+2026-05-18,Branch 1,Chips,Snacks,3,20,12
+2026-05-18,Branch 1,Milk 1L,Dairy,2,32,24
+2026-05-18,Branch 1,Apples 1kg,Produce,3,110,80
+2026-05-18,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-05-18,Branch 1,Milk 1L,Dairy,2,32,24
+2026-05-18,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-18,Branch 1,Bread,Bakery,2,40,28
+2026-05-18,Branch 1,Milk 1L,Dairy,1,32,24
+2026-05-18,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-05-18,Branch 1,Rice 5kg,Staples,4,420,350
+2026-05-18,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-18,Branch 1,Eggs (12),Dairy,3,78,60
+2026-05-18,Branch 1,Apples 1kg,Produce,3,110,80
+2026-05-18,Branch 1,Chips,Snacks,1,20,12
+2026-05-18,Branch 1,Milk 1L,Dairy,2,32,24
+2026-05-18,Branch 1,Eggs (12),Dairy,1,78,60
+2026-05-18,Branch 1,Bread,Bakery,3,40,28
+2026-05-18,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-05-18,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-05-18,Branch 1,Rice 5kg,Staples,3,420,350
+2026-05-18,Branch 2,Butter 200g,Dairy,1,95,72
+2026-05-18,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-05-18,Branch 2,Bread,Bakery,3,40,28
+2026-05-18,Branch 2,Chips,Snacks,4,20,12
+2026-05-18,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-05-18,Branch 2,Milk 1L,Dairy,2,32,24
+2026-05-18,Branch 2,Rice 5kg,Staples,1,420,350
+2026-05-18,Branch 2,Milk 1L,Dairy,2,32,24
+2026-05-18,Branch 2,Apples 1kg,Produce,2,110,80
+2026-05-18,Branch 2,Eggs (12),Dairy,3,78,60
+2026-05-18,Branch 2,Apples 1kg,Produce,3,110,80
+2026-05-18,Branch 2,Bread,Bakery,1,40,28
+2026-05-18,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-05-18,Branch 2,Eggs (12),Dairy,2,78,60
+2026-05-18,Branch 2,Rice 5kg,Staples,2,420,350
+2026-05-18,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-05-18,Branch 2,Bread,Bakery,4,40,28
+2026-05-18,Branch 2,Milk 1L,Dairy,4,32,24
+2026-05-18,Branch 2,Milk 1L,Dairy,4,32,24
+2026-05-18,Branch 2,Bread,Bakery,3,40,28
+2026-05-18,Branch 2,Chips,Snacks,4,20,12
+2026-05-18,Branch 2,Chips,Snacks,4,20,12
+2026-05-18,Branch 2,Rice 5kg,Staples,3,420,350
+2026-05-18,Branch 2,Bread,Bakery,4,40,28
+2026-05-18,Branch 3,Milk 1L,Dairy,3,32,24
+2026-05-18,Branch 3,Eggs (12),Dairy,4,78,60
+2026-05-18,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-05-18,Branch 3,Rice 5kg,Staples,1,420,350
+2026-05-18,Branch 3,Butter 200g,Dairy,4,95,72
+2026-05-18,Branch 3,Chips,Snacks,4,20,12
+2026-05-18,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-05-18,Branch 3,Rice 5kg,Staples,3,420,350
+2026-05-18,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-05-18,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-05-18,Branch 3,Bread,Bakery,1,40,28
+2026-05-18,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-05-19,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-05-19,Branch 1,Eggs (12),Dairy,2,78,60
+2026-05-19,Branch 1,Bread,Bakery,2,40,28
+2026-05-19,Branch 1,Apples 1kg,Produce,2,110,80
+2026-05-19,Branch 1,Eggs (12),Dairy,2,78,60
+2026-05-19,Branch 1,Bread,Bakery,2,40,28
+2026-05-19,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-05-19,Branch 1,Chips,Snacks,4,20,12
+2026-05-19,Branch 1,Chips,Snacks,3,20,12
+2026-05-19,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-05-19,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-19,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-05-19,Branch 1,Apples 1kg,Produce,3,110,80
+2026-05-19,Branch 1,Chips,Snacks,1,20,12
+2026-05-19,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-05-19,Branch 1,Apples 1kg,Produce,4,110,80
+2026-05-19,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-19,Branch 1,Milk 1L,Dairy,3,32,24
+2026-05-19,Branch 1,Apples 1kg,Produce,1,110,80
+2026-05-19,Branch 1,Bread,Bakery,4,40,28
+2026-05-19,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-19,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-05-19,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-05-19,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-05-19,Branch 2,Milk 1L,Dairy,4,32,24
+2026-05-19,Branch 2,Bread,Bakery,3,40,28
+2026-05-19,Branch 2,Bread,Bakery,2,40,28
+2026-05-19,Branch 2,Milk 1L,Dairy,2,32,24
+2026-05-19,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-05-19,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-05-19,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-05-19,Branch 2,Apples 1kg,Produce,4,110,80
+2026-05-19,Branch 2,Rice 5kg,Staples,3,420,350
+2026-05-19,Branch 2,Chips,Snacks,1,20,12
+2026-05-19,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-19,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-19,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-05-19,Branch 2,Apples 1kg,Produce,3,110,80
+2026-05-19,Branch 2,Chips,Snacks,2,20,12
+2026-05-19,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-19,Branch 2,Chips,Snacks,2,20,12
+2026-05-19,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-05-19,Branch 2,Rice 5kg,Staples,2,420,350
+2026-05-19,Branch 3,Chips,Snacks,1,20,12
+2026-05-19,Branch 3,Apples 1kg,Produce,4,110,80
+2026-05-19,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-05-19,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-05-19,Branch 3,Rice 5kg,Staples,3,420,350
+2026-05-19,Branch 3,Milk 1L,Dairy,3,32,24
+2026-05-19,Branch 3,Apples 1kg,Produce,2,110,80
+2026-05-19,Branch 3,Butter 200g,Dairy,3,95,72
+2026-05-19,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-05-19,Branch 3,Butter 200g,Dairy,2,95,72
+2026-05-19,Branch 3,Eggs (12),Dairy,1,78,60
+2026-05-19,Branch 3,Apples 1kg,Produce,1,110,80
+2026-05-19,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-05-19,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-05-19,Branch 3,Chips,Snacks,4,20,12
+2026-05-19,Branch 3,Eggs (12),Dairy,2,78,60
+2026-05-19,Branch 3,Eggs (12),Dairy,2,78,60
+2026-05-19,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-05-20,Branch 1,Rice 5kg,Staples,3,420,350
+2026-05-20,Branch 1,Butter 200g,Dairy,4,95,72
+2026-05-20,Branch 1,Chips,Snacks,3,20,12
+2026-05-20,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-20,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-05-20,Branch 1,Apples 1kg,Produce,4,110,80
+2026-05-20,Branch 1,Butter 200g,Dairy,3,95,72
+2026-05-20,Branch 1,Chips,Snacks,4,20,12
+2026-05-20,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-20,Branch 1,Rice 5kg,Staples,4,420,350
+2026-05-20,Branch 1,Eggs (12),Dairy,2,78,60
+2026-05-20,Branch 1,Chips,Snacks,2,20,12
+2026-05-20,Branch 1,Apples 1kg,Produce,1,110,80
+2026-05-20,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-20,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-05-20,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-05-20,Branch 2,Apples 1kg,Produce,1,110,80
+2026-05-20,Branch 2,Eggs (12),Dairy,3,78,60
+2026-05-20,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-05-20,Branch 2,Rice 5kg,Staples,1,420,350
+2026-05-20,Branch 2,Butter 200g,Dairy,4,95,72
+2026-05-20,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-20,Branch 2,Rice 5kg,Staples,1,420,350
+2026-05-20,Branch 2,Rice 5kg,Staples,3,420,350
+2026-05-20,Branch 2,Butter 200g,Dairy,4,95,72
+2026-05-20,Branch 2,Bread,Bakery,3,40,28
+2026-05-20,Branch 2,Butter 200g,Dairy,1,95,72
+2026-05-20,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-20,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-05-20,Branch 2,Eggs (12),Dairy,1,78,60
+2026-05-20,Branch 2,Apples 1kg,Produce,4,110,80
+2026-05-20,Branch 2,Eggs (12),Dairy,4,78,60
+2026-05-20,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-05-20,Branch 2,Bread,Bakery,1,40,28
+2026-05-20,Branch 2,Apples 1kg,Produce,2,110,80
+2026-05-20,Branch 2,Eggs (12),Dairy,4,78,60
+2026-05-20,Branch 2,Bread,Bakery,3,40,28
+2026-05-20,Branch 2,Butter 200g,Dairy,3,95,72
+2026-05-20,Branch 2,Bread,Bakery,1,40,28
+2026-05-20,Branch 2,Butter 200g,Dairy,4,95,72
+2026-05-20,Branch 3,Chips,Snacks,4,20,12
+2026-05-20,Branch 3,Bread,Bakery,1,40,28
+2026-05-20,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-05-20,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-05-20,Branch 3,Eggs (12),Dairy,3,78,60
+2026-05-20,Branch 3,Rice 5kg,Staples,1,420,350
+2026-05-20,Branch 3,Chips,Snacks,3,20,12
+2026-05-20,Branch 3,Butter 200g,Dairy,4,95,72
+2026-05-20,Branch 3,Eggs (12),Dairy,1,78,60
+2026-05-20,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-05-20,Branch 3,Bread,Bakery,1,40,28
+2026-05-20,Branch 3,Rice 5kg,Staples,4,420,350
+2026-05-20,Branch 3,Milk 1L,Dairy,4,32,24
+2026-05-20,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-05-20,Branch 3,Milk 1L,Dairy,3,32,24
+2026-05-20,Branch 3,Bread,Bakery,3,40,28
+2026-05-20,Branch 3,Butter 200g,Dairy,1,95,72
+2026-05-21,Branch 1,Chips,Snacks,3,20,12
+2026-05-21,Branch 1,Eggs (12),Dairy,1,78,60
+2026-05-21,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-05-21,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-21,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-21,Branch 1,Eggs (12),Dairy,1,78,60
+2026-05-21,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-21,Branch 1,Apples 1kg,Produce,2,110,80
+2026-05-21,Branch 1,Milk 1L,Dairy,2,32,24
+2026-05-21,Branch 1,Milk 1L,Dairy,3,32,24
+2026-05-21,Branch 1,Apples 1kg,Produce,4,110,80
+2026-05-21,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-05-21,Branch 1,Apples 1kg,Produce,1,110,80
+2026-05-21,Branch 1,Butter 200g,Dairy,3,95,72
+2026-05-21,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-21,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-05-21,Branch 2,Bread,Bakery,3,40,28
+2026-05-21,Branch 2,Rice 5kg,Staples,4,420,350
+2026-05-21,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-05-21,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-05-21,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-05-21,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-05-21,Branch 2,Bread,Bakery,4,40,28
+2026-05-21,Branch 2,Bread,Bakery,4,40,28
+2026-05-21,Branch 2,Chips,Snacks,2,20,12
+2026-05-21,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-05-21,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-21,Branch 2,Bread,Bakery,3,40,28
+2026-05-21,Branch 2,Apples 1kg,Produce,3,110,80
+2026-05-21,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-05-21,Branch 3,Eggs (12),Dairy,4,78,60
+2026-05-21,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-05-21,Branch 3,Milk 1L,Dairy,3,32,24
+2026-05-21,Branch 3,Chips,Snacks,4,20,12
+2026-05-21,Branch 3,Apples 1kg,Produce,1,110,80
+2026-05-21,Branch 3,Bread,Bakery,4,40,28
+2026-05-21,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-05-21,Branch 3,Milk 1L,Dairy,2,32,24
+2026-05-21,Branch 3,Chips,Snacks,4,20,12
+2026-05-21,Branch 3,Milk 1L,Dairy,2,32,24
+2026-05-21,Branch 3,Bread,Bakery,2,40,28
+2026-05-21,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-05-21,Branch 3,Rice 5kg,Staples,1,420,350
+2026-05-21,Branch 3,Chips,Snacks,2,20,12
+2026-05-21,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-05-21,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-05-21,Branch 3,Bread,Bakery,2,40,28
+2026-05-21,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-05-21,Branch 3,Rice 5kg,Staples,3,420,350
+2026-05-21,Branch 3,Apples 1kg,Produce,2,110,80
+2026-05-21,Branch 3,Bread,Bakery,1,40,28
+2026-05-22,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-22,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-05-22,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-05-22,Branch 1,Apples 1kg,Produce,3,110,80
+2026-05-22,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-22,Branch 1,Chips,Snacks,3,20,12
+2026-05-22,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-22,Branch 1,Bread,Bakery,2,40,28
+2026-05-22,Branch 1,Bread,Bakery,4,40,28
+2026-05-22,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-22,Branch 1,Bread,Bakery,3,40,28
+2026-05-22,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-05-22,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-05-22,Branch 1,Apples 1kg,Produce,2,110,80
+2026-05-22,Branch 1,Eggs (12),Dairy,3,78,60
+2026-05-22,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-05-22,Branch 1,Bread,Bakery,2,40,28
+2026-05-22,Branch 1,Eggs (12),Dairy,2,78,60
+2026-05-22,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-22,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-05-22,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-22,Branch 1,Chips,Snacks,1,20,12
+2026-05-22,Branch 1,Bread,Bakery,3,40,28
+2026-05-22,Branch 1,Rice 5kg,Staples,4,420,350
+2026-05-22,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-05-22,Branch 2,Rice 5kg,Staples,1,420,350
+2026-05-22,Branch 2,Eggs (12),Dairy,3,78,60
+2026-05-22,Branch 2,Bread,Bakery,4,40,28
+2026-05-22,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-05-22,Branch 2,Eggs (12),Dairy,2,78,60
+2026-05-22,Branch 2,Eggs (12),Dairy,4,78,60
+2026-05-22,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-05-22,Branch 2,Bread,Bakery,2,40,28
+2026-05-22,Branch 2,Apples 1kg,Produce,2,110,80
+2026-05-22,Branch 2,Eggs (12),Dairy,3,78,60
+2026-05-22,Branch 2,Butter 200g,Dairy,3,95,72
+2026-05-22,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-05-22,Branch 2,Bread,Bakery,3,40,28
+2026-05-22,Branch 2,Butter 200g,Dairy,3,95,72
+2026-05-22,Branch 2,Eggs (12),Dairy,3,78,60
+2026-05-22,Branch 3,Chips,Snacks,1,20,12
+2026-05-22,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-05-22,Branch 3,Chips,Snacks,2,20,12
+2026-05-22,Branch 3,Eggs (12),Dairy,3,78,60
+2026-05-22,Branch 3,Chips,Snacks,1,20,12
+2026-05-22,Branch 3,Milk 1L,Dairy,1,32,24
+2026-05-22,Branch 3,Milk 1L,Dairy,3,32,24
+2026-05-22,Branch 3,Butter 200g,Dairy,4,95,72
+2026-05-22,Branch 3,Chips,Snacks,1,20,12
+2026-05-22,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-05-22,Branch 3,Apples 1kg,Produce,4,110,80
+2026-05-22,Branch 3,Butter 200g,Dairy,4,95,72
+2026-05-22,Branch 3,Apples 1kg,Produce,4,110,80
+2026-05-22,Branch 3,Bread,Bakery,1,40,28
+2026-05-23,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-23,Branch 1,Rice 5kg,Staples,4,420,350
+2026-05-23,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-23,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-05-23,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-05-23,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-05-23,Branch 1,Eggs (12),Dairy,3,78,60
+2026-05-23,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-05-23,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-05-23,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-23,Branch 1,Apples 1kg,Produce,4,110,80
+2026-05-23,Branch 1,Butter 200g,Dairy,2,95,72
+2026-05-23,Branch 1,Bread,Bakery,1,40,28
+2026-05-23,Branch 1,Apples 1kg,Produce,4,110,80
+2026-05-23,Branch 1,Chips,Snacks,4,20,12
+2026-05-23,Branch 1,Butter 200g,Dairy,2,95,72
+2026-05-23,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-05-23,Branch 1,Butter 200g,Dairy,2,95,72
+2026-05-23,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-05-23,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-23,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-23,Branch 1,Bread,Bakery,4,40,28
+2026-05-23,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-05-23,Branch 2,Butter 200g,Dairy,2,95,72
+2026-05-23,Branch 2,Chips,Snacks,3,20,12
+2026-05-23,Branch 2,Milk 1L,Dairy,1,32,24
+2026-05-23,Branch 2,Apples 1kg,Produce,4,110,80
+2026-05-23,Branch 2,Chips,Snacks,4,20,12
+2026-05-23,Branch 2,Apples 1kg,Produce,1,110,80
+2026-05-23,Branch 2,Bread,Bakery,4,40,28
+2026-05-23,Branch 2,Eggs (12),Dairy,3,78,60
+2026-05-23,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-05-23,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-23,Branch 2,Rice 5kg,Staples,1,420,350
+2026-05-23,Branch 2,Chips,Snacks,2,20,12
+2026-05-23,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-05-23,Branch 2,Bread,Bakery,4,40,28
+2026-05-23,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-05-23,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-05-23,Branch 3,Chips,Snacks,1,20,12
+2026-05-23,Branch 3,Eggs (12),Dairy,1,78,60
+2026-05-23,Branch 3,Rice 5kg,Staples,3,420,350
+2026-05-23,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-05-23,Branch 3,Eggs (12),Dairy,2,78,60
+2026-05-23,Branch 3,Chips,Snacks,4,20,12
+2026-05-23,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-05-23,Branch 3,Milk 1L,Dairy,1,32,24
+2026-05-23,Branch 3,Eggs (12),Dairy,3,78,60
+2026-05-23,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-05-23,Branch 3,Eggs (12),Dairy,2,78,60
+2026-05-23,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-05-23,Branch 3,Eggs (12),Dairy,4,78,60
+2026-05-23,Branch 3,Chips,Snacks,3,20,12
+2026-05-23,Branch 3,Chips,Snacks,3,20,12
+2026-05-23,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-05-23,Branch 3,Chips,Snacks,3,20,12
+2026-05-23,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-05-23,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-05-23,Branch 3,Bread,Bakery,4,40,28
+2026-05-23,Branch 3,Chips,Snacks,3,20,12
+2026-05-23,Branch 3,Milk 1L,Dairy,4,32,24
+2026-05-23,Branch 3,Apples 1kg,Produce,2,110,80
+2026-05-23,Branch 3,Milk 1L,Dairy,4,32,24
+2026-05-23,Branch 3,Eggs (12),Dairy,4,78,60
+2026-05-23,Branch 3,Eggs (12),Dairy,2,78,60
+2026-05-23,Branch 3,Milk 1L,Dairy,1,32,24
+2026-05-23,Branch 3,Butter 200g,Dairy,1,95,72
+2026-05-23,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-05-23,Branch 3,Rice 5kg,Staples,2,420,350
+2026-05-23,Branch 3,Rice 5kg,Staples,2,420,350
+2026-05-23,Branch 3,Rice 5kg,Staples,4,420,350
+2026-05-23,Branch 3,Milk 1L,Dairy,2,32,24
+2026-05-24,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-05-24,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-05-24,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-05-24,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-05-24,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-24,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-05-24,Branch 1,Apples 1kg,Produce,4,110,80
+2026-05-24,Branch 1,Butter 200g,Dairy,2,95,72
+2026-05-24,Branch 1,Apples 1kg,Produce,3,110,80
+2026-05-24,Branch 1,Butter 200g,Dairy,3,95,72
+2026-05-24,Branch 1,Apples 1kg,Produce,2,110,80
+2026-05-24,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-24,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-24,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-05-24,Branch 1,Apples 1kg,Produce,1,110,80
+2026-05-24,Branch 1,Chips,Snacks,4,20,12
+2026-05-24,Branch 1,Rice 5kg,Staples,3,420,350
+2026-05-24,Branch 1,Eggs (12),Dairy,3,78,60
+2026-05-24,Branch 1,Milk 1L,Dairy,3,32,24
+2026-05-24,Branch 1,Bread,Bakery,3,40,28
+2026-05-24,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-24,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-24,Branch 1,Butter 200g,Dairy,3,95,72
+2026-05-24,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-05-24,Branch 2,Eggs (12),Dairy,1,78,60
+2026-05-24,Branch 2,Chips,Snacks,2,20,12
+2026-05-24,Branch 2,Butter 200g,Dairy,1,95,72
+2026-05-24,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-05-24,Branch 2,Butter 200g,Dairy,1,95,72
+2026-05-24,Branch 2,Bread,Bakery,4,40,28
+2026-05-24,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-05-24,Branch 2,Bread,Bakery,2,40,28
+2026-05-24,Branch 2,Milk 1L,Dairy,2,32,24
+2026-05-24,Branch 2,Rice 5kg,Staples,4,420,350
+2026-05-24,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-05-24,Branch 2,Apples 1kg,Produce,3,110,80
+2026-05-24,Branch 2,Apples 1kg,Produce,1,110,80
+2026-05-24,Branch 2,Bread,Bakery,2,40,28
+2026-05-24,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-05-24,Branch 2,Eggs (12),Dairy,4,78,60
+2026-05-24,Branch 2,Eggs (12),Dairy,1,78,60
+2026-05-24,Branch 2,Rice 5kg,Staples,4,420,350
+2026-05-24,Branch 2,Eggs (12),Dairy,3,78,60
+2026-05-24,Branch 2,Milk 1L,Dairy,1,32,24
+2026-05-24,Branch 2,Apples 1kg,Produce,1,110,80
+2026-05-24,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-05-24,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-05-24,Branch 2,Eggs (12),Dairy,4,78,60
+2026-05-24,Branch 2,Apples 1kg,Produce,2,110,80
+2026-05-24,Branch 2,Bread,Bakery,3,40,28
+2026-05-24,Branch 2,Eggs (12),Dairy,4,78,60
+2026-05-24,Branch 2,Apples 1kg,Produce,2,110,80
+2026-05-24,Branch 2,Milk 1L,Dairy,3,32,24
+2026-05-24,Branch 2,Apples 1kg,Produce,2,110,80
+2026-05-24,Branch 2,Eggs (12),Dairy,4,78,60
+2026-05-24,Branch 2,Rice 5kg,Staples,3,420,350
+2026-05-24,Branch 2,Bread,Bakery,4,40,28
+2026-05-24,Branch 2,Bread,Bakery,2,40,28
+2026-05-24,Branch 2,Eggs (12),Dairy,4,78,60
+2026-05-24,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-05-24,Branch 3,Milk 1L,Dairy,3,32,24
+2026-05-24,Branch 3,Rice 5kg,Staples,2,420,350
+2026-05-24,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-05-24,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-05-24,Branch 3,Chips,Snacks,1,20,12
+2026-05-24,Branch 3,Apples 1kg,Produce,3,110,80
+2026-05-24,Branch 3,Butter 200g,Dairy,1,95,72
+2026-05-24,Branch 3,Bread,Bakery,4,40,28
+2026-05-24,Branch 3,Apples 1kg,Produce,2,110,80
+2026-05-24,Branch 3,Rice 5kg,Staples,3,420,350
+2026-05-24,Branch 3,Bread,Bakery,3,40,28
+2026-05-24,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-05-24,Branch 3,Butter 200g,Dairy,2,95,72
+2026-05-24,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-05-24,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-05-24,Branch 3,Rice 5kg,Staples,4,420,350
+2026-05-24,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-05-24,Branch 3,Butter 200g,Dairy,1,95,72
+2026-05-24,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-05-24,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-05-24,Branch 3,Bread,Bakery,1,40,28
+2026-05-24,Branch 3,Milk 1L,Dairy,2,32,24
+2026-05-24,Branch 3,Chips,Snacks,2,20,12
+2026-05-25,Branch 1,Eggs (12),Dairy,3,78,60
+2026-05-25,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-05-25,Branch 1,Bread,Bakery,2,40,28
+2026-05-25,Branch 1,Chips,Snacks,4,20,12
+2026-05-25,Branch 1,Bread,Bakery,4,40,28
+2026-05-25,Branch 1,Milk 1L,Dairy,4,32,24
+2026-05-25,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-25,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-25,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-05-25,Branch 1,Apples 1kg,Produce,1,110,80
+2026-05-25,Branch 1,Rice 5kg,Staples,3,420,350
+2026-05-25,Branch 1,Milk 1L,Dairy,2,32,24
+2026-05-25,Branch 1,Chips,Snacks,1,20,12
+2026-05-25,Branch 1,Milk 1L,Dairy,4,32,24
+2026-05-25,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-05-25,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-05-25,Branch 2,Bread,Bakery,4,40,28
+2026-05-25,Branch 2,Milk 1L,Dairy,3,32,24
+2026-05-25,Branch 2,Rice 5kg,Staples,2,420,350
+2026-05-25,Branch 2,Eggs (12),Dairy,4,78,60
+2026-05-25,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-05-25,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-05-25,Branch 2,Rice 5kg,Staples,1,420,350
+2026-05-25,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-05-25,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-25,Branch 2,Eggs (12),Dairy,4,78,60
+2026-05-25,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-05-25,Branch 2,Butter 200g,Dairy,1,95,72
+2026-05-25,Branch 2,Milk 1L,Dairy,3,32,24
+2026-05-25,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-05-25,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-05-25,Branch 2,Butter 200g,Dairy,2,95,72
+2026-05-25,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-05-25,Branch 2,Eggs (12),Dairy,3,78,60
+2026-05-25,Branch 3,Butter 200g,Dairy,1,95,72
+2026-05-25,Branch 3,Milk 1L,Dairy,4,32,24
+2026-05-25,Branch 3,Chips,Snacks,1,20,12
+2026-05-25,Branch 3,Butter 200g,Dairy,2,95,72
+2026-05-25,Branch 3,Bread,Bakery,1,40,28
+2026-05-25,Branch 3,Chips,Snacks,1,20,12
+2026-05-25,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-05-25,Branch 3,Butter 200g,Dairy,1,95,72
+2026-05-25,Branch 3,Rice 5kg,Staples,4,420,350
+2026-05-26,Branch 1,Butter 200g,Dairy,2,95,72
+2026-05-26,Branch 1,Milk 1L,Dairy,2,32,24
+2026-05-26,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-05-26,Branch 1,Butter 200g,Dairy,3,95,72
+2026-05-26,Branch 1,Chips,Snacks,3,20,12
+2026-05-26,Branch 1,Butter 200g,Dairy,3,95,72
+2026-05-26,Branch 1,Eggs (12),Dairy,2,78,60
+2026-05-26,Branch 1,Rice 5kg,Staples,3,420,350
+2026-05-26,Branch 1,Apples 1kg,Produce,1,110,80
+2026-05-26,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-05-26,Branch 1,Rice 5kg,Staples,4,420,350
+2026-05-26,Branch 1,Milk 1L,Dairy,3,32,24
+2026-05-26,Branch 1,Rice 5kg,Staples,3,420,350
+2026-05-26,Branch 1,Rice 5kg,Staples,4,420,350
+2026-05-26,Branch 1,Eggs (12),Dairy,3,78,60
+2026-05-26,Branch 1,Rice 5kg,Staples,2,420,350
+2026-05-26,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-05-26,Branch 1,Butter 200g,Dairy,2,95,72
+2026-05-26,Branch 1,Apples 1kg,Produce,2,110,80
+2026-05-26,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-26,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-05-26,Branch 1,Rice 5kg,Staples,2,420,350
+2026-05-26,Branch 1,Rice 5kg,Staples,2,420,350
+2026-05-26,Branch 1,Apples 1kg,Produce,2,110,80
+2026-05-26,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-05-26,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-05-26,Branch 2,Bread,Bakery,2,40,28
+2026-05-26,Branch 2,Milk 1L,Dairy,3,32,24
+2026-05-26,Branch 2,Rice 5kg,Staples,1,420,350
+2026-05-26,Branch 2,Bread,Bakery,2,40,28
+2026-05-26,Branch 2,Chips,Snacks,2,20,12
+2026-05-26,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-05-26,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-05-26,Branch 2,Milk 1L,Dairy,2,32,24
+2026-05-26,Branch 2,Butter 200g,Dairy,1,95,72
+2026-05-26,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-05-26,Branch 2,Chips,Snacks,2,20,12
+2026-05-26,Branch 2,Rice 5kg,Staples,2,420,350
+2026-05-26,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-05-26,Branch 3,Apples 1kg,Produce,4,110,80
+2026-05-26,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-05-26,Branch 3,Apples 1kg,Produce,3,110,80
+2026-05-26,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-05-26,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-05-26,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-05-26,Branch 3,Butter 200g,Dairy,3,95,72
+2026-05-26,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-05-26,Branch 3,Milk 1L,Dairy,2,32,24
+2026-05-26,Branch 3,Eggs (12),Dairy,1,78,60
+2026-05-26,Branch 3,Apples 1kg,Produce,4,110,80
+2026-05-26,Branch 3,Apples 1kg,Produce,2,110,80
+2026-05-26,Branch 3,Butter 200g,Dairy,3,95,72
+2026-05-26,Branch 3,Butter 200g,Dairy,4,95,72
+2026-05-26,Branch 3,Chips,Snacks,2,20,12
+2026-05-26,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-05-26,Branch 3,Apples 1kg,Produce,4,110,80
+2026-05-26,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-05-26,Branch 3,Eggs (12),Dairy,3,78,60
+2026-05-27,Branch 1,Eggs (12),Dairy,2,78,60
+2026-05-27,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-05-27,Branch 1,Eggs (12),Dairy,1,78,60
+2026-05-27,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-05-27,Branch 1,Bread,Bakery,1,40,28
+2026-05-27,Branch 1,Milk 1L,Dairy,4,32,24
+2026-05-27,Branch 1,Eggs (12),Dairy,2,78,60
+2026-05-27,Branch 1,Bread,Bakery,2,40,28
+2026-05-27,Branch 1,Milk 1L,Dairy,2,32,24
+2026-05-27,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-05-27,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-05-27,Branch 1,Chips,Snacks,4,20,12
+2026-05-27,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-27,Branch 1,Milk 1L,Dairy,4,32,24
+2026-05-27,Branch 2,Milk 1L,Dairy,1,32,24
+2026-05-27,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-05-27,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-05-27,Branch 2,Milk 1L,Dairy,4,32,24
+2026-05-27,Branch 2,Eggs (12),Dairy,1,78,60
+2026-05-27,Branch 2,Bread,Bakery,2,40,28
+2026-05-27,Branch 2,Butter 200g,Dairy,2,95,72
+2026-05-27,Branch 2,Chips,Snacks,3,20,12
+2026-05-27,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-05-27,Branch 2,Rice 5kg,Staples,1,420,350
+2026-05-27,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-05-27,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-05-27,Branch 2,Butter 200g,Dairy,3,95,72
+2026-05-27,Branch 2,Bread,Bakery,1,40,28
+2026-05-27,Branch 2,Bread,Bakery,4,40,28
+2026-05-27,Branch 2,Rice 5kg,Staples,4,420,350
+2026-05-27,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-05-27,Branch 3,Milk 1L,Dairy,1,32,24
+2026-05-27,Branch 3,Eggs (12),Dairy,1,78,60
+2026-05-27,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-05-27,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-05-27,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-05-27,Branch 3,Butter 200g,Dairy,2,95,72
+2026-05-27,Branch 3,Chips,Snacks,4,20,12
+2026-05-27,Branch 3,Apples 1kg,Produce,1,110,80
+2026-05-27,Branch 3,Bread,Bakery,3,40,28
+2026-05-27,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-05-27,Branch 3,Eggs (12),Dairy,3,78,60
+2026-05-27,Branch 3,Milk 1L,Dairy,2,32,24
+2026-05-27,Branch 3,Chips,Snacks,2,20,12
+2026-05-27,Branch 3,Rice 5kg,Staples,1,420,350
+2026-05-27,Branch 3,Apples 1kg,Produce,2,110,80
+2026-05-27,Branch 3,Chips,Snacks,2,20,12
+2026-05-27,Branch 3,Chips,Snacks,4,20,12
+2026-05-27,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-05-27,Branch 3,Rice 5kg,Staples,2,420,350
+2026-05-28,Branch 1,Bread,Bakery,3,40,28
+2026-05-28,Branch 1,Milk 1L,Dairy,1,32,24
+2026-05-28,Branch 1,Rice 5kg,Staples,2,420,350
+2026-05-28,Branch 1,Bread,Bakery,3,40,28
+2026-05-28,Branch 1,Chips,Snacks,4,20,12
+2026-05-28,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-05-28,Branch 1,Apples 1kg,Produce,4,110,80
+2026-05-28,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-28,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-05-28,Branch 1,Rice 5kg,Staples,2,420,350
+2026-05-28,Branch 1,Chips,Snacks,4,20,12
+2026-05-28,Branch 1,Bread,Bakery,3,40,28
+2026-05-28,Branch 1,Butter 200g,Dairy,1,95,72
+2026-05-28,Branch 1,Bread,Bakery,3,40,28
+2026-05-28,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-28,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-28,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-05-28,Branch 2,Bread,Bakery,1,40,28
+2026-05-28,Branch 2,Milk 1L,Dairy,3,32,24
+2026-05-28,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-05-28,Branch 2,Apples 1kg,Produce,1,110,80
+2026-05-28,Branch 2,Eggs (12),Dairy,1,78,60
+2026-05-28,Branch 2,Eggs (12),Dairy,4,78,60
+2026-05-28,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-05-28,Branch 2,Bread,Bakery,1,40,28
+2026-05-28,Branch 2,Bread,Bakery,3,40,28
+2026-05-28,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-05-28,Branch 2,Chips,Snacks,3,20,12
+2026-05-28,Branch 2,Rice 5kg,Staples,1,420,350
+2026-05-28,Branch 2,Apples 1kg,Produce,4,110,80
+2026-05-28,Branch 2,Rice 5kg,Staples,1,420,350
+2026-05-28,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-05-28,Branch 2,Chips,Snacks,2,20,12
+2026-05-28,Branch 2,Rice 5kg,Staples,2,420,350
+2026-05-28,Branch 2,Eggs (12),Dairy,3,78,60
+2026-05-28,Branch 2,Apples 1kg,Produce,3,110,80
+2026-05-28,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-05-28,Branch 3,Bread,Bakery,2,40,28
+2026-05-28,Branch 3,Rice 5kg,Staples,3,420,350
+2026-05-28,Branch 3,Rice 5kg,Staples,3,420,350
+2026-05-28,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-05-28,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-05-28,Branch 3,Butter 200g,Dairy,4,95,72
+2026-05-28,Branch 3,Chips,Snacks,2,20,12
+2026-05-28,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-05-28,Branch 3,Eggs (12),Dairy,3,78,60
+2026-05-28,Branch 3,Milk 1L,Dairy,4,32,24
+2026-05-28,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-05-28,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-05-28,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-05-28,Branch 3,Chips,Snacks,2,20,12
+2026-05-28,Branch 3,Apples 1kg,Produce,3,110,80
+2026-05-28,Branch 3,Chips,Snacks,2,20,12
+2026-05-28,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-05-29,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-29,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-05-29,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-29,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-05-29,Branch 1,Apples 1kg,Produce,4,110,80
+2026-05-29,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-05-29,Branch 1,Chips,Snacks,2,20,12
+2026-05-29,Branch 1,Chips,Snacks,2,20,12
+2026-05-29,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-05-29,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-29,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-29,Branch 1,Bread,Bakery,4,40,28
+2026-05-29,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-29,Branch 1,Apples 1kg,Produce,2,110,80
+2026-05-29,Branch 1,Apples 1kg,Produce,2,110,80
+2026-05-29,Branch 1,Rice 5kg,Staples,4,420,350
+2026-05-29,Branch 1,Bread,Bakery,4,40,28
+2026-05-29,Branch 1,Chips,Snacks,4,20,12
+2026-05-29,Branch 1,Chips,Snacks,4,20,12
+2026-05-29,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-05-29,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-05-29,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-29,Branch 2,Bread,Bakery,2,40,28
+2026-05-29,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-05-29,Branch 2,Chips,Snacks,1,20,12
+2026-05-29,Branch 2,Chips,Snacks,4,20,12
+2026-05-29,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-05-29,Branch 2,Bread,Bakery,1,40,28
+2026-05-29,Branch 2,Bread,Bakery,3,40,28
+2026-05-29,Branch 2,Butter 200g,Dairy,2,95,72
+2026-05-29,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-05-29,Branch 2,Rice 5kg,Staples,4,420,350
+2026-05-29,Branch 2,Chips,Snacks,2,20,12
+2026-05-29,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-29,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-05-29,Branch 2,Apples 1kg,Produce,4,110,80
+2026-05-29,Branch 2,Bread,Bakery,1,40,28
+2026-05-29,Branch 2,Eggs (12),Dairy,3,78,60
+2026-05-29,Branch 2,Apples 1kg,Produce,3,110,80
+2026-05-29,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-05-29,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-05-29,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-05-29,Branch 3,Bread,Bakery,4,40,28
+2026-05-29,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-05-29,Branch 3,Bread,Bakery,3,40,28
+2026-05-29,Branch 3,Milk 1L,Dairy,1,32,24
+2026-05-29,Branch 3,Milk 1L,Dairy,3,32,24
+2026-05-29,Branch 3,Bread,Bakery,2,40,28
+2026-05-29,Branch 3,Butter 200g,Dairy,2,95,72
+2026-05-29,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-05-29,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-05-29,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-05-29,Branch 3,Rice 5kg,Staples,2,420,350
+2026-05-29,Branch 3,Eggs (12),Dairy,4,78,60
+2026-05-29,Branch 3,Rice 5kg,Staples,1,420,350
+2026-05-29,Branch 3,Chips,Snacks,2,20,12
+2026-05-29,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-05-29,Branch 3,Rice 5kg,Staples,1,420,350
+2026-05-29,Branch 3,Butter 200g,Dairy,2,95,72
+2026-05-29,Branch 3,Apples 1kg,Produce,1,110,80
+2026-05-29,Branch 3,Chips,Snacks,1,20,12
+2026-05-29,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-05-29,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-05-29,Branch 3,Butter 200g,Dairy,4,95,72
+2026-05-29,Branch 3,Bread,Bakery,3,40,28
+2026-05-29,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-05-30,Branch 1,Chips,Snacks,4,20,12
+2026-05-30,Branch 1,Chips,Snacks,4,20,12
+2026-05-30,Branch 1,Chips,Snacks,1,20,12
+2026-05-30,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-05-30,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-30,Branch 1,Apples 1kg,Produce,1,110,80
+2026-05-30,Branch 1,Eggs (12),Dairy,3,78,60
+2026-05-30,Branch 1,Bread,Bakery,2,40,28
+2026-05-30,Branch 1,Apples 1kg,Produce,1,110,80
+2026-05-30,Branch 1,Eggs (12),Dairy,3,78,60
+2026-05-30,Branch 1,Eggs (12),Dairy,4,78,60
+2026-05-30,Branch 1,Rice 5kg,Staples,2,420,350
+2026-05-30,Branch 1,Chips,Snacks,4,20,12
+2026-05-30,Branch 1,Rice 5kg,Staples,2,420,350
+2026-05-30,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-05-30,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-05-30,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-05-30,Branch 1,Eggs (12),Dairy,2,78,60
+2026-05-30,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-05-30,Branch 1,Chips,Snacks,1,20,12
+2026-05-30,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-05-30,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-05-30,Branch 2,Butter 200g,Dairy,4,95,72
+2026-05-30,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-05-30,Branch 2,Rice 5kg,Staples,4,420,350
+2026-05-30,Branch 2,Rice 5kg,Staples,4,420,350
+2026-05-30,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-05-30,Branch 2,Bread,Bakery,1,40,28
+2026-05-30,Branch 2,Butter 200g,Dairy,3,95,72
+2026-05-30,Branch 2,Milk 1L,Dairy,3,32,24
+2026-05-30,Branch 2,Butter 200g,Dairy,3,95,72
+2026-05-30,Branch 2,Eggs (12),Dairy,4,78,60
+2026-05-30,Branch 2,Chips,Snacks,4,20,12
+2026-05-30,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-05-30,Branch 2,Chips,Snacks,1,20,12
+2026-05-30,Branch 2,Apples 1kg,Produce,3,110,80
+2026-05-30,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-05-30,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-05-30,Branch 2,Rice 5kg,Staples,1,420,350
+2026-05-30,Branch 2,Butter 200g,Dairy,3,95,72
+2026-05-30,Branch 2,Milk 1L,Dairy,4,32,24
+2026-05-30,Branch 2,Apples 1kg,Produce,3,110,80
+2026-05-30,Branch 2,Bread,Bakery,4,40,28
+2026-05-30,Branch 2,Bread,Bakery,2,40,28
+2026-05-30,Branch 2,Butter 200g,Dairy,3,95,72
+2026-05-30,Branch 2,Chips,Snacks,4,20,12
+2026-05-30,Branch 2,Eggs (12),Dairy,2,78,60
+2026-05-30,Branch 2,Butter 200g,Dairy,2,95,72
+2026-05-30,Branch 2,Milk 1L,Dairy,3,32,24
+2026-05-30,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-05-30,Branch 2,Chips,Snacks,2,20,12
+2026-05-30,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-05-30,Branch 3,Apples 1kg,Produce,3,110,80
+2026-05-30,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-05-30,Branch 3,Eggs (12),Dairy,4,78,60
+2026-05-30,Branch 3,Milk 1L,Dairy,3,32,24
+2026-05-30,Branch 3,Eggs (12),Dairy,2,78,60
+2026-05-30,Branch 3,Butter 200g,Dairy,2,95,72
+2026-05-30,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-05-30,Branch 3,Rice 5kg,Staples,4,420,350
+2026-05-30,Branch 3,Eggs (12),Dairy,3,78,60
+2026-05-30,Branch 3,Rice 5kg,Staples,4,420,350
+2026-05-30,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-05-30,Branch 3,Bread,Bakery,4,40,28
+2026-05-30,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-05-30,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-05-30,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-05-30,Branch 3,Chips,Snacks,1,20,12
+2026-05-30,Branch 3,Bread,Bakery,4,40,28
+2026-05-30,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-05-30,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-05-31,Branch 1,Butter 200g,Dairy,4,95,72
+2026-05-31,Branch 1,Butter 200g,Dairy,4,95,72
+2026-05-31,Branch 1,Apples 1kg,Produce,3,110,80
+2026-05-31,Branch 1,Apples 1kg,Produce,3,110,80
+2026-05-31,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-05-31,Branch 1,Chips,Snacks,4,20,12
+2026-05-31,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-05-31,Branch 1,Milk 1L,Dairy,1,32,24
+2026-05-31,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-31,Branch 1,Bread,Bakery,2,40,28
+2026-05-31,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-05-31,Branch 1,Milk 1L,Dairy,4,32,24
+2026-05-31,Branch 1,Butter 200g,Dairy,2,95,72
+2026-05-31,Branch 1,Apples 1kg,Produce,2,110,80
+2026-05-31,Branch 1,Apples 1kg,Produce,1,110,80
+2026-05-31,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-05-31,Branch 1,Bread,Bakery,3,40,28
+2026-05-31,Branch 1,Eggs (12),Dairy,1,78,60
+2026-05-31,Branch 1,Rice 5kg,Staples,3,420,350
+2026-05-31,Branch 1,Butter 200g,Dairy,4,95,72
+2026-05-31,Branch 1,Bread,Bakery,1,40,28
+2026-05-31,Branch 1,Milk 1L,Dairy,2,32,24
+2026-05-31,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-05-31,Branch 1,Eggs (12),Dairy,2,78,60
+2026-05-31,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-05-31,Branch 1,Milk 1L,Dairy,1,32,24
+2026-05-31,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-05-31,Branch 1,Rice 5kg,Staples,2,420,350
+2026-05-31,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-05-31,Branch 2,Butter 200g,Dairy,4,95,72
+2026-05-31,Branch 2,Bread,Bakery,1,40,28
+2026-05-31,Branch 2,Bread,Bakery,3,40,28
+2026-05-31,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-05-31,Branch 2,Eggs (12),Dairy,4,78,60
+2026-05-31,Branch 2,Eggs (12),Dairy,2,78,60
+2026-05-31,Branch 2,Bread,Bakery,1,40,28
+2026-05-31,Branch 2,Chips,Snacks,2,20,12
+2026-05-31,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-05-31,Branch 2,Butter 200g,Dairy,2,95,72
+2026-05-31,Branch 2,Rice 5kg,Staples,4,420,350
+2026-05-31,Branch 2,Butter 200g,Dairy,1,95,72
+2026-05-31,Branch 2,Bread,Bakery,2,40,28
+2026-05-31,Branch 2,Bread,Bakery,4,40,28
+2026-05-31,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-05-31,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-05-31,Branch 2,Butter 200g,Dairy,3,95,72
+2026-05-31,Branch 2,Bread,Bakery,2,40,28
+2026-05-31,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-05-31,Branch 2,Milk 1L,Dairy,3,32,24
+2026-05-31,Branch 2,Butter 200g,Dairy,2,95,72
+2026-05-31,Branch 2,Rice 5kg,Staples,3,420,350
+2026-05-31,Branch 3,Milk 1L,Dairy,2,32,24
+2026-05-31,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-05-31,Branch 3,Bread,Bakery,2,40,28
+2026-05-31,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-05-31,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-05-31,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-05-31,Branch 3,Eggs (12),Dairy,4,78,60
+2026-05-31,Branch 3,Chips,Snacks,4,20,12
+2026-05-31,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-05-31,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-05-31,Branch 3,Milk 1L,Dairy,1,32,24
+2026-05-31,Branch 3,Milk 1L,Dairy,3,32,24
+2026-05-31,Branch 3,Butter 200g,Dairy,1,95,72
+2026-05-31,Branch 3,Milk 1L,Dairy,4,32,24
+2026-05-31,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-05-31,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-05-31,Branch 3,Rice 5kg,Staples,4,420,350
+2026-05-31,Branch 3,Bread,Bakery,2,40,28
+2026-05-31,Branch 3,Apples 1kg,Produce,1,110,80
+2026-05-31,Branch 3,Apples 1kg,Produce,1,110,80
+2026-05-31,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-05-31,Branch 3,Eggs (12),Dairy,3,78,60
+2026-05-31,Branch 3,Rice 5kg,Staples,1,420,350
+2026-05-31,Branch 3,Apples 1kg,Produce,4,110,80
+2026-05-31,Branch 3,Butter 200g,Dairy,1,95,72
+2026-05-31,Branch 3,Butter 200g,Dairy,1,95,72
+2026-05-31,Branch 3,Rice 5kg,Staples,1,420,350
+2026-05-31,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-05-31,Branch 3,Apples 1kg,Produce,2,110,80
+2026-05-31,Branch 3,Bread,Bakery,1,40,28
+2026-05-31,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-01,Branch 1,Eggs (12),Dairy,4,78,60
+2026-06-01,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-01,Branch 1,Eggs (12),Dairy,3,78,60
+2026-06-01,Branch 1,Eggs (12),Dairy,3,78,60
+2026-06-01,Branch 1,Bread,Bakery,1,40,28
+2026-06-01,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-06-01,Branch 1,Apples 1kg,Produce,1,110,80
+2026-06-01,Branch 1,Apples 1kg,Produce,1,110,80
+2026-06-01,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-01,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-01,Branch 1,Milk 1L,Dairy,4,32,24
+2026-06-01,Branch 1,Chips,Snacks,2,20,12
+2026-06-01,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-06-01,Branch 1,Apples 1kg,Produce,1,110,80
+2026-06-01,Branch 1,Chips,Snacks,1,20,12
+2026-06-01,Branch 1,Butter 200g,Dairy,1,95,72
+2026-06-01,Branch 2,Milk 1L,Dairy,1,32,24
+2026-06-01,Branch 2,Butter 200g,Dairy,1,95,72
+2026-06-01,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-01,Branch 2,Rice 5kg,Staples,2,420,350
+2026-06-01,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-01,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-06-01,Branch 2,Butter 200g,Dairy,3,95,72
+2026-06-01,Branch 2,Butter 200g,Dairy,4,95,72
+2026-06-01,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-06-01,Branch 2,Bread,Bakery,3,40,28
+2026-06-01,Branch 2,Bread,Bakery,1,40,28
+2026-06-01,Branch 2,Eggs (12),Dairy,2,78,60
+2026-06-01,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-06-01,Branch 2,Rice 5kg,Staples,1,420,350
+2026-06-01,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-01,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-01,Branch 2,Bread,Bakery,4,40,28
+2026-06-01,Branch 2,Milk 1L,Dairy,3,32,24
+2026-06-01,Branch 2,Butter 200g,Dairy,3,95,72
+2026-06-01,Branch 2,Chips,Snacks,3,20,12
+2026-06-01,Branch 3,Chips,Snacks,2,20,12
+2026-06-01,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-06-01,Branch 3,Chips,Snacks,4,20,12
+2026-06-01,Branch 3,Butter 200g,Dairy,2,95,72
+2026-06-01,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-01,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-01,Branch 3,Butter 200g,Dairy,3,95,72
+2026-06-01,Branch 3,Milk 1L,Dairy,3,32,24
+2026-06-01,Branch 3,Milk 1L,Dairy,4,32,24
+2026-06-01,Branch 3,Apples 1kg,Produce,1,110,80
+2026-06-01,Branch 3,Butter 200g,Dairy,2,95,72
+2026-06-01,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-01,Branch 3,Milk 1L,Dairy,2,32,24
+2026-06-01,Branch 3,Apples 1kg,Produce,1,110,80
+2026-06-01,Branch 3,Milk 1L,Dairy,2,32,24
+2026-06-01,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-06-01,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-06-01,Branch 3,Bread,Bakery,1,40,28
+2026-06-01,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-06-02,Branch 1,Rice 5kg,Staples,1,420,350
+2026-06-02,Branch 1,Chips,Snacks,1,20,12
+2026-06-02,Branch 1,Rice 5kg,Staples,2,420,350
+2026-06-02,Branch 1,Butter 200g,Dairy,3,95,72
+2026-06-02,Branch 1,Apples 1kg,Produce,3,110,80
+2026-06-02,Branch 1,Rice 5kg,Staples,3,420,350
+2026-06-02,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-06-02,Branch 1,Apples 1kg,Produce,2,110,80
+2026-06-02,Branch 1,Bread,Bakery,2,40,28
+2026-06-02,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-02,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-02,Branch 1,Eggs (12),Dairy,4,78,60
+2026-06-02,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-06-02,Branch 1,Rice 5kg,Staples,1,420,350
+2026-06-02,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-02,Branch 1,Butter 200g,Dairy,4,95,72
+2026-06-02,Branch 1,Apples 1kg,Produce,4,110,80
+2026-06-02,Branch 1,Apples 1kg,Produce,1,110,80
+2026-06-02,Branch 1,Bread,Bakery,2,40,28
+2026-06-02,Branch 2,Apples 1kg,Produce,1,110,80
+2026-06-02,Branch 2,Butter 200g,Dairy,3,95,72
+2026-06-02,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-02,Branch 2,Butter 200g,Dairy,3,95,72
+2026-06-02,Branch 2,Rice 5kg,Staples,1,420,350
+2026-06-02,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-02,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-02,Branch 2,Rice 5kg,Staples,4,420,350
+2026-06-02,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-06-02,Branch 2,Bread,Bakery,4,40,28
+2026-06-02,Branch 2,Bread,Bakery,2,40,28
+2026-06-02,Branch 2,Bread,Bakery,1,40,28
+2026-06-02,Branch 2,Milk 1L,Dairy,2,32,24
+2026-06-02,Branch 2,Eggs (12),Dairy,2,78,60
+2026-06-02,Branch 2,Rice 5kg,Staples,3,420,350
+2026-06-02,Branch 2,Bread,Bakery,3,40,28
+2026-06-02,Branch 2,Bread,Bakery,1,40,28
+2026-06-02,Branch 2,Bread,Bakery,2,40,28
+2026-06-02,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-06-02,Branch 2,Bread,Bakery,3,40,28
+2026-06-02,Branch 3,Bread,Bakery,1,40,28
+2026-06-02,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-02,Branch 3,Eggs (12),Dairy,4,78,60
+2026-06-02,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-02,Branch 3,Milk 1L,Dairy,4,32,24
+2026-06-02,Branch 3,Rice 5kg,Staples,2,420,350
+2026-06-02,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-06-02,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-02,Branch 3,Apples 1kg,Produce,4,110,80
+2026-06-02,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-02,Branch 3,Chips,Snacks,2,20,12
+2026-06-02,Branch 3,Apples 1kg,Produce,4,110,80
+2026-06-02,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-02,Branch 3,Milk 1L,Dairy,1,32,24
+2026-06-02,Branch 3,Apples 1kg,Produce,4,110,80
+2026-06-02,Branch 3,Eggs (12),Dairy,4,78,60
+2026-06-02,Branch 3,Butter 200g,Dairy,2,95,72
+2026-06-02,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-02,Branch 3,Rice 5kg,Staples,3,420,350
+2026-06-02,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-06-02,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-06-03,Branch 1,Rice 5kg,Staples,3,420,350
+2026-06-03,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-03,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-06-03,Branch 1,Milk 1L,Dairy,3,32,24
+2026-06-03,Branch 1,Milk 1L,Dairy,4,32,24
+2026-06-03,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-03,Branch 1,Chips,Snacks,2,20,12
+2026-06-03,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-03,Branch 1,Butter 200g,Dairy,2,95,72
+2026-06-03,Branch 1,Apples 1kg,Produce,1,110,80
+2026-06-03,Branch 1,Butter 200g,Dairy,4,95,72
+2026-06-03,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-06-03,Branch 1,Eggs (12),Dairy,2,78,60
+2026-06-03,Branch 1,Chips,Snacks,3,20,12
+2026-06-03,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-06-03,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-06-03,Branch 2,Chips,Snacks,2,20,12
+2026-06-03,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-03,Branch 2,Eggs (12),Dairy,4,78,60
+2026-06-03,Branch 2,Milk 1L,Dairy,1,32,24
+2026-06-03,Branch 2,Milk 1L,Dairy,2,32,24
+2026-06-03,Branch 2,Chips,Snacks,2,20,12
+2026-06-03,Branch 2,Milk 1L,Dairy,4,32,24
+2026-06-03,Branch 2,Milk 1L,Dairy,3,32,24
+2026-06-03,Branch 2,Chips,Snacks,2,20,12
+2026-06-03,Branch 2,Eggs (12),Dairy,3,78,60
+2026-06-03,Branch 2,Eggs (12),Dairy,3,78,60
+2026-06-03,Branch 2,Milk 1L,Dairy,1,32,24
+2026-06-03,Branch 2,Eggs (12),Dairy,2,78,60
+2026-06-03,Branch 2,Bread,Bakery,3,40,28
+2026-06-03,Branch 2,Bread,Bakery,3,40,28
+2026-06-03,Branch 2,Rice 5kg,Staples,1,420,350
+2026-06-03,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-06-03,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-06-03,Branch 2,Eggs (12),Dairy,4,78,60
+2026-06-03,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-03,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-03,Branch 3,Butter 200g,Dairy,2,95,72
+2026-06-03,Branch 3,Rice 5kg,Staples,3,420,350
+2026-06-03,Branch 3,Apples 1kg,Produce,2,110,80
+2026-06-03,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-03,Branch 3,Chips,Snacks,4,20,12
+2026-06-03,Branch 3,Chips,Snacks,1,20,12
+2026-06-03,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-03,Branch 3,Chips,Snacks,2,20,12
+2026-06-03,Branch 3,Chips,Snacks,1,20,12
+2026-06-03,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-03,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-06-03,Branch 3,Butter 200g,Dairy,3,95,72
+2026-06-03,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-06-03,Branch 3,Bread,Bakery,3,40,28
+2026-06-03,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-03,Branch 3,Apples 1kg,Produce,2,110,80
+2026-06-03,Branch 3,Butter 200g,Dairy,1,95,72
+2026-06-03,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-06-03,Branch 3,Bread,Bakery,1,40,28
+2026-06-04,Branch 1,Milk 1L,Dairy,4,32,24
+2026-06-04,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-04,Branch 1,Eggs (12),Dairy,4,78,60
+2026-06-04,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-04,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-06-04,Branch 1,Bread,Bakery,4,40,28
+2026-06-04,Branch 1,Chips,Snacks,2,20,12
+2026-06-04,Branch 1,Eggs (12),Dairy,4,78,60
+2026-06-04,Branch 1,Bread,Bakery,1,40,28
+2026-06-04,Branch 1,Apples 1kg,Produce,1,110,80
+2026-06-04,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-04,Branch 2,Bread,Bakery,1,40,28
+2026-06-04,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-06-04,Branch 2,Rice 5kg,Staples,2,420,350
+2026-06-04,Branch 2,Bread,Bakery,1,40,28
+2026-06-04,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-06-04,Branch 2,Milk 1L,Dairy,4,32,24
+2026-06-04,Branch 2,Eggs (12),Dairy,4,78,60
+2026-06-04,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-04,Branch 2,Bread,Bakery,3,40,28
+2026-06-04,Branch 2,Butter 200g,Dairy,2,95,72
+2026-06-04,Branch 2,Rice 5kg,Staples,3,420,350
+2026-06-04,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-04,Branch 2,Butter 200g,Dairy,1,95,72
+2026-06-04,Branch 2,Milk 1L,Dairy,4,32,24
+2026-06-04,Branch 2,Chips,Snacks,4,20,12
+2026-06-04,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-04,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-06-04,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-04,Branch 3,Apples 1kg,Produce,4,110,80
+2026-06-04,Branch 3,Butter 200g,Dairy,1,95,72
+2026-06-04,Branch 3,Milk 1L,Dairy,2,32,24
+2026-06-04,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-04,Branch 3,Bread,Bakery,4,40,28
+2026-06-04,Branch 3,Bread,Bakery,3,40,28
+2026-06-04,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-04,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-06-04,Branch 3,Bread,Bakery,4,40,28
+2026-06-04,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-04,Branch 3,Rice 5kg,Staples,3,420,350
+2026-06-04,Branch 3,Eggs (12),Dairy,4,78,60
+2026-06-04,Branch 3,Milk 1L,Dairy,3,32,24
+2026-06-04,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-06-04,Branch 3,Apples 1kg,Produce,2,110,80
+2026-06-04,Branch 3,Apples 1kg,Produce,1,110,80
+2026-06-04,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-04,Branch 3,Bread,Bakery,3,40,28
+2026-06-04,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-06-04,Branch 3,Chips,Snacks,2,20,12
+2026-06-04,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-05,Branch 1,Rice 5kg,Staples,4,420,350
+2026-06-05,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-06-05,Branch 1,Chips,Snacks,2,20,12
+2026-06-05,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-06-05,Branch 1,Bread,Bakery,4,40,28
+2026-06-05,Branch 1,Milk 1L,Dairy,2,32,24
+2026-06-05,Branch 1,Bread,Bakery,4,40,28
+2026-06-05,Branch 1,Eggs (12),Dairy,2,78,60
+2026-06-05,Branch 1,Butter 200g,Dairy,2,95,72
+2026-06-05,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-05,Branch 1,Rice 5kg,Staples,1,420,350
+2026-06-05,Branch 1,Rice 5kg,Staples,2,420,350
+2026-06-05,Branch 1,Eggs (12),Dairy,3,78,60
+2026-06-05,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-06-05,Branch 1,Bread,Bakery,4,40,28
+2026-06-05,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-06-05,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-05,Branch 1,Apples 1kg,Produce,4,110,80
+2026-06-05,Branch 1,Milk 1L,Dairy,4,32,24
+2026-06-05,Branch 1,Bread,Bakery,4,40,28
+2026-06-05,Branch 1,Eggs (12),Dairy,2,78,60
+2026-06-05,Branch 1,Chips,Snacks,1,20,12
+2026-06-05,Branch 2,Bread,Bakery,1,40,28
+2026-06-05,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-05,Branch 2,Rice 5kg,Staples,3,420,350
+2026-06-05,Branch 2,Rice 5kg,Staples,4,420,350
+2026-06-05,Branch 2,Chips,Snacks,4,20,12
+2026-06-05,Branch 2,Milk 1L,Dairy,2,32,24
+2026-06-05,Branch 2,Apples 1kg,Produce,4,110,80
+2026-06-05,Branch 2,Eggs (12),Dairy,4,78,60
+2026-06-05,Branch 2,Milk 1L,Dairy,4,32,24
+2026-06-05,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-06-05,Branch 2,Milk 1L,Dairy,4,32,24
+2026-06-05,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-05,Branch 2,Milk 1L,Dairy,3,32,24
+2026-06-05,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-05,Branch 2,Apples 1kg,Produce,4,110,80
+2026-06-05,Branch 2,Bread,Bakery,2,40,28
+2026-06-05,Branch 2,Eggs (12),Dairy,3,78,60
+2026-06-05,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-05,Branch 2,Apples 1kg,Produce,4,110,80
+2026-06-05,Branch 3,Chips,Snacks,1,20,12
+2026-06-05,Branch 3,Butter 200g,Dairy,4,95,72
+2026-06-05,Branch 3,Butter 200g,Dairy,4,95,72
+2026-06-05,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-06-05,Branch 3,Milk 1L,Dairy,2,32,24
+2026-06-05,Branch 3,Bread,Bakery,3,40,28
+2026-06-05,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-06-05,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-05,Branch 3,Eggs (12),Dairy,2,78,60
+2026-06-05,Branch 3,Butter 200g,Dairy,1,95,72
+2026-06-05,Branch 3,Butter 200g,Dairy,1,95,72
+2026-06-05,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-05,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-06-05,Branch 3,Apples 1kg,Produce,3,110,80
+2026-06-06,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-06,Branch 1,Bread,Bakery,1,40,28
+2026-06-06,Branch 1,Butter 200g,Dairy,3,95,72
+2026-06-06,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-06,Branch 1,Eggs (12),Dairy,4,78,60
+2026-06-06,Branch 1,Chips,Snacks,3,20,12
+2026-06-06,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-06-06,Branch 1,Apples 1kg,Produce,1,110,80
+2026-06-06,Branch 1,Apples 1kg,Produce,1,110,80
+2026-06-06,Branch 1,Rice 5kg,Staples,1,420,350
+2026-06-06,Branch 1,Eggs (12),Dairy,2,78,60
+2026-06-06,Branch 1,Butter 200g,Dairy,2,95,72
+2026-06-06,Branch 1,Butter 200g,Dairy,3,95,72
+2026-06-06,Branch 1,Rice 5kg,Staples,1,420,350
+2026-06-06,Branch 1,Milk 1L,Dairy,4,32,24
+2026-06-06,Branch 1,Eggs (12),Dairy,2,78,60
+2026-06-06,Branch 1,Chips,Snacks,1,20,12
+2026-06-06,Branch 1,Butter 200g,Dairy,3,95,72
+2026-06-06,Branch 1,Chips,Snacks,3,20,12
+2026-06-06,Branch 2,Apples 1kg,Produce,4,110,80
+2026-06-06,Branch 2,Rice 5kg,Staples,3,420,350
+2026-06-06,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-06,Branch 2,Butter 200g,Dairy,4,95,72
+2026-06-06,Branch 2,Apples 1kg,Produce,4,110,80
+2026-06-06,Branch 2,Chips,Snacks,1,20,12
+2026-06-06,Branch 2,Milk 1L,Dairy,3,32,24
+2026-06-06,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-06-06,Branch 2,Apples 1kg,Produce,1,110,80
+2026-06-06,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-06-06,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-06-06,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-06-06,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-06,Branch 2,Butter 200g,Dairy,2,95,72
+2026-06-06,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-06-06,Branch 2,Milk 1L,Dairy,4,32,24
+2026-06-06,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-06-06,Branch 2,Milk 1L,Dairy,4,32,24
+2026-06-06,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-06,Branch 2,Rice 5kg,Staples,4,420,350
+2026-06-06,Branch 2,Rice 5kg,Staples,1,420,350
+2026-06-06,Branch 2,Chips,Snacks,2,20,12
+2026-06-06,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-06-06,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-06-06,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-06-06,Branch 2,Eggs (12),Dairy,2,78,60
+2026-06-06,Branch 3,Apples 1kg,Produce,1,110,80
+2026-06-06,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-06,Branch 3,Apples 1kg,Produce,2,110,80
+2026-06-06,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-06-06,Branch 3,Butter 200g,Dairy,3,95,72
+2026-06-06,Branch 3,Butter 200g,Dairy,3,95,72
+2026-06-06,Branch 3,Rice 5kg,Staples,3,420,350
+2026-06-06,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-06-06,Branch 3,Chips,Snacks,3,20,12
+2026-06-06,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-06,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-06,Branch 3,Chips,Snacks,1,20,12
+2026-06-06,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-06,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-06,Branch 3,Rice 5kg,Staples,3,420,350
+2026-06-06,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-06,Branch 3,Eggs (12),Dairy,2,78,60
+2026-06-06,Branch 3,Butter 200g,Dairy,3,95,72
+2026-06-06,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-06,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-06,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-06,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-06-06,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-06,Branch 3,Milk 1L,Dairy,1,32,24
+2026-06-06,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-06-06,Branch 3,Butter 200g,Dairy,2,95,72
+2026-06-06,Branch 3,Chips,Snacks,2,20,12
+2026-06-06,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-06,Branch 3,Eggs (12),Dairy,4,78,60
+2026-06-06,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-06,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-06,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-06,Branch 3,Milk 1L,Dairy,2,32,24
+2026-06-07,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-06-07,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-06-07,Branch 1,Milk 1L,Dairy,1,32,24
+2026-06-07,Branch 1,Butter 200g,Dairy,2,95,72
+2026-06-07,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-07,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-07,Branch 1,Rice 5kg,Staples,3,420,350
+2026-06-07,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-07,Branch 1,Milk 1L,Dairy,3,32,24
+2026-06-07,Branch 1,Apples 1kg,Produce,4,110,80
+2026-06-07,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-07,Branch 1,Rice 5kg,Staples,2,420,350
+2026-06-07,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-06-07,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-06-07,Branch 1,Eggs (12),Dairy,4,78,60
+2026-06-07,Branch 1,Milk 1L,Dairy,2,32,24
+2026-06-07,Branch 1,Butter 200g,Dairy,2,95,72
+2026-06-07,Branch 1,Butter 200g,Dairy,1,95,72
+2026-06-07,Branch 1,Chips,Snacks,2,20,12
+2026-06-07,Branch 1,Bread,Bakery,3,40,28
+2026-06-07,Branch 1,Milk 1L,Dairy,4,32,24
+2026-06-07,Branch 1,Apples 1kg,Produce,1,110,80
+2026-06-07,Branch 1,Chips,Snacks,1,20,12
+2026-06-07,Branch 1,Bread,Bakery,1,40,28
+2026-06-07,Branch 1,Milk 1L,Dairy,1,32,24
+2026-06-07,Branch 1,Rice 5kg,Staples,4,420,350
+2026-06-07,Branch 1,Rice 5kg,Staples,1,420,350
+2026-06-07,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-07,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-06-07,Branch 1,Butter 200g,Dairy,1,95,72
+2026-06-07,Branch 1,Apples 1kg,Produce,4,110,80
+2026-06-07,Branch 1,Bread,Bakery,3,40,28
+2026-06-07,Branch 2,Chips,Snacks,2,20,12
+2026-06-07,Branch 2,Rice 5kg,Staples,1,420,350
+2026-06-07,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-06-07,Branch 2,Apples 1kg,Produce,1,110,80
+2026-06-07,Branch 2,Bread,Bakery,4,40,28
+2026-06-07,Branch 2,Butter 200g,Dairy,2,95,72
+2026-06-07,Branch 2,Apples 1kg,Produce,2,110,80
+2026-06-07,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-06-07,Branch 2,Apples 1kg,Produce,2,110,80
+2026-06-07,Branch 2,Milk 1L,Dairy,4,32,24
+2026-06-07,Branch 2,Butter 200g,Dairy,4,95,72
+2026-06-07,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-06-07,Branch 2,Milk 1L,Dairy,1,32,24
+2026-06-07,Branch 2,Bread,Bakery,1,40,28
+2026-06-07,Branch 2,Chips,Snacks,4,20,12
+2026-06-07,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-07,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-06-07,Branch 2,Bread,Bakery,3,40,28
+2026-06-07,Branch 2,Butter 200g,Dairy,4,95,72
+2026-06-07,Branch 3,Apples 1kg,Produce,3,110,80
+2026-06-07,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-07,Branch 3,Bread,Bakery,2,40,28
+2026-06-07,Branch 3,Milk 1L,Dairy,3,32,24
+2026-06-07,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-06-07,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-07,Branch 3,Bread,Bakery,1,40,28
+2026-06-07,Branch 3,Milk 1L,Dairy,2,32,24
+2026-06-07,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-07,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-06-07,Branch 3,Chips,Snacks,3,20,12
+2026-06-07,Branch 3,Bread,Bakery,3,40,28
+2026-06-07,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-06-07,Branch 3,Bread,Bakery,4,40,28
+2026-06-07,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-07,Branch 3,Apples 1kg,Produce,4,110,80
+2026-06-07,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-06-07,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-07,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-07,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-07,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-07,Branch 3,Chips,Snacks,4,20,12
+2026-06-07,Branch 3,Eggs (12),Dairy,4,78,60
+2026-06-07,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-06-07,Branch 3,Eggs (12),Dairy,4,78,60
+2026-06-07,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-07,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-07,Branch 3,Milk 1L,Dairy,1,32,24
+2026-06-07,Branch 3,Apples 1kg,Produce,3,110,80
+2026-06-08,Branch 1,Milk 1L,Dairy,2,32,24
+2026-06-08,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-06-08,Branch 1,Rice 5kg,Staples,2,420,350
+2026-06-08,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-06-08,Branch 1,Rice 5kg,Staples,2,420,350
+2026-06-08,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-06-08,Branch 1,Milk 1L,Dairy,2,32,24
+2026-06-08,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-06-08,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-06-08,Branch 1,Bread,Bakery,4,40,28
+2026-06-08,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-06-08,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-08,Branch 1,Milk 1L,Dairy,2,32,24
+2026-06-08,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-06-08,Branch 2,Rice 5kg,Staples,2,420,350
+2026-06-08,Branch 2,Bread,Bakery,4,40,28
+2026-06-08,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-06-08,Branch 2,Bread,Bakery,4,40,28
+2026-06-08,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-08,Branch 2,Bread,Bakery,4,40,28
+2026-06-08,Branch 2,Milk 1L,Dairy,1,32,24
+2026-06-08,Branch 2,Rice 5kg,Staples,4,420,350
+2026-06-08,Branch 2,Milk 1L,Dairy,1,32,24
+2026-06-08,Branch 2,Bread,Bakery,3,40,28
+2026-06-08,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-06-08,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-08,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-08,Branch 2,Butter 200g,Dairy,4,95,72
+2026-06-08,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-06-08,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-06-08,Branch 2,Bread,Bakery,1,40,28
+2026-06-08,Branch 2,Butter 200g,Dairy,1,95,72
+2026-06-08,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-06-08,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-08,Branch 2,Bread,Bakery,1,40,28
+2026-06-08,Branch 2,Eggs (12),Dairy,4,78,60
+2026-06-08,Branch 2,Eggs (12),Dairy,4,78,60
+2026-06-08,Branch 2,Bread,Bakery,3,40,28
+2026-06-08,Branch 2,Chips,Snacks,2,20,12
+2026-06-08,Branch 3,Butter 200g,Dairy,1,95,72
+2026-06-08,Branch 3,Rice 5kg,Staples,2,420,350
+2026-06-08,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-08,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-06-08,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-08,Branch 3,Chips,Snacks,1,20,12
+2026-06-08,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-06-08,Branch 3,Chips,Snacks,2,20,12
+2026-06-08,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-08,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-08,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-06-08,Branch 3,Chips,Snacks,4,20,12
+2026-06-08,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-06-08,Branch 3,Chips,Snacks,2,20,12
+2026-06-08,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-08,Branch 3,Rice 5kg,Staples,3,420,350
+2026-06-08,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-06-08,Branch 3,Rice 5kg,Staples,2,420,350
+2026-06-08,Branch 3,Apples 1kg,Produce,4,110,80
+2026-06-09,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-09,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-06-09,Branch 1,Eggs (12),Dairy,4,78,60
+2026-06-09,Branch 1,Chips,Snacks,3,20,12
+2026-06-09,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-09,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-06-09,Branch 1,Butter 200g,Dairy,2,95,72
+2026-06-09,Branch 1,Chips,Snacks,3,20,12
+2026-06-09,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-06-09,Branch 1,Eggs (12),Dairy,3,78,60
+2026-06-09,Branch 1,Bread,Bakery,3,40,28
+2026-06-09,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-06-09,Branch 1,Chips,Snacks,4,20,12
+2026-06-09,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-06-09,Branch 2,Rice 5kg,Staples,1,420,350
+2026-06-09,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-06-09,Branch 2,Milk 1L,Dairy,4,32,24
+2026-06-09,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-09,Branch 2,Milk 1L,Dairy,2,32,24
+2026-06-09,Branch 2,Apples 1kg,Produce,2,110,80
+2026-06-09,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-09,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-09,Branch 2,Apples 1kg,Produce,2,110,80
+2026-06-09,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-06-09,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-06-09,Branch 2,Bread,Bakery,2,40,28
+2026-06-09,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-06-09,Branch 2,Butter 200g,Dairy,3,95,72
+2026-06-09,Branch 2,Milk 1L,Dairy,4,32,24
+2026-06-09,Branch 2,Rice 5kg,Staples,4,420,350
+2026-06-09,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-09,Branch 2,Milk 1L,Dairy,3,32,24
+2026-06-09,Branch 2,Butter 200g,Dairy,4,95,72
+2026-06-09,Branch 2,Butter 200g,Dairy,3,95,72
+2026-06-09,Branch 3,Chips,Snacks,2,20,12
+2026-06-09,Branch 3,Butter 200g,Dairy,3,95,72
+2026-06-09,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-09,Branch 3,Bread,Bakery,2,40,28
+2026-06-09,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-09,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-09,Branch 3,Rice 5kg,Staples,3,420,350
+2026-06-09,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-06-09,Branch 3,Eggs (12),Dairy,2,78,60
+2026-06-09,Branch 3,Chips,Snacks,3,20,12
+2026-06-09,Branch 3,Milk 1L,Dairy,3,32,24
+2026-06-09,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-09,Branch 3,Milk 1L,Dairy,2,32,24
+2026-06-09,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-06-09,Branch 3,Chips,Snacks,3,20,12
+2026-06-09,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-06-10,Branch 1,Bread,Bakery,3,40,28
+2026-06-10,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-06-10,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-10,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-06-10,Branch 1,Rice 5kg,Staples,4,420,350
+2026-06-10,Branch 1,Bread,Bakery,3,40,28
+2026-06-10,Branch 1,Butter 200g,Dairy,2,95,72
+2026-06-10,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-10,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-10,Branch 1,Butter 200g,Dairy,4,95,72
+2026-06-10,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-06-10,Branch 1,Bread,Bakery,3,40,28
+2026-06-10,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-06-10,Branch 1,Chips,Snacks,2,20,12
+2026-06-10,Branch 1,Milk 1L,Dairy,3,32,24
+2026-06-10,Branch 1,Rice 5kg,Staples,1,420,350
+2026-06-10,Branch 1,Rice 5kg,Staples,3,420,350
+2026-06-10,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-10,Branch 2,Milk 1L,Dairy,3,32,24
+2026-06-10,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-06-10,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-06-10,Branch 2,Apples 1kg,Produce,2,110,80
+2026-06-10,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-10,Branch 2,Bread,Bakery,2,40,28
+2026-06-10,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-06-10,Branch 2,Bread,Bakery,2,40,28
+2026-06-10,Branch 2,Butter 200g,Dairy,4,95,72
+2026-06-10,Branch 2,Bread,Bakery,2,40,28
+2026-06-10,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-06-10,Branch 2,Bread,Bakery,2,40,28
+2026-06-10,Branch 2,Milk 1L,Dairy,4,32,24
+2026-06-10,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-10,Branch 2,Bread,Bakery,1,40,28
+2026-06-10,Branch 2,Milk 1L,Dairy,2,32,24
+2026-06-10,Branch 2,Apples 1kg,Produce,1,110,80
+2026-06-10,Branch 2,Chips,Snacks,2,20,12
+2026-06-10,Branch 2,Apples 1kg,Produce,4,110,80
+2026-06-10,Branch 2,Rice 5kg,Staples,4,420,350
+2026-06-10,Branch 2,Rice 5kg,Staples,4,420,350
+2026-06-10,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-10,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-10,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-10,Branch 3,Chips,Snacks,1,20,12
+2026-06-10,Branch 3,Chips,Snacks,1,20,12
+2026-06-10,Branch 3,Bread,Bakery,3,40,28
+2026-06-10,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-10,Branch 3,Apples 1kg,Produce,3,110,80
+2026-06-10,Branch 3,Chips,Snacks,1,20,12
+2026-06-10,Branch 3,Apples 1kg,Produce,4,110,80
+2026-06-10,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-10,Branch 3,Milk 1L,Dairy,4,32,24
+2026-06-10,Branch 3,Eggs (12),Dairy,2,78,60
+2026-06-10,Branch 3,Eggs (12),Dairy,4,78,60
+2026-06-10,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-06-10,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-10,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-06-10,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-06-10,Branch 3,Bread,Bakery,1,40,28
+2026-06-10,Branch 3,Milk 1L,Dairy,4,32,24
+2026-06-10,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-10,Branch 3,Apples 1kg,Produce,2,110,80
+2026-06-10,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-06-10,Branch 3,Rice 5kg,Staples,2,420,350
+2026-06-10,Branch 3,Eggs (12),Dairy,2,78,60
+2026-06-11,Branch 1,Butter 200g,Dairy,3,95,72
+2026-06-11,Branch 1,Butter 200g,Dairy,1,95,72
+2026-06-11,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-11,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-06-11,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-06-11,Branch 1,Apples 1kg,Produce,1,110,80
+2026-06-11,Branch 1,Apples 1kg,Produce,1,110,80
+2026-06-11,Branch 1,Butter 200g,Dairy,4,95,72
+2026-06-11,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-11,Branch 1,Eggs (12),Dairy,2,78,60
+2026-06-11,Branch 1,Bread,Bakery,3,40,28
+2026-06-11,Branch 1,Chips,Snacks,1,20,12
+2026-06-11,Branch 1,Butter 200g,Dairy,3,95,72
+2026-06-11,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-11,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-11,Branch 1,Chips,Snacks,2,20,12
+2026-06-11,Branch 2,Chips,Snacks,3,20,12
+2026-06-11,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-06-11,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-11,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-06-11,Branch 2,Butter 200g,Dairy,4,95,72
+2026-06-11,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-11,Branch 2,Eggs (12),Dairy,3,78,60
+2026-06-11,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-06-11,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-11,Branch 2,Apples 1kg,Produce,4,110,80
+2026-06-11,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-06-11,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-11,Branch 2,Apples 1kg,Produce,2,110,80
+2026-06-11,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-06-11,Branch 2,Apples 1kg,Produce,1,110,80
+2026-06-11,Branch 2,Bread,Bakery,1,40,28
+2026-06-11,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-06-11,Branch 2,Chips,Snacks,4,20,12
+2026-06-11,Branch 2,Chips,Snacks,2,20,12
+2026-06-11,Branch 3,Milk 1L,Dairy,3,32,24
+2026-06-11,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-06-11,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-11,Branch 3,Rice 5kg,Staples,2,420,350
+2026-06-11,Branch 3,Chips,Snacks,3,20,12
+2026-06-11,Branch 3,Eggs (12),Dairy,4,78,60
+2026-06-11,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-11,Branch 3,Rice 5kg,Staples,3,420,350
+2026-06-11,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-11,Branch 3,Butter 200g,Dairy,2,95,72
+2026-06-11,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-06-11,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-11,Branch 3,Eggs (12),Dairy,2,78,60
+2026-06-11,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-06-11,Branch 3,Milk 1L,Dairy,2,32,24
+2026-06-11,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-11,Branch 3,Bread,Bakery,3,40,28
+2026-06-12,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-06-12,Branch 1,Milk 1L,Dairy,2,32,24
+2026-06-12,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-12,Branch 1,Rice 5kg,Staples,4,420,350
+2026-06-12,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-06-12,Branch 1,Milk 1L,Dairy,3,32,24
+2026-06-12,Branch 1,Bread,Bakery,3,40,28
+2026-06-12,Branch 1,Apples 1kg,Produce,2,110,80
+2026-06-12,Branch 1,Rice 5kg,Staples,4,420,350
+2026-06-12,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-06-12,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-12,Branch 1,Rice 5kg,Staples,2,420,350
+2026-06-12,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-06-12,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-12,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-12,Branch 2,Chips,Snacks,1,20,12
+2026-06-12,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-06-12,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-06-12,Branch 2,Butter 200g,Dairy,1,95,72
+2026-06-12,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-06-12,Branch 3,Butter 200g,Dairy,2,95,72
+2026-06-12,Branch 3,Eggs (12),Dairy,2,78,60
+2026-06-12,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-06-12,Branch 3,Butter 200g,Dairy,4,95,72
+2026-06-12,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-06-12,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-06-12,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-12,Branch 3,Chips,Snacks,2,20,12
+2026-06-12,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-12,Branch 3,Butter 200g,Dairy,1,95,72
+2026-06-12,Branch 3,Eggs (12),Dairy,2,78,60
+2026-06-12,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-12,Branch 3,Chips,Snacks,2,20,12
+2026-06-12,Branch 3,Milk 1L,Dairy,2,32,24
+2026-06-12,Branch 3,Apples 1kg,Produce,2,110,80
+2026-06-12,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-06-12,Branch 3,Chips,Snacks,1,20,12
+2026-06-12,Branch 3,Apples 1kg,Produce,1,110,80
+2026-06-12,Branch 3,Butter 200g,Dairy,4,95,72
+2026-06-12,Branch 3,Chips,Snacks,4,20,12
+2026-06-12,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-12,Branch 3,Butter 200g,Dairy,4,95,72
+2026-06-12,Branch 3,Chips,Snacks,2,20,12
+2026-06-13,Branch 1,Chips,Snacks,2,20,12
+2026-06-13,Branch 1,Chips,Snacks,3,20,12
+2026-06-13,Branch 1,Eggs (12),Dairy,3,78,60
+2026-06-13,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-06-13,Branch 1,Butter 200g,Dairy,4,95,72
+2026-06-13,Branch 1,Rice 5kg,Staples,2,420,350
+2026-06-13,Branch 1,Bread,Bakery,1,40,28
+2026-06-13,Branch 1,Butter 200g,Dairy,4,95,72
+2026-06-13,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-13,Branch 1,Eggs (12),Dairy,4,78,60
+2026-06-13,Branch 1,Chips,Snacks,1,20,12
+2026-06-13,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-06-13,Branch 1,Bread,Bakery,4,40,28
+2026-06-13,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-13,Branch 1,Rice 5kg,Staples,4,420,350
+2026-06-13,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-13,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-06-13,Branch 2,Butter 200g,Dairy,4,95,72
+2026-06-13,Branch 2,Rice 5kg,Staples,3,420,350
+2026-06-13,Branch 2,Chips,Snacks,1,20,12
+2026-06-13,Branch 2,Rice 5kg,Staples,2,420,350
+2026-06-13,Branch 2,Apples 1kg,Produce,4,110,80
+2026-06-13,Branch 2,Butter 200g,Dairy,1,95,72
+2026-06-13,Branch 2,Apples 1kg,Produce,4,110,80
+2026-06-13,Branch 2,Apples 1kg,Produce,2,110,80
+2026-06-13,Branch 2,Milk 1L,Dairy,1,32,24
+2026-06-13,Branch 2,Chips,Snacks,1,20,12
+2026-06-13,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-06-13,Branch 2,Rice 5kg,Staples,2,420,350
+2026-06-13,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-06-13,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-13,Branch 2,Eggs (12),Dairy,4,78,60
+2026-06-13,Branch 2,Chips,Snacks,3,20,12
+2026-06-13,Branch 2,Apples 1kg,Produce,4,110,80
+2026-06-13,Branch 2,Chips,Snacks,3,20,12
+2026-06-13,Branch 2,Chips,Snacks,3,20,12
+2026-06-13,Branch 2,Rice 5kg,Staples,2,420,350
+2026-06-13,Branch 2,Rice 5kg,Staples,4,420,350
+2026-06-13,Branch 2,Eggs (12),Dairy,3,78,60
+2026-06-13,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-06-13,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-13,Branch 2,Chips,Snacks,3,20,12
+2026-06-13,Branch 2,Rice 5kg,Staples,2,420,350
+2026-06-13,Branch 3,Bread,Bakery,2,40,28
+2026-06-13,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-13,Branch 3,Bread,Bakery,2,40,28
+2026-06-13,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-06-13,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-06-13,Branch 3,Eggs (12),Dairy,4,78,60
+2026-06-13,Branch 3,Milk 1L,Dairy,1,32,24
+2026-06-13,Branch 3,Eggs (12),Dairy,4,78,60
+2026-06-13,Branch 3,Chips,Snacks,4,20,12
+2026-06-13,Branch 3,Bread,Bakery,1,40,28
+2026-06-13,Branch 3,Apples 1kg,Produce,2,110,80
+2026-06-13,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-06-13,Branch 3,Chips,Snacks,1,20,12
+2026-06-13,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-13,Branch 3,Chips,Snacks,3,20,12
+2026-06-13,Branch 3,Chips,Snacks,1,20,12
+2026-06-13,Branch 3,Eggs (12),Dairy,4,78,60
+2026-06-13,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-13,Branch 3,Butter 200g,Dairy,3,95,72
+2026-06-13,Branch 3,Butter 200g,Dairy,1,95,72
+2026-06-13,Branch 3,Chips,Snacks,2,20,12
+2026-06-13,Branch 3,Chips,Snacks,2,20,12
+2026-06-13,Branch 3,Milk 1L,Dairy,3,32,24
+2026-06-13,Branch 3,Butter 200g,Dairy,1,95,72
+2026-06-13,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-13,Branch 3,Apples 1kg,Produce,4,110,80
+2026-06-14,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-06-14,Branch 1,Rice 5kg,Staples,2,420,350
+2026-06-14,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-06-14,Branch 1,Bread,Bakery,1,40,28
+2026-06-14,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-14,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-14,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-14,Branch 1,Butter 200g,Dairy,2,95,72
+2026-06-14,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-14,Branch 1,Chips,Snacks,1,20,12
+2026-06-14,Branch 1,Apples 1kg,Produce,2,110,80
+2026-06-14,Branch 2,Rice 5kg,Staples,1,420,350
+2026-06-14,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-06-14,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-06-14,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-14,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-06-14,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-06-14,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-06-14,Branch 2,Chips,Snacks,4,20,12
+2026-06-14,Branch 2,Butter 200g,Dairy,3,95,72
+2026-06-14,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-06-14,Branch 2,Chips,Snacks,1,20,12
+2026-06-14,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-06-14,Branch 2,Apples 1kg,Produce,1,110,80
+2026-06-14,Branch 2,Rice 5kg,Staples,2,420,350
+2026-06-14,Branch 2,Butter 200g,Dairy,3,95,72
+2026-06-14,Branch 2,Rice 5kg,Staples,3,420,350
+2026-06-14,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-06-14,Branch 2,Apples 1kg,Produce,2,110,80
+2026-06-14,Branch 2,Apples 1kg,Produce,1,110,80
+2026-06-14,Branch 2,Rice 5kg,Staples,3,420,350
+2026-06-14,Branch 2,Bread,Bakery,2,40,28
+2026-06-14,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-14,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-06-14,Branch 3,Chips,Snacks,3,20,12
+2026-06-14,Branch 3,Eggs (12),Dairy,2,78,60
+2026-06-14,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-14,Branch 3,Butter 200g,Dairy,2,95,72
+2026-06-14,Branch 3,Apples 1kg,Produce,2,110,80
+2026-06-14,Branch 3,Butter 200g,Dairy,2,95,72
+2026-06-14,Branch 3,Butter 200g,Dairy,3,95,72
+2026-06-14,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-14,Branch 3,Bread,Bakery,1,40,28
+2026-06-14,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-14,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-14,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-06-14,Branch 3,Chips,Snacks,3,20,12
+2026-06-14,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-06-14,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-14,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-06-14,Branch 3,Rice 5kg,Staples,2,420,350
+2026-06-14,Branch 3,Chips,Snacks,2,20,12
+2026-06-14,Branch 3,Milk 1L,Dairy,4,32,24
+2026-06-14,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-14,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-06-14,Branch 3,Rice 5kg,Staples,2,420,350
+2026-06-14,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-15,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-06-15,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-06-15,Branch 1,Milk 1L,Dairy,2,32,24
+2026-06-15,Branch 1,Rice 5kg,Staples,1,420,350
+2026-06-15,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-15,Branch 1,Chips,Snacks,3,20,12
+2026-06-15,Branch 1,Eggs (12),Dairy,3,78,60
+2026-06-15,Branch 1,Butter 200g,Dairy,3,95,72
+2026-06-15,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-06-15,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-06-15,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-15,Branch 1,Butter 200g,Dairy,4,95,72
+2026-06-15,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-15,Branch 1,Rice 5kg,Staples,3,420,350
+2026-06-15,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-06-15,Branch 1,Chips,Snacks,2,20,12
+2026-06-15,Branch 1,Chips,Snacks,2,20,12
+2026-06-15,Branch 1,Bread,Bakery,3,40,28
+2026-06-15,Branch 1,Butter 200g,Dairy,4,95,72
+2026-06-15,Branch 1,Rice 5kg,Staples,2,420,350
+2026-06-15,Branch 1,Eggs (12),Dairy,2,78,60
+2026-06-15,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-06-15,Branch 2,Eggs (12),Dairy,4,78,60
+2026-06-15,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-06-15,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-06-15,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-15,Branch 2,Apples 1kg,Produce,1,110,80
+2026-06-15,Branch 2,Rice 5kg,Staples,1,420,350
+2026-06-15,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-15,Branch 2,Butter 200g,Dairy,3,95,72
+2026-06-15,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-06-15,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-15,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-15,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-06-15,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-15,Branch 2,Rice 5kg,Staples,1,420,350
+2026-06-15,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-06-15,Branch 2,Chips,Snacks,2,20,12
+2026-06-15,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-15,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-06-15,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-15,Branch 3,Rice 5kg,Staples,3,420,350
+2026-06-15,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-15,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-15,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-15,Branch 3,Bread,Bakery,1,40,28
+2026-06-15,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-15,Branch 3,Butter 200g,Dairy,3,95,72
+2026-06-15,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-06-15,Branch 3,Apples 1kg,Produce,4,110,80
+2026-06-15,Branch 3,Apples 1kg,Produce,4,110,80
+2026-06-15,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-06-15,Branch 3,Rice 5kg,Staples,2,420,350
+2026-06-15,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-15,Branch 3,Eggs (12),Dairy,2,78,60
+2026-06-15,Branch 3,Apples 1kg,Produce,1,110,80
+2026-06-15,Branch 3,Butter 200g,Dairy,2,95,72
+2026-06-15,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-15,Branch 3,Bread,Bakery,1,40,28
+2026-06-15,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-15,Branch 3,Milk 1L,Dairy,4,32,24
+2026-06-15,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-16,Branch 1,Bread,Bakery,3,40,28
+2026-06-16,Branch 1,Chips,Snacks,2,20,12
+2026-06-16,Branch 1,Bread,Bakery,4,40,28
+2026-06-16,Branch 1,Apples 1kg,Produce,2,110,80
+2026-06-16,Branch 1,Butter 200g,Dairy,3,95,72
+2026-06-16,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-06-16,Branch 1,Eggs (12),Dairy,2,78,60
+2026-06-16,Branch 1,Milk 1L,Dairy,1,32,24
+2026-06-16,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-16,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-16,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-16,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-06-16,Branch 1,Eggs (12),Dairy,2,78,60
+2026-06-16,Branch 1,Chips,Snacks,4,20,12
+2026-06-16,Branch 1,Chips,Snacks,4,20,12
+2026-06-16,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-16,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-06-16,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-06-16,Branch 2,Bread,Bakery,4,40,28
+2026-06-16,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-16,Branch 2,Rice 5kg,Staples,3,420,350
+2026-06-16,Branch 2,Eggs (12),Dairy,3,78,60
+2026-06-16,Branch 2,Milk 1L,Dairy,1,32,24
+2026-06-16,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-06-16,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-06-16,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-06-16,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-06-16,Branch 2,Apples 1kg,Produce,1,110,80
+2026-06-16,Branch 2,Rice 5kg,Staples,3,420,350
+2026-06-16,Branch 2,Chips,Snacks,2,20,12
+2026-06-16,Branch 3,Milk 1L,Dairy,3,32,24
+2026-06-16,Branch 3,Butter 200g,Dairy,4,95,72
+2026-06-16,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-06-16,Branch 3,Rice 5kg,Staples,2,420,350
+2026-06-16,Branch 3,Eggs (12),Dairy,4,78,60
+2026-06-16,Branch 3,Rice 5kg,Staples,2,420,350
+2026-06-16,Branch 3,Apples 1kg,Produce,1,110,80
+2026-06-16,Branch 3,Rice 5kg,Staples,2,420,350
+2026-06-16,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-06-16,Branch 3,Apples 1kg,Produce,3,110,80
+2026-06-16,Branch 3,Rice 5kg,Staples,2,420,350
+2026-06-16,Branch 3,Bread,Bakery,2,40,28
+2026-06-16,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-16,Branch 3,Bread,Bakery,4,40,28
+2026-06-16,Branch 3,Chips,Snacks,4,20,12
+2026-06-16,Branch 3,Apples 1kg,Produce,4,110,80
+2026-06-16,Branch 3,Butter 200g,Dairy,3,95,72
+2026-06-16,Branch 3,Milk 1L,Dairy,2,32,24
+2026-06-16,Branch 3,Milk 1L,Dairy,1,32,24
+2026-06-17,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-17,Branch 1,Apples 1kg,Produce,3,110,80
+2026-06-17,Branch 1,Eggs (12),Dairy,4,78,60
+2026-06-17,Branch 1,Milk 1L,Dairy,2,32,24
+2026-06-17,Branch 1,Bread,Bakery,2,40,28
+2026-06-17,Branch 1,Milk 1L,Dairy,4,32,24
+2026-06-17,Branch 1,Butter 200g,Dairy,3,95,72
+2026-06-17,Branch 1,Rice 5kg,Staples,3,420,350
+2026-06-17,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-06-17,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-06-17,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-06-17,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-17,Branch 1,Apples 1kg,Produce,4,110,80
+2026-06-17,Branch 1,Bread,Bakery,4,40,28
+2026-06-17,Branch 1,Eggs (12),Dairy,2,78,60
+2026-06-17,Branch 1,Apples 1kg,Produce,4,110,80
+2026-06-17,Branch 1,Milk 1L,Dairy,1,32,24
+2026-06-17,Branch 1,Butter 200g,Dairy,4,95,72
+2026-06-17,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-06-17,Branch 1,Milk 1L,Dairy,2,32,24
+2026-06-17,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-06-17,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-06-17,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-06-17,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-17,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-17,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-06-17,Branch 2,Apples 1kg,Produce,4,110,80
+2026-06-17,Branch 2,Apples 1kg,Produce,2,110,80
+2026-06-17,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-17,Branch 2,Butter 200g,Dairy,1,95,72
+2026-06-17,Branch 2,Butter 200g,Dairy,4,95,72
+2026-06-17,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-17,Branch 2,Eggs (12),Dairy,3,78,60
+2026-06-17,Branch 2,Chips,Snacks,1,20,12
+2026-06-17,Branch 2,Rice 5kg,Staples,2,420,350
+2026-06-17,Branch 2,Milk 1L,Dairy,1,32,24
+2026-06-17,Branch 2,Chips,Snacks,4,20,12
+2026-06-17,Branch 2,Chips,Snacks,2,20,12
+2026-06-17,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-17,Branch 3,Butter 200g,Dairy,2,95,72
+2026-06-17,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-17,Branch 3,Chips,Snacks,3,20,12
+2026-06-17,Branch 3,Milk 1L,Dairy,1,32,24
+2026-06-17,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-06-17,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-17,Branch 3,Eggs (12),Dairy,4,78,60
+2026-06-17,Branch 3,Butter 200g,Dairy,3,95,72
+2026-06-17,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-06-17,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-17,Branch 3,Milk 1L,Dairy,4,32,24
+2026-06-17,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-06-17,Branch 3,Apples 1kg,Produce,1,110,80
+2026-06-17,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-06-17,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-06-17,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-06-17,Branch 3,Butter 200g,Dairy,2,95,72
+2026-06-18,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-18,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-06-18,Branch 1,Apples 1kg,Produce,2,110,80
+2026-06-18,Branch 1,Bread,Bakery,2,40,28
+2026-06-18,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-06-18,Branch 1,Apples 1kg,Produce,3,110,80
+2026-06-18,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-06-18,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-06-18,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-18,Branch 1,Chips,Snacks,3,20,12
+2026-06-18,Branch 1,Chips,Snacks,2,20,12
+2026-06-18,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-06-18,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-06-18,Branch 1,Butter 200g,Dairy,4,95,72
+2026-06-18,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-06-18,Branch 1,Chips,Snacks,3,20,12
+2026-06-18,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-06-18,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-18,Branch 2,Bread,Bakery,1,40,28
+2026-06-18,Branch 2,Milk 1L,Dairy,2,32,24
+2026-06-18,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-18,Branch 2,Butter 200g,Dairy,1,95,72
+2026-06-18,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-06-18,Branch 2,Bread,Bakery,1,40,28
+2026-06-18,Branch 3,Chips,Snacks,4,20,12
+2026-06-18,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-06-18,Branch 3,Milk 1L,Dairy,3,32,24
+2026-06-18,Branch 3,Butter 200g,Dairy,1,95,72
+2026-06-18,Branch 3,Milk 1L,Dairy,2,32,24
+2026-06-18,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-18,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-18,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-06-18,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-06-18,Branch 3,Chips,Snacks,3,20,12
+2026-06-18,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-18,Branch 3,Bread,Bakery,3,40,28
+2026-06-18,Branch 3,Bread,Bakery,2,40,28
+2026-06-18,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-18,Branch 3,Bread,Bakery,2,40,28
+2026-06-18,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-06-18,Branch 3,Butter 200g,Dairy,2,95,72
+2026-06-18,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-06-18,Branch 3,Chips,Snacks,2,20,12
+2026-06-18,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-06-18,Branch 3,Bread,Bakery,3,40,28
+2026-06-18,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-06-18,Branch 3,Bread,Bakery,2,40,28
+2026-06-19,Branch 1,Eggs (12),Dairy,4,78,60
+2026-06-19,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-19,Branch 1,Eggs (12),Dairy,4,78,60
+2026-06-19,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-19,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-19,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-06-19,Branch 1,Rice 5kg,Staples,3,420,350
+2026-06-19,Branch 1,Chips,Snacks,2,20,12
+2026-06-19,Branch 1,Chips,Snacks,2,20,12
+2026-06-19,Branch 1,Rice 5kg,Staples,3,420,350
+2026-06-19,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-06-19,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-19,Branch 1,Milk 1L,Dairy,1,32,24
+2026-06-19,Branch 1,Apples 1kg,Produce,1,110,80
+2026-06-19,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-06-19,Branch 1,Apples 1kg,Produce,1,110,80
+2026-06-19,Branch 1,Apples 1kg,Produce,2,110,80
+2026-06-19,Branch 1,Butter 200g,Dairy,3,95,72
+2026-06-19,Branch 2,Milk 1L,Dairy,3,32,24
+2026-06-19,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-06-19,Branch 2,Bread,Bakery,1,40,28
+2026-06-19,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-19,Branch 2,Eggs (12),Dairy,2,78,60
+2026-06-19,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-19,Branch 2,Chips,Snacks,2,20,12
+2026-06-19,Branch 2,Butter 200g,Dairy,3,95,72
+2026-06-19,Branch 2,Apples 1kg,Produce,1,110,80
+2026-06-19,Branch 2,Chips,Snacks,4,20,12
+2026-06-19,Branch 2,Chips,Snacks,2,20,12
+2026-06-19,Branch 2,Bread,Bakery,3,40,28
+2026-06-19,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-06-19,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-06-19,Branch 2,Chips,Snacks,3,20,12
+2026-06-19,Branch 2,Milk 1L,Dairy,4,32,24
+2026-06-19,Branch 2,Bread,Bakery,1,40,28
+2026-06-19,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-06-19,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-19,Branch 3,Bread,Bakery,2,40,28
+2026-06-19,Branch 3,Chips,Snacks,1,20,12
+2026-06-19,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-19,Branch 3,Apples 1kg,Produce,1,110,80
+2026-06-19,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-06-19,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-06-19,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-19,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-19,Branch 3,Chips,Snacks,1,20,12
+2026-06-19,Branch 3,Butter 200g,Dairy,4,95,72
+2026-06-19,Branch 3,Apples 1kg,Produce,4,110,80
+2026-06-19,Branch 3,Eggs (12),Dairy,2,78,60
+2026-06-20,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-06-20,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-06-20,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-06-20,Branch 1,Apples 1kg,Produce,1,110,80
+2026-06-20,Branch 1,Rice 5kg,Staples,4,420,350
+2026-06-20,Branch 1,Eggs (12),Dairy,2,78,60
+2026-06-20,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-06-20,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-20,Branch 1,Chips,Snacks,2,20,12
+2026-06-20,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-06-20,Branch 1,Butter 200g,Dairy,1,95,72
+2026-06-20,Branch 1,Apples 1kg,Produce,4,110,80
+2026-06-20,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-06-20,Branch 1,Bread,Bakery,4,40,28
+2026-06-20,Branch 1,Rice 5kg,Staples,3,420,350
+2026-06-20,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-06-20,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-20,Branch 1,Chips,Snacks,1,20,12
+2026-06-20,Branch 1,Apples 1kg,Produce,2,110,80
+2026-06-20,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-06-20,Branch 1,Chips,Snacks,2,20,12
+2026-06-20,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-06-20,Branch 2,Butter 200g,Dairy,2,95,72
+2026-06-20,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-06-20,Branch 2,Bread,Bakery,1,40,28
+2026-06-20,Branch 2,Milk 1L,Dairy,2,32,24
+2026-06-20,Branch 2,Chips,Snacks,2,20,12
+2026-06-20,Branch 2,Apples 1kg,Produce,1,110,80
+2026-06-20,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-20,Branch 2,Apples 1kg,Produce,4,110,80
+2026-06-20,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-06-20,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-06-20,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-06-20,Branch 2,Butter 200g,Dairy,3,95,72
+2026-06-20,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-06-20,Branch 2,Chips,Snacks,2,20,12
+2026-06-20,Branch 2,Milk 1L,Dairy,4,32,24
+2026-06-20,Branch 2,Chips,Snacks,1,20,12
+2026-06-20,Branch 2,Apples 1kg,Produce,2,110,80
+2026-06-20,Branch 2,Milk 1L,Dairy,3,32,24
+2026-06-20,Branch 2,Butter 200g,Dairy,3,95,72
+2026-06-20,Branch 2,Milk 1L,Dairy,4,32,24
+2026-06-20,Branch 2,Milk 1L,Dairy,1,32,24
+2026-06-20,Branch 2,Rice 5kg,Staples,3,420,350
+2026-06-20,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-20,Branch 2,Milk 1L,Dairy,3,32,24
+2026-06-20,Branch 2,Rice 5kg,Staples,2,420,350
+2026-06-20,Branch 2,Rice 5kg,Staples,1,420,350
+2026-06-20,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-06-20,Branch 3,Chips,Snacks,1,20,12
+2026-06-20,Branch 3,Eggs (12),Dairy,2,78,60
+2026-06-20,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-06-20,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-20,Branch 3,Milk 1L,Dairy,2,32,24
+2026-06-20,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-06-20,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-06-20,Branch 3,Rice 5kg,Staples,2,420,350
+2026-06-20,Branch 3,Milk 1L,Dairy,3,32,24
+2026-06-20,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-06-20,Branch 3,Apples 1kg,Produce,2,110,80
+2026-06-20,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-06-20,Branch 3,Milk 1L,Dairy,3,32,24
+2026-06-20,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-20,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-06-20,Branch 3,Butter 200g,Dairy,2,95,72
+2026-06-20,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-06-20,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-20,Branch 3,Rice 5kg,Staples,2,420,350
+2026-06-21,Branch 1,Rice 5kg,Staples,2,420,350
+2026-06-21,Branch 1,Chips,Snacks,2,20,12
+2026-06-21,Branch 1,Rice 5kg,Staples,3,420,350
+2026-06-21,Branch 1,Chips,Snacks,3,20,12
+2026-06-21,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-06-21,Branch 1,Butter 200g,Dairy,2,95,72
+2026-06-21,Branch 1,Chips,Snacks,2,20,12
+2026-06-21,Branch 1,Eggs (12),Dairy,3,78,60
+2026-06-21,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-06-21,Branch 2,Rice 5kg,Staples,2,420,350
+2026-06-21,Branch 2,Chips,Snacks,2,20,12
+2026-06-21,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-21,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-06-21,Branch 2,Eggs (12),Dairy,3,78,60
+2026-06-21,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-21,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-06-21,Branch 2,Rice 5kg,Staples,3,420,350
+2026-06-21,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-21,Branch 2,Eggs (12),Dairy,2,78,60
+2026-06-21,Branch 3,Bread,Bakery,2,40,28
+2026-06-21,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-21,Branch 3,Chips,Snacks,3,20,12
+2026-06-21,Branch 3,Chips,Snacks,2,20,12
+2026-06-21,Branch 3,Chips,Snacks,2,20,12
+2026-06-22,Branch 1,Butter 200g,Dairy,1,95,72
+2026-06-22,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-06-22,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-06-22,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-06-22,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-06-22,Branch 1,Rice 5kg,Staples,4,420,350
+2026-06-22,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-06-22,Branch 1,Eggs (12),Dairy,2,78,60
+2026-06-22,Branch 1,Butter 200g,Dairy,1,95,72
+2026-06-22,Branch 1,Rice 5kg,Staples,1,420,350
+2026-06-22,Branch 1,Apples 1kg,Produce,4,110,80
+2026-06-22,Branch 1,Butter 200g,Dairy,2,95,72
+2026-06-22,Branch 1,Butter 200g,Dairy,1,95,72
+2026-06-22,Branch 1,Eggs (12),Dairy,4,78,60
+2026-06-22,Branch 1,Chips,Snacks,4,20,12
+2026-06-22,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-06-22,Branch 1,Butter 200g,Dairy,4,95,72
+2026-06-22,Branch 1,Rice 5kg,Staples,1,420,350
+2026-06-22,Branch 1,Chips,Snacks,4,20,12
+2026-06-22,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-06-22,Branch 1,Chips,Snacks,1,20,12
+2026-06-22,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-06-22,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-22,Branch 1,Milk 1L,Dairy,2,32,24
+2026-06-22,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-06-22,Branch 1,Milk 1L,Dairy,4,32,24
+2026-06-22,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-06-22,Branch 2,Butter 200g,Dairy,3,95,72
+2026-06-22,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-06-22,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-22,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-06-22,Branch 2,Rice 5kg,Staples,3,420,350
+2026-06-22,Branch 2,Chips,Snacks,1,20,12
+2026-06-22,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-06-22,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-06-22,Branch 2,Bread,Bakery,1,40,28
+2026-06-22,Branch 2,Eggs (12),Dairy,2,78,60
+2026-06-22,Branch 2,Rice 5kg,Staples,4,420,350
+2026-06-22,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-06-22,Branch 2,Milk 1L,Dairy,2,32,24
+2026-06-22,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-06-22,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-06-22,Branch 3,Apples 1kg,Produce,3,110,80
+2026-06-22,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-22,Branch 3,Bread,Bakery,1,40,28
+2026-06-22,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-06-22,Branch 3,Bread,Bakery,4,40,28
+2026-06-22,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-06-22,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-22,Branch 3,Milk 1L,Dairy,2,32,24
+2026-06-22,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-06-22,Branch 3,Eggs (12),Dairy,2,78,60
+2026-06-22,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-22,Branch 3,Rice 5kg,Staples,3,420,350
+2026-06-22,Branch 3,Apples 1kg,Produce,4,110,80
+2026-06-22,Branch 3,Apples 1kg,Produce,2,110,80
+2026-06-22,Branch 3,Bread,Bakery,2,40,28
+2026-06-22,Branch 3,Butter 200g,Dairy,1,95,72
+2026-06-22,Branch 3,Chips,Snacks,3,20,12
+2026-06-23,Branch 1,Milk 1L,Dairy,4,32,24
+2026-06-23,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-23,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-06-23,Branch 1,Chips,Snacks,4,20,12
+2026-06-23,Branch 1,Butter 200g,Dairy,2,95,72
+2026-06-23,Branch 1,Chips,Snacks,4,20,12
+2026-06-23,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-23,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-06-23,Branch 1,Chips,Snacks,1,20,12
+2026-06-23,Branch 1,Butter 200g,Dairy,3,95,72
+2026-06-23,Branch 1,Chips,Snacks,2,20,12
+2026-06-23,Branch 1,Milk 1L,Dairy,2,32,24
+2026-06-23,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-23,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-06-23,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-23,Branch 1,Chips,Snacks,3,20,12
+2026-06-23,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-06-23,Branch 1,Milk 1L,Dairy,1,32,24
+2026-06-23,Branch 1,Rice 5kg,Staples,2,420,350
+2026-06-23,Branch 1,Eggs (12),Dairy,3,78,60
+2026-06-23,Branch 1,Chips,Snacks,2,20,12
+2026-06-23,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-06-23,Branch 1,Milk 1L,Dairy,1,32,24
+2026-06-23,Branch 1,Apples 1kg,Produce,3,110,80
+2026-06-23,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-06-23,Branch 1,Bread,Bakery,4,40,28
+2026-06-23,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-06-23,Branch 2,Apples 1kg,Produce,4,110,80
+2026-06-23,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-23,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-23,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-06-23,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-06-23,Branch 2,Butter 200g,Dairy,1,95,72
+2026-06-23,Branch 2,Bread,Bakery,1,40,28
+2026-06-23,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-23,Branch 2,Rice 5kg,Staples,3,420,350
+2026-06-23,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-23,Branch 2,Eggs (12),Dairy,4,78,60
+2026-06-23,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-06-23,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-06-23,Branch 2,Chips,Snacks,2,20,12
+2026-06-23,Branch 3,Apples 1kg,Produce,2,110,80
+2026-06-23,Branch 3,Milk 1L,Dairy,1,32,24
+2026-06-23,Branch 3,Milk 1L,Dairy,4,32,24
+2026-06-23,Branch 3,Bread,Bakery,2,40,28
+2026-06-23,Branch 3,Chips,Snacks,4,20,12
+2026-06-23,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-23,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-06-23,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-06-23,Branch 3,Milk 1L,Dairy,2,32,24
+2026-06-23,Branch 3,Apples 1kg,Produce,3,110,80
+2026-06-23,Branch 3,Bread,Bakery,3,40,28
+2026-06-24,Branch 1,Apples 1kg,Produce,3,110,80
+2026-06-24,Branch 1,Milk 1L,Dairy,1,32,24
+2026-06-24,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-24,Branch 1,Rice 5kg,Staples,1,420,350
+2026-06-24,Branch 1,Eggs (12),Dairy,2,78,60
+2026-06-24,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-24,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-24,Branch 1,Milk 1L,Dairy,2,32,24
+2026-06-24,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-06-24,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-06-24,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-24,Branch 2,Milk 1L,Dairy,3,32,24
+2026-06-24,Branch 2,Chips,Snacks,3,20,12
+2026-06-24,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-06-24,Branch 2,Butter 200g,Dairy,3,95,72
+2026-06-24,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-24,Branch 2,Eggs (12),Dairy,3,78,60
+2026-06-24,Branch 2,Milk 1L,Dairy,3,32,24
+2026-06-24,Branch 2,Rice 5kg,Staples,2,420,350
+2026-06-24,Branch 2,Chips,Snacks,4,20,12
+2026-06-24,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-24,Branch 3,Apples 1kg,Produce,3,110,80
+2026-06-24,Branch 3,Milk 1L,Dairy,3,32,24
+2026-06-24,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-24,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-24,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-06-24,Branch 3,Apples 1kg,Produce,2,110,80
+2026-06-24,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-06-24,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-24,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-06-24,Branch 3,Butter 200g,Dairy,1,95,72
+2026-06-24,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-24,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-24,Branch 3,Butter 200g,Dairy,3,95,72
+2026-06-24,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-06-24,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-06-24,Branch 3,Bread,Bakery,2,40,28
+2026-06-24,Branch 3,Butter 200g,Dairy,1,95,72
+2026-06-24,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-06-24,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-24,Branch 3,Milk 1L,Dairy,3,32,24
+2026-06-24,Branch 3,Milk 1L,Dairy,1,32,24
+2026-06-24,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-06-24,Branch 3,Milk 1L,Dairy,1,32,24
+2026-06-25,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-25,Branch 1,Milk 1L,Dairy,3,32,24
+2026-06-25,Branch 1,Butter 200g,Dairy,3,95,72
+2026-06-25,Branch 1,Butter 200g,Dairy,2,95,72
+2026-06-25,Branch 1,Apples 1kg,Produce,3,110,80
+2026-06-25,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-25,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-06-25,Branch 1,Apples 1kg,Produce,2,110,80
+2026-06-25,Branch 1,Eggs (12),Dairy,3,78,60
+2026-06-25,Branch 1,Bread,Bakery,1,40,28
+2026-06-25,Branch 1,Chips,Snacks,1,20,12
+2026-06-25,Branch 1,Butter 200g,Dairy,3,95,72
+2026-06-25,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-25,Branch 1,Apples 1kg,Produce,2,110,80
+2026-06-25,Branch 1,Apples 1kg,Produce,2,110,80
+2026-06-25,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-25,Branch 1,Apples 1kg,Produce,3,110,80
+2026-06-25,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-06-25,Branch 1,Milk 1L,Dairy,2,32,24
+2026-06-25,Branch 1,Milk 1L,Dairy,4,32,24
+2026-06-25,Branch 1,Milk 1L,Dairy,1,32,24
+2026-06-25,Branch 1,Rice 5kg,Staples,1,420,350
+2026-06-25,Branch 2,Bread,Bakery,4,40,28
+2026-06-25,Branch 2,Rice 5kg,Staples,2,420,350
+2026-06-25,Branch 2,Chips,Snacks,4,20,12
+2026-06-25,Branch 2,Chips,Snacks,3,20,12
+2026-06-25,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-25,Branch 2,Butter 200g,Dairy,1,95,72
+2026-06-25,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-06-25,Branch 2,Bread,Bakery,4,40,28
+2026-06-25,Branch 2,Bread,Bakery,4,40,28
+2026-06-25,Branch 2,Apples 1kg,Produce,4,110,80
+2026-06-25,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-06-25,Branch 2,Butter 200g,Dairy,2,95,72
+2026-06-25,Branch 3,Chips,Snacks,3,20,12
+2026-06-25,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-06-25,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-25,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-06-25,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-25,Branch 3,Bread,Bakery,4,40,28
+2026-06-25,Branch 3,Bread,Bakery,3,40,28
+2026-06-25,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-06-25,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-25,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-06-25,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-25,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-25,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-06-25,Branch 3,Apples 1kg,Produce,4,110,80
+2026-06-25,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-25,Branch 3,Butter 200g,Dairy,2,95,72
+2026-06-25,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-06-25,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-06-25,Branch 3,Bread,Bakery,3,40,28
+2026-06-25,Branch 3,Butter 200g,Dairy,4,95,72
+2026-06-25,Branch 3,Rice 5kg,Staples,3,420,350
+2026-06-26,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-06-26,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-26,Branch 1,Chips,Snacks,4,20,12
+2026-06-26,Branch 1,Bread,Bakery,4,40,28
+2026-06-26,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-06-26,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-06-26,Branch 1,Apples 1kg,Produce,4,110,80
+2026-06-26,Branch 1,Bread,Bakery,1,40,28
+2026-06-26,Branch 1,Chips,Snacks,4,20,12
+2026-06-26,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-06-26,Branch 1,Milk 1L,Dairy,1,32,24
+2026-06-26,Branch 1,Butter 200g,Dairy,2,95,72
+2026-06-26,Branch 1,Chips,Snacks,1,20,12
+2026-06-26,Branch 1,Eggs (12),Dairy,2,78,60
+2026-06-26,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-06-26,Branch 2,Rice 5kg,Staples,4,420,350
+2026-06-26,Branch 2,Butter 200g,Dairy,2,95,72
+2026-06-26,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-06-26,Branch 2,Chips,Snacks,3,20,12
+2026-06-26,Branch 2,Rice 5kg,Staples,3,420,350
+2026-06-26,Branch 2,Bread,Bakery,1,40,28
+2026-06-26,Branch 2,Chips,Snacks,4,20,12
+2026-06-26,Branch 2,Eggs (12),Dairy,3,78,60
+2026-06-26,Branch 2,Milk 1L,Dairy,3,32,24
+2026-06-26,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-06-26,Branch 2,Milk 1L,Dairy,3,32,24
+2026-06-26,Branch 2,Bread,Bakery,3,40,28
+2026-06-26,Branch 2,Milk 1L,Dairy,2,32,24
+2026-06-26,Branch 2,Rice 5kg,Staples,4,420,350
+2026-06-26,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-06-26,Branch 2,Rice 5kg,Staples,4,420,350
+2026-06-26,Branch 2,Rice 5kg,Staples,2,420,350
+2026-06-26,Branch 2,Eggs (12),Dairy,4,78,60
+2026-06-26,Branch 2,Eggs (12),Dairy,2,78,60
+2026-06-26,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-06-26,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-06-26,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-26,Branch 3,Eggs (12),Dairy,2,78,60
+2026-06-26,Branch 3,Milk 1L,Dairy,1,32,24
+2026-06-26,Branch 3,Milk 1L,Dairy,2,32,24
+2026-06-26,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-06-26,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-26,Branch 3,Eggs (12),Dairy,4,78,60
+2026-06-26,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-06-26,Branch 3,Chips,Snacks,2,20,12
+2026-06-26,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-06-26,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-06-26,Branch 3,Rice 5kg,Staples,3,420,350
+2026-06-26,Branch 3,Butter 200g,Dairy,2,95,72
+2026-06-26,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-26,Branch 3,Chips,Snacks,4,20,12
+2026-06-26,Branch 3,Butter 200g,Dairy,3,95,72
+2026-06-27,Branch 1,Rice 5kg,Staples,3,420,350
+2026-06-27,Branch 1,Milk 1L,Dairy,1,32,24
+2026-06-27,Branch 1,Chips,Snacks,4,20,12
+2026-06-27,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-06-27,Branch 1,Chips,Snacks,4,20,12
+2026-06-27,Branch 1,Bread,Bakery,2,40,28
+2026-06-27,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-06-27,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-06-27,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-06-27,Branch 1,Butter 200g,Dairy,4,95,72
+2026-06-27,Branch 1,Bread,Bakery,3,40,28
+2026-06-27,Branch 1,Chips,Snacks,1,20,12
+2026-06-27,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-06-27,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-27,Branch 1,Tomatoes 1kg,Produce,4,45,30
+2026-06-27,Branch 1,Chips,Snacks,3,20,12
+2026-06-27,Branch 1,Rice 5kg,Staples,3,420,350
+2026-06-27,Branch 1,Apples 1kg,Produce,3,110,80
+2026-06-27,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-27,Branch 1,Chips,Snacks,3,20,12
+2026-06-27,Branch 2,Chips,Snacks,3,20,12
+2026-06-27,Branch 2,Milk 1L,Dairy,4,32,24
+2026-06-27,Branch 2,Chips,Snacks,2,20,12
+2026-06-27,Branch 2,Chips,Snacks,1,20,12
+2026-06-27,Branch 2,Apples 1kg,Produce,1,110,80
+2026-06-27,Branch 2,Apples 1kg,Produce,4,110,80
+2026-06-27,Branch 2,Bread,Bakery,2,40,28
+2026-06-27,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-06-27,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-27,Branch 2,Eggs (12),Dairy,3,78,60
+2026-06-27,Branch 2,Apples 1kg,Produce,3,110,80
+2026-06-27,Branch 2,Milk 1L,Dairy,1,32,24
+2026-06-27,Branch 2,Chips,Snacks,2,20,12
+2026-06-27,Branch 2,Chips,Snacks,2,20,12
+2026-06-27,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-27,Branch 2,Eggs (12),Dairy,3,78,60
+2026-06-27,Branch 2,Butter 200g,Dairy,4,95,72
+2026-06-27,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-27,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-27,Branch 2,Eggs (12),Dairy,2,78,60
+2026-06-27,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-06-27,Branch 2,Rice 5kg,Staples,2,420,350
+2026-06-27,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-06-27,Branch 2,Butter 200g,Dairy,3,95,72
+2026-06-27,Branch 2,Milk 1L,Dairy,3,32,24
+2026-06-27,Branch 2,Bread,Bakery,1,40,28
+2026-06-27,Branch 2,Eggs (12),Dairy,4,78,60
+2026-06-27,Branch 2,Rice 5kg,Staples,4,420,350
+2026-06-27,Branch 2,Apples 1kg,Produce,4,110,80
+2026-06-27,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-06-27,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-27,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-06-27,Branch 3,Eggs (12),Dairy,4,78,60
+2026-06-27,Branch 3,Milk 1L,Dairy,3,32,24
+2026-06-27,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-06-27,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-06-27,Branch 3,Bread,Bakery,3,40,28
+2026-06-27,Branch 3,Rice 5kg,Staples,3,420,350
+2026-06-27,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-06-27,Branch 3,Apples 1kg,Produce,1,110,80
+2026-06-27,Branch 3,Apples 1kg,Produce,4,110,80
+2026-06-27,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-27,Branch 3,Chips,Snacks,2,20,12
+2026-06-27,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-06-27,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-27,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-27,Branch 3,Milk 1L,Dairy,1,32,24
+2026-06-27,Branch 3,Milk 1L,Dairy,4,32,24
+2026-06-27,Branch 3,Bread,Bakery,1,40,28
+2026-06-27,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-06-27,Branch 3,Butter 200g,Dairy,3,95,72
+2026-06-27,Branch 3,Apples 1kg,Produce,2,110,80
+2026-06-27,Branch 3,Milk 1L,Dairy,1,32,24
+2026-06-27,Branch 3,Chips,Snacks,1,20,12
+2026-06-27,Branch 3,Milk 1L,Dairy,2,32,24
+2026-06-27,Branch 3,Chips,Snacks,1,20,12
+2026-06-28,Branch 1,Bread,Bakery,1,40,28
+2026-06-28,Branch 1,Chips,Snacks,2,20,12
+2026-06-28,Branch 1,Rice 5kg,Staples,2,420,350
+2026-06-28,Branch 1,Bread,Bakery,2,40,28
+2026-06-28,Branch 1,Apples 1kg,Produce,3,110,80
+2026-06-28,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-06-28,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-06-28,Branch 1,Rice 5kg,Staples,3,420,350
+2026-06-28,Branch 1,Apples 1kg,Produce,2,110,80
+2026-06-28,Branch 1,Bread,Bakery,3,40,28
+2026-06-28,Branch 1,Milk 1L,Dairy,4,32,24
+2026-06-28,Branch 1,Rice 5kg,Staples,3,420,350
+2026-06-28,Branch 1,Milk 1L,Dairy,3,32,24
+2026-06-28,Branch 1,Apples 1kg,Produce,2,110,80
+2026-06-28,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-06-28,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-06-28,Branch 2,Chips,Snacks,4,20,12
+2026-06-28,Branch 2,Eggs (12),Dairy,4,78,60
+2026-06-28,Branch 2,Bread,Bakery,2,40,28
+2026-06-28,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-06-28,Branch 2,Butter 200g,Dairy,1,95,72
+2026-06-28,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-28,Branch 2,Bread,Bakery,1,40,28
+2026-06-28,Branch 2,Bread,Bakery,1,40,28
+2026-06-28,Branch 2,Chips,Snacks,3,20,12
+2026-06-28,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-06-28,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-06-28,Branch 2,Milk 1L,Dairy,1,32,24
+2026-06-28,Branch 2,Rice 5kg,Staples,3,420,350
+2026-06-28,Branch 2,Eggs (12),Dairy,3,78,60
+2026-06-28,Branch 2,Rice 5kg,Staples,1,420,350
+2026-06-28,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-06-28,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-06-28,Branch 2,Rice 5kg,Staples,1,420,350
+2026-06-28,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-06-28,Branch 2,Milk 1L,Dairy,4,32,24
+2026-06-28,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-06-28,Branch 2,Chips,Snacks,3,20,12
+2026-06-28,Branch 3,Bananas 1kg,Produce,3,60,42
+2026-06-28,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-28,Branch 3,Bread,Bakery,3,40,28
+2026-06-28,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-06-28,Branch 3,Bread,Bakery,4,40,28
+2026-06-28,Branch 3,Apples 1kg,Produce,2,110,80
+2026-06-28,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-28,Branch 3,Rice 5kg,Staples,2,420,350
+2026-06-28,Branch 3,Apples 1kg,Produce,4,110,80
+2026-06-28,Branch 3,Bread,Bakery,3,40,28
+2026-06-28,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-28,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-28,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-28,Branch 3,Butter 200g,Dairy,1,95,72
+2026-06-28,Branch 3,Chips,Snacks,2,20,12
+2026-06-28,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-06-28,Branch 3,Bread,Bakery,3,40,28
+2026-06-28,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-06-28,Branch 3,Milk 1L,Dairy,1,32,24
+2026-06-28,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-06-29,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-06-29,Branch 1,Rice 5kg,Staples,1,420,350
+2026-06-29,Branch 1,Butter 200g,Dairy,4,95,72
+2026-06-29,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-06-29,Branch 1,Chips,Snacks,2,20,12
+2026-06-29,Branch 1,Bread,Bakery,1,40,28
+2026-06-29,Branch 1,Eggs (12),Dairy,4,78,60
+2026-06-29,Branch 1,Milk 1L,Dairy,4,32,24
+2026-06-29,Branch 1,Chips,Snacks,1,20,12
+2026-06-29,Branch 1,Butter 200g,Dairy,2,95,72
+2026-06-29,Branch 1,Milk 1L,Dairy,2,32,24
+2026-06-29,Branch 1,Milk 1L,Dairy,3,32,24
+2026-06-29,Branch 1,Bread,Bakery,4,40,28
+2026-06-29,Branch 1,Chips,Snacks,2,20,12
+2026-06-29,Branch 1,Chips,Snacks,1,20,12
+2026-06-29,Branch 1,Bread,Bakery,1,40,28
+2026-06-29,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-06-29,Branch 2,Bread,Bakery,2,40,28
+2026-06-29,Branch 2,Rice 5kg,Staples,3,420,350
+2026-06-29,Branch 2,Rice 5kg,Staples,3,420,350
+2026-06-29,Branch 2,Bread,Bakery,2,40,28
+2026-06-29,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-06-29,Branch 2,Milk 1L,Dairy,2,32,24
+2026-06-29,Branch 2,Bananas 1kg,Produce,1,60,42
+2026-06-29,Branch 2,Bread,Bakery,3,40,28
+2026-06-29,Branch 2,Eggs (12),Dairy,4,78,60
+2026-06-29,Branch 2,Eggs (12),Dairy,3,78,60
+2026-06-29,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-06-29,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-06-29,Branch 2,Chips,Snacks,1,20,12
+2026-06-29,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-29,Branch 2,Chips,Snacks,4,20,12
+2026-06-29,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-29,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-06-29,Branch 2,Milk 1L,Dairy,1,32,24
+2026-06-29,Branch 2,Eggs (12),Dairy,1,78,60
+2026-06-29,Branch 2,Chips,Snacks,3,20,12
+2026-06-29,Branch 2,Rice 5kg,Staples,4,420,350
+2026-06-29,Branch 2,Eggs (12),Dairy,2,78,60
+2026-06-29,Branch 2,Eggs (12),Dairy,3,78,60
+2026-06-29,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-06-29,Branch 2,Rice 5kg,Staples,2,420,350
+2026-06-29,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-29,Branch 3,Chips,Snacks,2,20,12
+2026-06-29,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-29,Branch 3,Apples 1kg,Produce,3,110,80
+2026-06-29,Branch 3,Rice 5kg,Staples,1,420,350
+2026-06-29,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-06-29,Branch 3,Butter 200g,Dairy,1,95,72
+2026-06-29,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-29,Branch 3,Chips,Snacks,3,20,12
+2026-06-29,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-06-29,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-29,Branch 3,Apples 1kg,Produce,1,110,80
+2026-06-29,Branch 3,Butter 200g,Dairy,1,95,72
+2026-06-29,Branch 3,Eggs (12),Dairy,4,78,60
+2026-06-29,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-06-29,Branch 3,Eggs (12),Dairy,1,78,60
+2026-06-30,Branch 1,Milk 1L,Dairy,3,32,24
+2026-06-30,Branch 1,Apples 1kg,Produce,2,110,80
+2026-06-30,Branch 1,Rice 5kg,Staples,3,420,350
+2026-06-30,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-06-30,Branch 1,Milk 1L,Dairy,1,32,24
+2026-06-30,Branch 1,Milk 1L,Dairy,2,32,24
+2026-06-30,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-30,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-06-30,Branch 1,Bread,Bakery,2,40,28
+2026-06-30,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-06-30,Branch 1,Rice 5kg,Staples,2,420,350
+2026-06-30,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-06-30,Branch 1,Bread,Bakery,3,40,28
+2026-06-30,Branch 1,Butter 200g,Dairy,1,95,72
+2026-06-30,Branch 1,Butter 200g,Dairy,4,95,72
+2026-06-30,Branch 1,Butter 200g,Dairy,4,95,72
+2026-06-30,Branch 1,Butter 200g,Dairy,1,95,72
+2026-06-30,Branch 1,Cooking Oil 1L,Staples,4,165,130
+2026-06-30,Branch 1,Milk 1L,Dairy,4,32,24
+2026-06-30,Branch 1,Eggs (12),Dairy,2,78,60
+2026-06-30,Branch 1,Chips,Snacks,4,20,12
+2026-06-30,Branch 1,Eggs (12),Dairy,4,78,60
+2026-06-30,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-06-30,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-06-30,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-06-30,Branch 1,Butter 200g,Dairy,3,95,72
+2026-06-30,Branch 1,Eggs (12),Dairy,1,78,60
+2026-06-30,Branch 2,Chips,Snacks,1,20,12
+2026-06-30,Branch 2,Apples 1kg,Produce,2,110,80
+2026-06-30,Branch 2,Bread,Bakery,4,40,28
+2026-06-30,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-06-30,Branch 2,Eggs (12),Dairy,3,78,60
+2026-06-30,Branch 2,Butter 200g,Dairy,3,95,72
+2026-06-30,Branch 2,Chips,Snacks,2,20,12
+2026-06-30,Branch 2,Chips,Snacks,2,20,12
+2026-06-30,Branch 2,Chips,Snacks,2,20,12
+2026-06-30,Branch 2,Bread,Bakery,4,40,28
+2026-06-30,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-06-30,Branch 2,Butter 200g,Dairy,4,95,72
+2026-06-30,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-06-30,Branch 2,Milk 1L,Dairy,4,32,24
+2026-06-30,Branch 2,Butter 200g,Dairy,2,95,72
+2026-06-30,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-06-30,Branch 2,Chips,Snacks,2,20,12
+2026-06-30,Branch 2,Chips,Snacks,2,20,12
+2026-06-30,Branch 2,Chips,Snacks,1,20,12
+2026-06-30,Branch 2,Rice 5kg,Staples,1,420,350
+2026-06-30,Branch 3,Milk 1L,Dairy,4,32,24
+2026-06-30,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-30,Branch 3,Rice 5kg,Staples,4,420,350
+2026-06-30,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-06-30,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-06-30,Branch 3,Butter 200g,Dairy,1,95,72
+2026-06-30,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-06-30,Branch 3,Rice 5kg,Staples,2,420,350
+2026-06-30,Branch 3,Eggs (12),Dairy,3,78,60
+2026-06-30,Branch 3,Apples 1kg,Produce,2,110,80
+2026-06-30,Branch 3,Bread,Bakery,1,40,28
+2026-06-30,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-06-30,Branch 3,Eggs (12),Dairy,4,78,60
+2026-06-30,Branch 3,Chips,Snacks,1,20,12
+2026-06-30,Branch 3,Cooking Oil 1L,Staples,4,165,130
+2026-07-01,Branch 1,Eggs (12),Dairy,4,78,60
+2026-07-01,Branch 1,Eggs (12),Dairy,3,78,60
+2026-07-01,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-07-01,Branch 1,Bread,Bakery,4,40,28
+2026-07-01,Branch 1,Bananas 1kg,Produce,1,60,42
+2026-07-01,Branch 1,Apples 1kg,Produce,4,110,80
+2026-07-01,Branch 1,Apples 1kg,Produce,2,110,80
+2026-07-01,Branch 1,Bread,Bakery,3,40,28
+2026-07-01,Branch 1,Milk 1L,Dairy,3,32,24
+2026-07-01,Branch 1,Milk 1L,Dairy,1,32,24
+2026-07-01,Branch 1,Rice 5kg,Staples,3,420,350
+2026-07-01,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-07-01,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-07-01,Branch 1,Eggs (12),Dairy,1,78,60
+2026-07-01,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-07-01,Branch 1,Eggs (12),Dairy,3,78,60
+2026-07-01,Branch 1,Butter 200g,Dairy,1,95,72
+2026-07-01,Branch 1,Cooking Oil 1L,Staples,2,165,130
+2026-07-01,Branch 1,Butter 200g,Dairy,3,95,72
+2026-07-01,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-07-01,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-07-01,Branch 2,Apples 1kg,Produce,1,110,80
+2026-07-01,Branch 2,Bread,Bakery,3,40,28
+2026-07-01,Branch 2,Bananas 1kg,Produce,4,60,42
+2026-07-01,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-07-01,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-07-01,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-07-01,Branch 2,Bread,Bakery,2,40,28
+2026-07-01,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-07-01,Branch 2,Bread,Bakery,4,40,28
+2026-07-01,Branch 2,Eggs (12),Dairy,3,78,60
+2026-07-01,Branch 3,Bread,Bakery,1,40,28
+2026-07-01,Branch 3,Eggs (12),Dairy,3,78,60
+2026-07-01,Branch 3,Bread,Bakery,2,40,28
+2026-07-01,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-07-01,Branch 3,Butter 200g,Dairy,1,95,72
+2026-07-01,Branch 3,Apples 1kg,Produce,4,110,80
+2026-07-01,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-07-01,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-07-01,Branch 3,Rice 5kg,Staples,4,420,350
+2026-07-01,Branch 3,Milk 1L,Dairy,3,32,24
+2026-07-01,Branch 3,Butter 200g,Dairy,1,95,72
+2026-07-01,Branch 3,Milk 1L,Dairy,2,32,24
+2026-07-01,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-07-01,Branch 3,Rice 5kg,Staples,3,420,350
+2026-07-01,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-07-01,Branch 3,Chips,Snacks,4,20,12
+2026-07-01,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-07-02,Branch 1,Chips,Snacks,2,20,12
+2026-07-02,Branch 1,Apples 1kg,Produce,2,110,80
+2026-07-02,Branch 1,Apples 1kg,Produce,2,110,80
+2026-07-02,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-07-02,Branch 1,Apples 1kg,Produce,1,110,80
+2026-07-02,Branch 1,Eggs (12),Dairy,3,78,60
+2026-07-02,Branch 1,Apples 1kg,Produce,4,110,80
+2026-07-02,Branch 1,Eggs (12),Dairy,2,78,60
+2026-07-02,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-07-02,Branch 1,Eggs (12),Dairy,2,78,60
+2026-07-02,Branch 1,Eggs (12),Dairy,2,78,60
+2026-07-02,Branch 1,Butter 200g,Dairy,1,95,72
+2026-07-02,Branch 1,Milk 1L,Dairy,3,32,24
+2026-07-02,Branch 1,Chips,Snacks,2,20,12
+2026-07-02,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-07-02,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-07-02,Branch 2,Butter 200g,Dairy,1,95,72
+2026-07-02,Branch 2,Bananas 1kg,Produce,3,60,42
+2026-07-02,Branch 2,Eggs (12),Dairy,3,78,60
+2026-07-02,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-07-02,Branch 2,Tomatoes 1kg,Produce,3,45,30
+2026-07-02,Branch 2,Bread,Bakery,1,40,28
+2026-07-02,Branch 2,Rice 5kg,Staples,4,420,350
+2026-07-02,Branch 2,Eggs (12),Dairy,4,78,60
+2026-07-02,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-07-02,Branch 2,Milk 1L,Dairy,3,32,24
+2026-07-02,Branch 2,Apples 1kg,Produce,4,110,80
+2026-07-02,Branch 2,Apples 1kg,Produce,2,110,80
+2026-07-02,Branch 2,Chips,Snacks,4,20,12
+2026-07-02,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-07-02,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-07-02,Branch 3,Eggs (12),Dairy,1,78,60
+2026-07-02,Branch 3,Apples 1kg,Produce,1,110,80
+2026-07-02,Branch 3,Rice 5kg,Staples,2,420,350
+2026-07-02,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-07-02,Branch 3,Bread,Bakery,3,40,28
+2026-07-02,Branch 3,Milk 1L,Dairy,2,32,24
+2026-07-02,Branch 3,Chips,Snacks,2,20,12
+2026-07-02,Branch 3,Apples 1kg,Produce,2,110,80
+2026-07-02,Branch 3,Milk 1L,Dairy,1,32,24
+2026-07-02,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-07-02,Branch 3,Bread,Bakery,4,40,28
+2026-07-02,Branch 3,Butter 200g,Dairy,4,95,72
+2026-07-02,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-07-02,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-07-02,Branch 3,Eggs (12),Dairy,4,78,60
+2026-07-02,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-07-02,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-07-03,Branch 1,Apples 1kg,Produce,3,110,80
+2026-07-03,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-07-03,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-07-03,Branch 1,Butter 200g,Dairy,4,95,72
+2026-07-03,Branch 1,Rice 5kg,Staples,4,420,350
+2026-07-03,Branch 1,Apples 1kg,Produce,2,110,80
+2026-07-03,Branch 1,Rice 5kg,Staples,4,420,350
+2026-07-03,Branch 1,Eggs (12),Dairy,1,78,60
+2026-07-03,Branch 1,Eggs (12),Dairy,2,78,60
+2026-07-03,Branch 1,Apples 1kg,Produce,4,110,80
+2026-07-03,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-07-03,Branch 2,Bread,Bakery,4,40,28
+2026-07-03,Branch 2,Bread,Bakery,1,40,28
+2026-07-03,Branch 2,Rice 5kg,Staples,3,420,350
+2026-07-03,Branch 2,Rice 5kg,Staples,2,420,350
+2026-07-03,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-07-03,Branch 2,Chips,Snacks,2,20,12
+2026-07-03,Branch 2,Butter 200g,Dairy,2,95,72
+2026-07-03,Branch 2,Rice 5kg,Staples,3,420,350
+2026-07-03,Branch 2,Tomatoes 1kg,Produce,4,45,30
+2026-07-03,Branch 2,Milk 1L,Dairy,3,32,24
+2026-07-03,Branch 2,Chips,Snacks,3,20,12
+2026-07-03,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-07-03,Branch 2,Butter 200g,Dairy,1,95,72
+2026-07-03,Branch 2,Milk 1L,Dairy,2,32,24
+2026-07-03,Branch 2,Apples 1kg,Produce,3,110,80
+2026-07-03,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-07-03,Branch 2,Apples 1kg,Produce,4,110,80
+2026-07-03,Branch 2,Eggs (12),Dairy,4,78,60
+2026-07-03,Branch 2,Butter 200g,Dairy,1,95,72
+2026-07-03,Branch 2,Bread,Bakery,3,40,28
+2026-07-03,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-07-03,Branch 3,Chips,Snacks,3,20,12
+2026-07-03,Branch 3,Chips,Snacks,4,20,12
+2026-07-03,Branch 3,Chips,Snacks,4,20,12
+2026-07-03,Branch 3,Apples 1kg,Produce,4,110,80
+2026-07-03,Branch 3,Bread,Bakery,3,40,28
+2026-07-03,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-07-03,Branch 3,Apples 1kg,Produce,2,110,80
+2026-07-03,Branch 3,Chips,Snacks,1,20,12
+2026-07-03,Branch 3,Eggs (12),Dairy,3,78,60
+2026-07-03,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-07-03,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-07-03,Branch 3,Milk 1L,Dairy,3,32,24
+2026-07-03,Branch 3,Bananas 1kg,Produce,4,60,42
+2026-07-03,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-07-03,Branch 3,Apples 1kg,Produce,3,110,80
+2026-07-03,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-07-04,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-07-04,Branch 1,Eggs (12),Dairy,1,78,60
+2026-07-04,Branch 1,Chips,Snacks,2,20,12
+2026-07-04,Branch 1,Tomatoes 1kg,Produce,3,45,30
+2026-07-04,Branch 1,Bananas 1kg,Produce,3,60,42
+2026-07-04,Branch 1,Apples 1kg,Produce,3,110,80
+2026-07-04,Branch 1,Bread,Bakery,3,40,28
+2026-07-04,Branch 1,Eggs (12),Dairy,1,78,60
+2026-07-04,Branch 1,Eggs (12),Dairy,3,78,60
+2026-07-04,Branch 1,Bananas 1kg,Produce,4,60,42
+2026-07-04,Branch 1,Rice 5kg,Staples,3,420,350
+2026-07-04,Branch 1,Eggs (12),Dairy,1,78,60
+2026-07-04,Branch 1,Butter 200g,Dairy,2,95,72
+2026-07-04,Branch 1,Tomatoes 1kg,Produce,2,45,30
+2026-07-04,Branch 1,Butter 200g,Dairy,1,95,72
+2026-07-04,Branch 1,Rice 5kg,Staples,4,420,350
+2026-07-04,Branch 1,Bread,Bakery,1,40,28
+2026-07-04,Branch 1,Eggs (12),Dairy,1,78,60
+2026-07-04,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-07-04,Branch 1,Apples 1kg,Produce,3,110,80
+2026-07-04,Branch 2,Eggs (12),Dairy,4,78,60
+2026-07-04,Branch 2,Chips,Snacks,3,20,12
+2026-07-04,Branch 2,Eggs (12),Dairy,3,78,60
+2026-07-04,Branch 2,Milk 1L,Dairy,1,32,24
+2026-07-04,Branch 2,Butter 200g,Dairy,2,95,72
+2026-07-04,Branch 2,Eggs (12),Dairy,2,78,60
+2026-07-04,Branch 2,Apples 1kg,Produce,2,110,80
+2026-07-04,Branch 2,Butter 200g,Dairy,2,95,72
+2026-07-04,Branch 2,Bread,Bakery,4,40,28
+2026-07-04,Branch 2,Bread,Bakery,1,40,28
+2026-07-04,Branch 2,Milk 1L,Dairy,4,32,24
+2026-07-04,Branch 2,Rice 5kg,Staples,1,420,350
+2026-07-04,Branch 2,Butter 200g,Dairy,1,95,72
+2026-07-04,Branch 2,Milk 1L,Dairy,1,32,24
+2026-07-04,Branch 2,Cooking Oil 1L,Staples,1,165,130
+2026-07-04,Branch 2,Apples 1kg,Produce,1,110,80
+2026-07-04,Branch 2,Bread,Bakery,3,40,28
+2026-07-04,Branch 2,Milk 1L,Dairy,1,32,24
+2026-07-04,Branch 2,Bread,Bakery,2,40,28
+2026-07-04,Branch 2,Chips,Snacks,2,20,12
+2026-07-04,Branch 2,Eggs (12),Dairy,3,78,60
+2026-07-04,Branch 2,Milk 1L,Dairy,1,32,24
+2026-07-04,Branch 2,Eggs (12),Dairy,3,78,60
+2026-07-04,Branch 2,Chips,Snacks,3,20,12
+2026-07-04,Branch 2,Bananas 1kg,Produce,2,60,42
+2026-07-04,Branch 2,Tomatoes 1kg,Produce,2,45,30
+2026-07-04,Branch 2,Tomatoes 1kg,Produce,1,45,30
+2026-07-04,Branch 2,Bread,Bakery,1,40,28
+2026-07-04,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-07-04,Branch 3,Butter 200g,Dairy,3,95,72
+2026-07-04,Branch 3,Eggs (12),Dairy,1,78,60
+2026-07-04,Branch 3,Bread,Bakery,2,40,28
+2026-07-04,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-07-04,Branch 3,Bananas 1kg,Produce,2,60,42
+2026-07-04,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-07-04,Branch 3,Eggs (12),Dairy,3,78,60
+2026-07-04,Branch 3,Rice 5kg,Staples,4,420,350
+2026-07-04,Branch 3,Butter 200g,Dairy,2,95,72
+2026-07-04,Branch 3,Rice 5kg,Staples,1,420,350
+2026-07-04,Branch 3,Bananas 1kg,Produce,1,60,42
+2026-07-04,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-07-04,Branch 3,Tomatoes 1kg,Produce,2,45,30
+2026-07-04,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-07-04,Branch 3,Apples 1kg,Produce,1,110,80
+2026-07-04,Branch 3,Bread,Bakery,3,40,28
+2026-07-04,Branch 3,Cooking Oil 1L,Staples,1,165,130
+2026-07-04,Branch 3,Rice 5kg,Staples,3,420,350
+2026-07-04,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-07-04,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-07-04,Branch 3,Tomatoes 1kg,Produce,4,45,30
+2026-07-05,Branch 1,Apples 1kg,Produce,4,110,80
+2026-07-05,Branch 1,Butter 200g,Dairy,1,95,72
+2026-07-05,Branch 1,Cooking Oil 1L,Staples,3,165,130
+2026-07-05,Branch 1,Eggs (12),Dairy,1,78,60
+2026-07-05,Branch 1,Cooking Oil 1L,Staples,1,165,130
+2026-07-05,Branch 1,Rice 5kg,Staples,4,420,350
+2026-07-05,Branch 1,Tomatoes 1kg,Produce,1,45,30
+2026-07-05,Branch 1,Bread,Bakery,2,40,28
+2026-07-05,Branch 1,Rice 5kg,Staples,4,420,350
+2026-07-05,Branch 1,Chips,Snacks,1,20,12
+2026-07-05,Branch 1,Eggs (12),Dairy,1,78,60
+2026-07-05,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-07-05,Branch 1,Bananas 1kg,Produce,2,60,42
+2026-07-05,Branch 1,Chips,Snacks,4,20,12
+2026-07-05,Branch 1,Bread,Bakery,2,40,28
+2026-07-05,Branch 2,Rice 5kg,Staples,4,420,350
+2026-07-05,Branch 2,Apples 1kg,Produce,3,110,80
+2026-07-05,Branch 2,Rice 5kg,Staples,3,420,350
+2026-07-05,Branch 2,Cooking Oil 1L,Staples,4,165,130
+2026-07-05,Branch 2,Cooking Oil 1L,Staples,3,165,130
+2026-07-05,Branch 2,Eggs (12),Dairy,4,78,60
+2026-07-05,Branch 2,Bread,Bakery,1,40,28
+2026-07-05,Branch 2,Apples 1kg,Produce,4,110,80
+2026-07-05,Branch 2,Cooking Oil 1L,Staples,2,165,130
+2026-07-05,Branch 2,Eggs (12),Dairy,1,78,60
+2026-07-05,Branch 2,Bread,Bakery,1,40,28
+2026-07-05,Branch 3,Bread,Bakery,4,40,28
+2026-07-05,Branch 3,Milk 1L,Dairy,2,32,24
+2026-07-05,Branch 3,Rice 5kg,Staples,3,420,350
+2026-07-05,Branch 3,Eggs (12),Dairy,3,78,60
+2026-07-05,Branch 3,Chips,Snacks,1,20,12
+2026-07-05,Branch 3,Bread,Bakery,4,40,28
+2026-07-05,Branch 3,Cooking Oil 1L,Staples,2,165,130
+2026-07-05,Branch 3,Apples 1kg,Produce,4,110,80
+2026-07-05,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-07-05,Branch 3,Tomatoes 1kg,Produce,3,45,30
+2026-07-05,Branch 3,Tomatoes 1kg,Produce,1,45,30
+2026-07-05,Branch 3,Milk 1L,Dairy,4,32,24
+2026-07-05,Branch 3,Bread,Bakery,4,40,28
+2026-07-05,Branch 3,Cooking Oil 1L,Staples,3,165,130
+2026-07-05,Branch 3,Rice 5kg,Staples,4,420,350

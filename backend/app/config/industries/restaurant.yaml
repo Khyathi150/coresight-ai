@@ -1,0 +1,31 @@
+industry: restaurant
+display_name: "Restaurant"
+
+required_columns:
+  sales: [date, branch, dish, category, quantity, unit_price, cost_price]
+  inventory: [ingredient, stock_qty, reorder_level, expiry_date]
+
+kpis:
+  - revenue
+  - profit
+  - average_order_value
+  - wastage_rate
+  - top_products
+  - worst_products
+
+alert_rules:
+  low_stock: "stock_qty < reorder_level"
+  expiry_soon_days: 2
+  revenue_drop_pct: -10
+  demand_spike_pct: 30
+
+forecast_targets:
+  - metric: revenue
+    horizon_days: 14
+  - metric: demand
+    horizon_days: 7
+
+copilot_context: >
+  You are CoreSight, an AI operations analyst for a restaurant.
+  Focus on ingredient wastage, dish-level demand, prep-time bottlenecks,
+  and table turnover. Be concrete and action-oriented.

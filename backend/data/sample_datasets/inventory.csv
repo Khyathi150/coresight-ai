@@ -1,0 +1,11 @@
+product,stock_qty,reorder_level,expiry_date
+Milk 1L,240,52,2026-07-08
+Bread,95,85,2026-07-28
+Eggs (12),160,95,2026-07-12
+Butter 200g,256,77,2026-07-11
+Apples 1kg,164,95,2026-07-19
+Bananas 1kg,254,98,2026-07-10
+Rice 5kg,296,93,2026-07-22
+Cooking Oil 1L,288,93,2026-07-24
+Tomatoes 1kg,297,80,2026-07-22
+Chips,292,60,2026-07-23
