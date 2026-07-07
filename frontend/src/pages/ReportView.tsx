@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useParams } from "react-router-dom";
 
 import {
@@ -27,8 +27,17 @@ const COLORS = [
   "#F59E0B",
 ];
 
+const REPORT_TITLES = {
+  daily: "Daily Report",
+  weekly: "Weekly Report",
+  monthly: "Monthly Report",
+} as const;
+
 export default function ReportView() {
-  const { type } = useParams();
+  const { type = "weekly" } = useParams();
+
+  const reportType =
+    (type as "daily" | "weekly" | "monthly") || "weekly";
 
   const [dashboard, setDashboard] =
     useState<DashboardData | null>(null);
@@ -36,15 +45,60 @@ export default function ReportView() {
   const [forecast, setForecast] =
     useState<ForecastPoint[]>([]);
 
+  const [reportData, setReportData] =
+    useState<any>(null);
+
   const [summary, setSummary] =
     useState("");
+
+  const forecastPoint =
+    forecast[forecast.length - 1];
+
+  const confidence =
+    Math.round(
+      (forecastPoint?.confidence ?? 0) * 100
+    );
+
+  const forecastValue =
+    Math.round(
+      forecastPoint?.value ?? 0
+    );
+
+const latest = dashboard?.latest;
+
+const health =
+  latest && latest.profit > 0
+    ? "Stable"
+    : "Critical";
+
+const priority =
+  (latest?.average_order_value ?? 0) > 500
+    ? "Expansion"
+    : "Growth";
+
+  const pieData = useMemo(() => {
+    if (!dashboard) return [];
+
+    switch (reportType) {
+      case "daily":
+        return dashboard.top_products.slice(0, 3);
+
+      case "weekly":
+        return dashboard.top_products.slice(0, 5);
+
+      default:
+        return dashboard.top_products;
+    }
+  }, [dashboard, reportType]);
 
   useEffect(() => {
   async function load() {
 
-    const dash = await api.getDashboard();
+    const report = await api.getReport(
+      reportType
+    );
 
-    const fore = await api.getForecast();
+    const dash = await api.getDashboard();
 
     const ai = await api.askCopilot(`
 You are the Chief Business Intelligence Officer of a retail company.
@@ -70,7 +124,7 @@ ${dash.top_products
   )
   .join("\n")}
 
-Generate a professional ${type} Executive Business Report.
+Generate a professional ${reportType} Executive Business Report.
 
 The report should include:
 
@@ -110,7 +164,8 @@ Write like a McKinsey or Deloitte business consultant.
 `);
 
     setDashboard(dash);
-    setForecast(fore.series);
+    setReportData(report);
+    setForecast(report.forecast);
     setSummary(ai.answer);
 
   }
@@ -125,6 +180,7 @@ Write like a McKinsey or Deloitte business consultant.
       </div>
     );
   }
+
 
   return (
     <div className="max-w-7xl mx-auto flex flex-col gap-8">
@@ -144,312 +200,390 @@ Write like a McKinsey or Deloitte business consultant.
         </p>
 
       </div>
-
-      <div className="grid grid-cols-2 lg:grid-cols-4 gap-6">
-
-        <div className="panel rounded-2xl p-6">
-          <p className="eyebrow">Revenue</p>
-          <h2 className="text-3xl font-bold mt-2">
-            ₹{Math.round(dashboard.latest.revenue).toLocaleString()}
-          </h2>
-        </div>
-
-        <div className="panel rounded-2xl p-6">
-          <p className="eyebrow">Profit</p>
-          <h2 className="text-3xl font-bold mt-2">
-            ₹{Math.round(dashboard.latest.profit).toLocaleString()}
-          </h2>
-        </div>
-
-        <div className="panel rounded-2xl p-6">
-          <p className="eyebrow">Orders</p>
-          <h2 className="text-3xl font-bold mt-2">
-            {dashboard.latest.orders}
-          </h2>
-        </div>
-
-        <div className="panel rounded-2xl p-6">
-          <p className="eyebrow">Average Order</p>
-          <h2 className="text-3xl font-bold mt-2">
-            ₹{Math.round(dashboard.latest.average_order_value)}
-          </h2>
-        </div>
-
-      </div>
             {/* Charts */}
 
-      <div className="grid xl:grid-cols-2 gap-6">
+{reportType === "daily" ? (
+  <div className="grid lg:grid-cols-3 gap-6">
 
-        {/* Revenue Trend */}
+    <div className="panel rounded-3xl border border-[#202A4B] bg-[#0F172A] p-6 shadow-lg">
 
-        <div className="panel rounded-2xl p-6">
+      <div className="h-1 w-12 rounded-full bg-emerald-400 mb-5" />
 
-          <div className="flex items-center justify-between mb-5">
+      <p className="text-xs uppercase tracking-[0.2em] text-mist-500">
+        Today's Revenue
+      </p>
 
-            <div>
+      <h2 className="text-4xl font-bold mt-4">
+        ₹{Math.round(dashboard.latest.revenue).toLocaleString()}
+      </h2>
 
-              <h2 className="font-display text-xl">
-                Revenue Trend
-              </h2>
+      <p className="text-sm text-emerald-400 mt-3">
+        Latest recorded revenue
+      </p>
 
-              <p className="text-mist-500 text-sm">
-                Revenue over the last 30 business days
-              </p>
+    </div>
 
-            </div>
+    <div className="panel rounded-3xl border border-[#202A4B] bg-[#0F172A] p-6 shadow-lg">
 
-          </div>
+      <div className="h-1 w-12 rounded-full bg-cyan-400 mb-5" />
 
-          <div className="h-80">
+      <p className="text-xs uppercase tracking-[0.2em] text-mist-500">
+        Tomorrow Forecast
+      </p>
 
-            <ResponsiveContainer width="100%" height="100%">
+      <h2 className="text-4xl font-bold mt-4">
+        ₹{forecastValue.toLocaleString()}
+      </h2>
 
-              <LineChart
-                data={dashboard.revenue_series.slice(-30)}
-              >
+      <p className="text-sm text-cyan-400 mt-3">
+        AI predicted revenue
+      </p>
 
-                <CartesianGrid
-                  stroke="#1A2242"
-                  vertical={false}
-                />
+    </div>
 
-                <XAxis dataKey="date" />
+    <div className="panel rounded-3xl border border-[#202A4B] bg-[#0F172A] p-6 shadow-lg">
 
-                <YAxis />
+      <div className="h-1 w-12 rounded-full bg-amber-400 mb-5" />
 
-                <Tooltip />
+      <p className="text-xs uppercase tracking-[0.2em] text-mist-500">
+        Forecast Confidence
+      </p>
 
-                <Line
-                  type="monotone"
-                  dataKey="revenue"
-                  stroke="#E08D2C"
-                  strokeWidth={3}
-                  dot={false}
-                />
+      <h2 className="text-4xl font-bold mt-4">
+        {confidence}%
+      </h2>
 
-              </LineChart>
+      <div className="mt-5 h-2 rounded-full bg-[#1A2242] overflow-hidden">
 
-            </ResponsiveContainer>
-
-          </div>
-
-        </div>
-
-        {/* Forecast */}
-
-        <div className="panel rounded-2xl p-6">
-
-          <div className="flex items-center justify-between mb-5">
-
-            <div>
-
-              <h2 className="font-display text-xl">
-                Revenue Forecast
-              </h2>
-
-              <p className="text-mist-500 text-sm">
-                AI prediction for the next 30 days
-              </p>
-
-            </div>
-
-          </div>
-
-          <div className="h-80">
-
-            <ResponsiveContainer width="100%" height="100%">
-
-              <LineChart data={forecast}>
-
-                <CartesianGrid
-                  stroke="#1A2242"
-                  vertical={false}
-                />
-
-                <XAxis dataKey="date" />
-
-                <YAxis />
-
-                <Tooltip />
-
-                <Line
-                  type="monotone"
-                  dataKey="value"
-                  stroke="#3FB8AF"
-                  strokeWidth={3}
-                  dot={false}
-                />
-
-              </LineChart>
-
-            </ResponsiveContainer>
-
-          </div>
-
-        </div>
+        <div
+          className="h-full rounded-full bg-amber-400"
+          style={{
+            width: `${confidence}%`,
+          }}
+        />
 
       </div>
+
+      <p className="text-sm text-mist-500 mt-3">
+        AI confidence score
+      </p>
+
+    </div>
+
+  </div>
+) : (
+  <div className="grid xl:grid-cols-2 gap-6">
+
+    {/* Revenue Trend */}
+
+    <div className="panel rounded-3xl border border-[#202A4B] p-6">
+
+      <div className="mb-6">
+
+        <h2 className="font-display text-xl">
+          {reportType === "weekly"
+            ? "Revenue Trend"
+            : "Monthly Revenue Trend"}
+        </h2>
+
+        <p className="text-mist-500 text-sm">
+          {reportType === "weekly"
+            ? "Last 7 Days"
+            : "Last 30 Days"}
+        </p>
+
+      </div>
+
+      <div className="h-80">
+
+        <ResponsiveContainer width="100%" height="100%">
+
+          <LineChart data={reportData?.chart || []}>
+
+            <CartesianGrid
+              stroke="#1A2242"
+              vertical={false}
+            />
+
+            <XAxis dataKey="date" />
+
+            <YAxis />
+
+            <Tooltip />
+
+            <Line
+              type="monotone"
+              dataKey="revenue"
+              stroke="#E08D2C"
+              strokeWidth={3}
+              dot={false}
+            />
+
+          </LineChart>
+
+        </ResponsiveContainer>
+
+      </div>
+
+    </div>
+
+    {/* Forecast */}
+
+    <div className="panel rounded-3xl border border-[#202A4B] p-6">
+
+      <div className="mb-6">
+
+        <h2 className="font-display text-xl">
+          {reportType === "weekly"
+            ? "Revenue Forecast"
+            : "30-Day Forecast"}
+        </h2>
+
+        <p className="text-mist-500 text-sm">
+          AI Revenue Projection
+        </p>
+
+      </div>
+
+      <div className="h-80">
+
+        <ResponsiveContainer width="100%" height="100%">
+
+          <LineChart data={forecast}>
+
+            <CartesianGrid
+              stroke="#1A2242"
+              vertical={false}
+            />
+
+            <XAxis dataKey="date" />
+
+            <YAxis />
+
+            <Tooltip />
+
+            <Line
+              type="monotone"
+              dataKey="value"
+              stroke="#3FB8AF"
+              strokeWidth={3}
+              dot={false}
+            />
+
+          </LineChart>
+
+        </ResponsiveContainer>
+
+      </div>
+
+    </div>
+
+  </div>
+)}
 
       {/* Revenue Contribution */}
 
-      <div className="panel rounded-2xl p-6">
+{/* Revenue Breakdown */}
 
-        <div className="flex items-center justify-between mb-6">
+<div className="panel rounded-3xl border border-[#202A4B] bg-[#0F172A] p-8 shadow-lg">
 
-          <div>
+  <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-8">
 
-            <h2 className="font-display text-xl">
-              Revenue Contribution
-            </h2>
+    <div>
 
-            <p className="text-mist-500 text-sm">
-              Percentage contribution of top-performing products
-            </p>
+      <p className="text-xs uppercase tracking-[0.2em] text-mist-500">
+        Revenue Analytics
+      </p>
 
-          </div>
+      <h2 className="font-display text-2xl mt-2">
+        Revenue Breakdown by Product
+      </h2>
 
-        </div>
+      <p className="text-sm text-mist-500 mt-2">
+        Revenue contribution across your highest-performing products.
+      </p>
 
-        <div className="h-[420px]">
+    </div>
 
-          <ResponsiveContainer width="100%" height="100%">
+  </div>
 
-            <PieChart>
+  <div className="h-[440px]">
 
-              <Pie
-                data={dashboard.top_products}
-                dataKey="revenue"
-                nameKey="product"
-                cx="50%"
-                cy="50%"
-                innerRadius={90}
-                outerRadius={145}
-                paddingAngle={3}
-                label={({ name, percent }) =>
-                  `${name} ${(percent! * 100).toFixed(0)}%`
-                }
-                labelLine={false}
-              >
+    <ResponsiveContainer width="100%" height="100%">
 
-                {dashboard.top_products.map((_, index) => (
+      <PieChart>
 
-                  <Cell
-                    key={index}
-                    fill={COLORS[index % COLORS.length]}
-                  />
+        <Pie
+          data={pieData}
+          dataKey="revenue"
+          nameKey="product"
+          cx="50%"
+          cy="50%"
+          innerRadius={95}
+          outerRadius={150}
+          paddingAngle={4}
+          label={({ name, percent }) =>
+            `${String(name).length > 12
+                ? String(name).slice(0, 12) + "…"
+                : name
+            } ${(percent! * 100).toFixed(0)}%`
+          }
+          labelLine={false}
+        >
 
-                ))}
+          {pieData.map((_, index) => (
 
-              </Pie>
+            <Cell
+              key={index}
+              fill={COLORS[index % COLORS.length]}
+            />
 
-              <Tooltip />
+          ))}
 
-              <Legend
-                verticalAlign="bottom"
-                height={40}
-              />
+        </Pie>
 
-            </PieChart>
+        <Tooltip
+          formatter={(value: number) => [
+            `₹${Math.round(value).toLocaleString()}`,
+            "Revenue",
+          ]}
+        />
 
-          </ResponsiveContainer>
+        <Legend
+          verticalAlign="bottom"
+          iconType="circle"
+          wrapperStyle={{
+            paddingTop: 20,
+          }}
+        />
 
-        </div>
+      </PieChart>
 
-      </div>
+    </ResponsiveContainer>
+
+  </div>
+
+</div>
             {/* Executive Business Report */}
 
-      <div className="panel rounded-2xl p-8">
+{/* Executive Business Analysis */}
 
-        <div className="flex items-center justify-between mb-6">
+<div className="panel rounded-3xl border border-[#202A4B] bg-[#0F172A] p-8 shadow-lg">
 
-          <div>
+  <div className="mb-8">
 
-            <h2 className="font-display text-2xl">
-              Executive Business Analysis
-            </h2>
+    <p className="text-xs uppercase tracking-[0.2em] text-mist-500">
+      AI Strategic Insights
+    </p>
 
-            <p className="text-mist-500 mt-2">
-              AI-generated strategic assessment based on live operational data,
-              forecasting models and KPI analysis.
-            </p>
+    <h2 className="font-display text-3xl mt-2">
+      Executive Business Analysis
+    </h2>
 
-          </div>
+    <p className="text-mist-500 mt-3 max-w-3xl">
+      AI-generated assessment of operational performance, revenue trends,
+      forecast reliability and immediate business priorities.
+    </p>
 
-        </div>
+  </div>
 
-        <div className="grid lg:grid-cols-3 gap-6 mb-8">
+  <div className="grid lg:grid-cols-3 gap-6 mb-10">
 
-          <div className="rounded-xl bg-[#10182E] p-5">
+    <div className="rounded-2xl border border-[#202A4B] bg-[#111827] p-6">
 
-            <p className="text-sm text-mist-500">
-              Business Health
-            </p>
+      <div className="h-1 w-10 rounded-full bg-emerald-400 mb-5" />
 
-            <h3 className="text-3xl font-bold mt-2 text-green-400">
-              Stable
-            </h3>
+      <p className="text-xs uppercase tracking-widest text-mist-500">
+        Business Health
+      </p>
 
-            <p className="mt-3 text-sm text-mist-400 leading-7">
-              Revenue and operational KPIs indicate consistent business
-              performance with opportunities for additional growth.
-            </p>
+      <h3 className="text-3xl font-bold text-emerald-400 mt-4">
+          {health}
+      </h3>
 
-          </div>
+      <p className="mt-5 leading-7 text-sm text-mist-400">
+        Revenue and profitability remain healthy with consistent customer
+        activity and balanced operational performance.
+      </p>
 
-          <div className="rounded-xl bg-[#10182E] p-5">
+    </div>
 
-            <p className="text-sm text-mist-500">
-              Forecast Confidence
-            </p>
+    <div className="rounded-2xl border border-[#202A4B] bg-[#111827] p-6">
 
-            <h3 className="text-3xl font-bold mt-2 text-cyan-400">
-              High
-            </h3>
+      <div className="h-1 w-10 rounded-full bg-cyan-400 mb-5" />
 
-            <p className="mt-3 text-sm text-mist-400 leading-7">
-              Forecast models indicate stable trends with predictable
-              revenue behaviour over the coming weeks.
-            </p>
+      <p className="text-xs uppercase tracking-widest text-mist-500">
+        Forecast Confidence
+      </p>
 
-          </div>
+      <h3 className="text-3xl font-bold text-cyan-400 mt-4">
+        {confidence >= 80
+          ? "High"
+          : confidence >= 60
+          ? "Moderate"
+          : "Low"}
+      </h3>
 
-          <div className="rounded-xl bg-[#10182E] p-5">
+      <p className="mt-5 leading-7 text-sm text-mist-400">
+        Forecast models indicate approximately {confidence}% confidence
+        based on historical revenue behaviour.
+      </p>
 
-            <p className="text-sm text-mist-500">
-              Decision Priority
-            </p>
+    </div>
 
-            <h3 className="text-3xl font-bold mt-2 text-amber-400">
-              Medium
-            </h3>
+    <div className="rounded-2xl border border-[#202A4B] bg-[#111827] p-6">
 
-            <p className="mt-3 text-sm text-mist-400 leading-7">
-              Focus on improving product mix, increasing average order value,
-              and reducing operational inefficiencies.
-            </p>
+      <div className="h-1 w-10 rounded-full bg-amber-400 mb-5" />
 
-          </div>
+      <p className="text-xs uppercase tracking-widest text-mist-500">
+        Immediate Priority
+      </p>
 
-        </div>
+      <h3 className="text-3xl font-bold text-amber-400 mt-4">
+        {priority}
+      </h3>
 
-        <div className="border border-[#222B4C] rounded-2xl p-8 bg-[#0D1324]">
+      <p className="mt-5 leading-7 text-sm text-mist-400">
+        Increase average order value, strengthen top-selling products,
+        and improve sales consistency across categories.
+      </p>
 
-          <h3 className="font-display text-xl mb-5">
-            AI Executive Report
-          </h3>
+    </div>
 
-          <div
-            className="text-[15px]
-                       leading-9
-                       whitespace-pre-wrap
-                       text-mist-200"
-          >
-            {summary}
-          </div>
+  </div>
 
-        </div>
+  <div className="rounded-3xl border border-[#202A4B] bg-[#0B1220] p-8">
+
+    <div className="flex items-center justify-between mb-6">
+
+      <div>
+
+        <p className="text-xs uppercase tracking-[0.2em] text-mist-500">
+          Artificial Intelligence
+        </p>
+
+        <h3 className="font-display text-2xl mt-2">
+          AI Executive Report
+        </h3>
 
       </div>
+
+    </div>
+
+    <div
+      className="
+        whitespace-pre-wrap
+        text-[15px]
+        leading-8
+        text-mist-200
+      "
+    >
+      {summary}
+    </div>
+
+  </div>
+
+</div>
 
     </div>
   );

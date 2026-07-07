@@ -2,8 +2,13 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.config.loader import get_industry_config, list_available_industries
 from app.api import (
-    routes_upload, routes_dashboard, routes_forecast,
-    routes_alerts, routes_copilot, routes_reports,
+    routes_upload,
+    routes_dashboard,
+    routes_forecast,
+    routes_alerts,
+    routes_copilot,
+    routes_reports,
+    routes_reports_data,
 )
 
 app = FastAPI(
@@ -25,6 +30,7 @@ app.include_router(routes_forecast.router)
 app.include_router(routes_alerts.router)
 app.include_router(routes_copilot.router)
 app.include_router(routes_reports.router)
+app.include_router(routes_reports_data.router)
 
 
 @app.get("/")

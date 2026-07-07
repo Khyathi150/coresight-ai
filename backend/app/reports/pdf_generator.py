@@ -2,6 +2,7 @@
 Generates a branded PDF report (daily/weekly/monthly) from a Jinja2 HTML
 template rendered with WeasyPrint. No paid service involved.
 """
+
 from jinja2 import Template
 
 try:
@@ -75,11 +76,47 @@ def generate_report_pdf(business_id: str, business_name: str, report_type: str, 
         raise RuntimeError(
             "PDF generation is unavailable because WeasyPrint dependencies are missing."
         )
-    kpis = compute_daily_kpis(business_id).tail(7).to_dict(orient="records")
+
+    daily = compute_daily_kpis(business_id)
+
+    daily["date"] = pd.to_datetime(daily["date"])
+
+    if report_type == "daily":
+        report_df = daily.tail(1)
+
+    elif report_type == "weekly":
+        report_df = daily.tail(7)
+
+    elif report_type == "monthly":
+        report_df = (
+            daily.set_index("date")
+            .resample("ME")
+            .agg({
+                "revenue": "sum",
+                "profit": "sum",
+                "orders": "sum",
+            })
+            .reset_index()
+        )
+
+        report_df["average_order_value"] = (
+            report_df["revenue"] / report_df["orders"]
+        ).round(2)
+
+    else:
+        report_df = daily.tail(7)
+
+    kpis = report_df.to_dict(orient="records")
+
     top, _ = top_and_worst_products(business_id)
     alerts = all_alerts(business_id, config)
     forecast = forecast_revenue(business_id, horizon_days=14)
-    forecast_summary = f"{forecast[-1]['value']} (confidence {forecast[-1]['confidence']})" if forecast else "Not enough data yet"
+
+    forecast_summary = (
+        f"{forecast[-1]['value']} (confidence {forecast[-1]['confidence']})"
+        if forecast
+        else "Not enough data yet"
+    )
 
     html_str = Template(TEMPLATE).render(
         business_name=business_name,

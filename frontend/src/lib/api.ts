@@ -64,6 +64,17 @@ export const api = {
     return res.json();
   },
 
+  getReport: (
+  reportType: "daily" | "weekly" | "monthly",
+  businessId = DEMO_BUSINESS_ID
+) =>
+  request<{
+    chart: any[];
+    forecast: ForecastPoint[];
+    top_products: any[];
+    worst_products: any[];
+  }>(`/report-data/${businessId}/${reportType}`),
+
   reportUrl: (businessId = DEMO_BUSINESS_ID, type = "weekly") =>
     `${BASE_URL}/reports/${businessId}/generate?report_type=${type}`,
 };
