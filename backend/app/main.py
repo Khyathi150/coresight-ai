@@ -10,6 +10,9 @@ from app.api import (
     routes_reports,
     routes_reports_data,
 )
+from app.api.routes_reports_data import router as reports_data_router
+
+app.include_router(reports_data_router)
 
 app = FastAPI(
     title="CoreSight AI",
