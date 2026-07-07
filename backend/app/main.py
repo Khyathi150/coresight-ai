@@ -12,13 +12,14 @@ from app.api import (
 )
 from app.api.routes_reports_data import router as reports_data_router
 
-app.include_router(reports_data_router)
 
 app = FastAPI(
     title="CoreSight AI",
     description="AI-powered business intelligence, forecasting, and decision support — config-driven across industries.",
     version="0.1.0",
 )
+
+app.include_router(reports_data_router)
 
 app.add_middleware(
     CORSMiddleware,
