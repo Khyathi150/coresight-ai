@@ -191,7 +191,7 @@ Write like a McKinsey or Deloitte business consultant.
           AI Generated Report
         </span>
 
-        <h1 className="font-display text-4xl font-bold mt-2">
+        <h1 className="font-display text-3xl sm:text-4xl font-bold mt-2">
           {type?.toUpperCase()} REPORT
         </h1>
 
@@ -203,9 +203,9 @@ Write like a McKinsey or Deloitte business consultant.
             {/* Charts */}
 
 {reportType === "daily" ? (
-  <div className="grid lg:grid-cols-3 gap-6">
+<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-4 sm:p-6">
 
-    <div className="panel rounded-3xl border border-[#202A4B] bg-[#0F172A] p-6 shadow-lg">
+    <div className="panel rounded-3xl border border-[#202A4B] bg-[#0F172A] p-4 sm:p-6 shadow-lg">
 
       <div className="h-1 w-12 rounded-full bg-emerald-400 mb-5" />
 
@@ -213,7 +213,7 @@ Write like a McKinsey or Deloitte business consultant.
         Today's Revenue
       </p>
 
-      <h2 className="text-4xl font-bold mt-4">
+      <h2 className="text-3xl sm:text-4xl font-bold mt-4">
         ₹{Math.round(dashboard.latest.revenue).toLocaleString()}
       </h2>
 
@@ -223,7 +223,7 @@ Write like a McKinsey or Deloitte business consultant.
 
     </div>
 
-    <div className="panel rounded-3xl border border-[#202A4B] bg-[#0F172A] p-6 shadow-lg">
+    <div className="panel rounded-3xl border border-[#202A4B] bg-[#0F172A] p-4 sm:p-6 shadow-lg">
 
       <div className="h-1 w-12 rounded-full bg-cyan-400 mb-5" />
 
@@ -231,7 +231,7 @@ Write like a McKinsey or Deloitte business consultant.
         Tomorrow Forecast
       </p>
 
-      <h2 className="text-4xl font-bold mt-4">
+      <h2 className="text-3xl sm:text-4xl font-bold mt-4">
         ₹{forecastValue.toLocaleString()}
       </h2>
 
@@ -241,7 +241,7 @@ Write like a McKinsey or Deloitte business consultant.
 
     </div>
 
-    <div className="panel rounded-3xl border border-[#202A4B] bg-[#0F172A] p-6 shadow-lg">
+    <div className="panel rounded-3xl border border-[#202A4B] bg-[#0F172A] p-4 sm:p-6 shadow-lg">
 
       <div className="h-1 w-12 rounded-full bg-amber-400 mb-5" />
 
@@ -249,7 +249,7 @@ Write like a McKinsey or Deloitte business consultant.
         Forecast Confidence
       </p>
 
-      <h2 className="text-4xl font-bold mt-4">
+      <h2 className="text-3xl sm:text-4xl font-bold mt-4">
         {confidence}%
       </h2>
 
@@ -272,11 +272,11 @@ Write like a McKinsey or Deloitte business consultant.
 
   </div>
 ) : (
-  <div className="grid xl:grid-cols-2 gap-6">
+  <div className="grid xl:grid-cols-2 gap-4 sm:p-6">
 
     {/* Revenue Trend */}
 
-    <div className="panel rounded-3xl border border-[#202A4B] p-6">
+    <div className="panel rounded-3xl border border-[#202A4B] p-4 sm:p-6">
 
       <div className="mb-6">
 
@@ -294,7 +294,7 @@ Write like a McKinsey or Deloitte business consultant.
 
       </div>
 
-      <div className="h-80">
+      <div className="h-64 sm:h-72 md:h-80">
 
         <ResponsiveContainer width="100%" height="100%">
 
@@ -305,9 +305,17 @@ Write like a McKinsey or Deloitte business consultant.
               vertical={false}
             />
 
-            <XAxis dataKey="date" />
+            <XAxis
+              dataKey="date"
+              tick={{ fontSize: 10 }}
+              interval="preserveStartEnd"
+              minTickGap={20}
+            />
 
-            <YAxis />
+            <YAxis
+              width={40}
+              tick={{ fontSize: 10 }}
+            />
 
             <Tooltip />
 
@@ -329,7 +337,7 @@ Write like a McKinsey or Deloitte business consultant.
 
     {/* Forecast */}
 
-    <div className="panel rounded-3xl border border-[#202A4B] p-6">
+    <div className="panel rounded-3xl border border-[#202A4B] p-4 sm:p-6">
 
       <div className="mb-6">
 
@@ -345,7 +353,7 @@ Write like a McKinsey or Deloitte business consultant.
 
       </div>
 
-      <div className="h-80">
+      <div className="h-64 sm:h-72 md:h-80">
 
         <ResponsiveContainer width="100%" height="100%">
 
@@ -356,9 +364,17 @@ Write like a McKinsey or Deloitte business consultant.
               vertical={false}
             />
 
-            <XAxis dataKey="date" />
+            <XAxis
+              dataKey="date"
+              tick={{ fontSize: 10 }}
+              interval="preserveStartEnd"
+              minTickGap={20}
+            />
 
-            <YAxis />
+            <YAxis
+              width={40}
+              tick={{ fontSize: 10 }}
+            />
 
             <Tooltip />
 
@@ -385,7 +401,7 @@ Write like a McKinsey or Deloitte business consultant.
 
 {/* Revenue Breakdown */}
 
-<div className="panel rounded-3xl border border-[#202A4B] bg-[#0F172A] p-8 shadow-lg">
+<div className="panel rounded-3xl border border-[#202A4B] bg-[#0F172A] p-4 sm:p-6 md:p-8 shadow-lg">
 
   <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-8">
 
@@ -395,7 +411,7 @@ Write like a McKinsey or Deloitte business consultant.
         Revenue Analytics
       </p>
 
-      <h2 className="font-display text-2xl mt-2">
+      <h2 className="font-display text-xl sm:text-2xl mt-2">
         Revenue Breakdown by Product
       </h2>
 
@@ -407,7 +423,7 @@ Write like a McKinsey or Deloitte business consultant.
 
   </div>
 
-  <div className="h-[440px]">
+  <div className="h-[320px] sm:h-[380px] md:h-[440px]">
 
     <ResponsiveContainer width="100%" height="100%">
 
@@ -419,15 +435,18 @@ Write like a McKinsey or Deloitte business consultant.
           nameKey="product"
           cx="50%"
           cy="50%"
-          innerRadius={95}
-          outerRadius={150}
+          innerRadius="40%"
+          outerRadius="70%"
           paddingAngle={4}
-          label={({ name, percent }) =>
-            `${String(name).length > 12
+          label={({ name, percent }) => {
+            if (window.innerWidth < 640) return "";
+
+            return `${
+              String(name).length > 12
                 ? String(name).slice(0, 12) + "…"
                 : name
-            } ${(percent! * 100).toFixed(0)}%`
-          }
+            } ${(percent! * 100).toFixed(0)}%`;
+          }}
           labelLine={false}
         >
 
@@ -453,7 +472,8 @@ Write like a McKinsey or Deloitte business consultant.
           verticalAlign="bottom"
           iconType="circle"
           wrapperStyle={{
-            paddingTop: 20,
+            paddingTop: 12,
+            fontSize: 12,
           }}
         />
 
@@ -468,7 +488,7 @@ Write like a McKinsey or Deloitte business consultant.
 
 {/* Executive Business Analysis */}
 
-<div className="panel rounded-3xl border border-[#202A4B] bg-[#0F172A] p-8 shadow-lg">
+<div className="panel rounded-3xl border border-[#202A4B] bg-[#0F172A] p-4 sm:p-6 md:p-8 shadow-lg">
 
   <div className="mb-8">
 
@@ -487,9 +507,9 @@ Write like a McKinsey or Deloitte business consultant.
 
   </div>
 
-  <div className="grid lg:grid-cols-3 gap-6 mb-10">
+  <div className="grid lg:grid-cols-3 gap-4 sm:p-6 mb-10">
 
-    <div className="rounded-2xl border border-[#202A4B] bg-[#111827] p-6">
+    <div className="rounded-2xl border border-[#202A4B] bg-[#111827] p-4 sm:p-6">
 
       <div className="h-1 w-10 rounded-full bg-emerald-400 mb-5" />
 
@@ -508,7 +528,7 @@ Write like a McKinsey or Deloitte business consultant.
 
     </div>
 
-    <div className="rounded-2xl border border-[#202A4B] bg-[#111827] p-6">
+    <div className="rounded-2xl border border-[#202A4B] bg-[#111827] p-4 sm:p-6">
 
       <div className="h-1 w-10 rounded-full bg-cyan-400 mb-5" />
 
@@ -531,7 +551,7 @@ Write like a McKinsey or Deloitte business consultant.
 
     </div>
 
-    <div className="rounded-2xl border border-[#202A4B] bg-[#111827] p-6">
+    <div className="rounded-2xl border border-[#202A4B] bg-[#111827] p-4 sm:p-6">
 
       <div className="h-1 w-10 rounded-full bg-amber-400 mb-5" />
 
