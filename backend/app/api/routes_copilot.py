@@ -10,11 +10,28 @@ router = APIRouter(prefix="/copilot", tags=["copilot"])
 def ask_copilot(payload: CopilotRequest):
     try:
         config = get_industry_config()
-        result = ask(payload.business_id, payload.question, config)
+
+        result = ask(
+            payload.business_id,
+            payload.question,
+            config,
+        )
 
         return CopilotResponse(
             answer=result["answer"],
             computed_facts=result["computed_facts"],
+        )
+
+    except Exception as e:
+        import traceback
+
+        print("========== COPILOT ERROR ==========")
+        print(traceback.format_exc())
+        print("===================================")
+
+        raise HTTPException(
+            status_code=500,
+            detail=f"{type(e).__name__}: {str(e)}",
         )
 
     except Exception as e:

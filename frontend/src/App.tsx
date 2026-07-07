@@ -8,7 +8,6 @@ import Forecasts from "./pages/Forecasts";
 import Inventory from "./pages/Inventory";
 import Copilot from "./pages/Copilot";
 import Reports from "./pages/Reports";
-import Alerts from "./pages/Alerts";
 
 function AppShell({ children }: { children: React.ReactNode }) {
   return (

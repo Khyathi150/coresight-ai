@@ -7,8 +7,7 @@ const items = [
   { to: "/inventory", icon: Package, label: "Inventory" },
   { to: "/copilot", icon: MessageSquareText, label: "Copilot" },
   { to: "/reports", icon: FileText, label: "Reports" },
-  { to: "/alerts", icon: Bell, label: "Alerts" },
-];
+  ];
 
 export default function Sidebar() {
   return (
